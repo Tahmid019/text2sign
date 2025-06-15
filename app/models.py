@@ -6,27 +6,12 @@ from torch.utils.data import Dataset, DataLoader
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
-class Text2GlossTransformer(nn.Module):
-    def __init__(self, text_vocab_size, gloss_vocab_size):
-        super().__init__()
-        self.text_embed = nn.Embedding(text_vocab_size, 256)
-        self.gloss_embed = nn.Embedding(gloss_vocab_size, 256)
-        self.transformer = nn.Transformer(
-            d_model=256, nhead=8, num_encoder_layers=3, num_decoder_layers=3
-        ).to(device)
-        self.fc = nn.Linear(256, gloss_vocab_size)
-
-    def forward(self, src, tgt):
-        src = self.text_embed(src).permute(1,0,2) # S, B, E
-        tgt = self.gloss_embed(tgt).permute(1,0,2)
-        tgt_mask = nn.Transformer.generate_square_subsequent_mask(tgt.size(0)).to(device)
-        output = self.transformer(src, tgt, tgt_mask=tgt_mask)
-        return self.fc(output).permute(1,0,2) # B, S, V
-
+# Updated Gloss2Pose model
 class Gloss2Pose(nn.Module):
-    def __init__(self, gloss_vocab_size, pose_dim=51): # 17 key points * 3 (x, y, conf)
+    def __init__(self, gloss_vocab_size, pose_dim=99, max_frames=30):
         super().__init__()
         self.embed = nn.Embedding(gloss_vocab_size, 128)
+        self.max_frames = max_frames
         self.conv = nn.Sequential(
             nn.Conv1d(128, 256, 3, padding=1),
             nn.ReLU(),
@@ -35,10 +20,35 @@ class Gloss2Pose(nn.Module):
             nn.ReLU(),
             nn.Conv1d(512, pose_dim, 3, padding=1)
         )
-
+        # Frame prediction layer
+        self.frame_predictor = nn.Linear(128, max_frames)
+        
     def forward(self, gloss_seq):
-        x = self.embed(gloss_seq).permute(0,2,1) # B, C, S
-        return self.conv(x).permute(0,2,1) # B, S, D
+        x = self.embed(gloss_seq)  # (B, S, E)
+        x = x.mean(dim=1)  # Global average pooling (B, E)
+        
+        # Predict number of frames
+        frame_logits = self.frame_predictor(x)
+        num_frames = torch.argmax(frame_logits, dim=1) + 1  # (B,)
+        
+        # Generate pose sequence
+        x = x.unsqueeze(-1).repeat(1, 1, self.max_frames)  # (B, E, max_frames)
+        x = self.conv(x)  # (B, pose_dim, max_frames)
+        x = x.permute(0, 2, 1)  # (B, max_frames, pose_dim)
+        
+        # Mask extra frames
+        mask = torch.arange(self.max_frames, device=x.device)[None, :] < num_frames[:, None]
+        return x * mask.unsqueeze(-1), num_frames
+
+# Fixed Text2GlossTransformer
+class Text2GlossTransformer(nn.Module):
+    def forward(self, src, tgt):
+        src = self.text_embed(src).permute(1, 0, 2)
+        tgt = self.gloss_embed(tgt).permute(1, 0, 2)
+        tgt_mask = nn.Transformer.generate_square_subsequent_mask(tgt.size(0)).to(device)
+        memory = self.transformer.encoder(src)
+        output = self.transformer.decoder(tgt, memory, tgt_mask=tgt_mask)
+        return self.fc(output).permute(1, 0, 2)
 
 class TextGlossDataset3(Dataset): # takes from .pth
     def __init__(self, processed_path):
@@ -51,6 +61,7 @@ class TextGlossDataset3(Dataset): # takes from .pth
         # Pre‐tokenized (N, max_seq_len)
         self.text_matrix  = data["text_matrix"]
         self.gloss_matrix = data["gloss_matrix"]
+        self.pose_matrix = data['pose_matrix']
 
         assert self.text_matrix.size(0) == self.gloss_matrix.size(0), "Mismatch in example count"
 
@@ -58,9 +69,11 @@ class TextGlossDataset3(Dataset): # takes from .pth
         return self.text_matrix.size(0)
 
     def __getitem__(self, idx):
-        text_indices  = self.text_matrix[idx]
-        gloss_indices = self.gloss_matrix[idx]
-        return text_indices, gloss_indices
+        return {
+            'text': self.text_matrix[idx],
+            'gloss': self.gloss_matrix[idx],
+            'pose': self.pose_matrix[idx]
+        }
 
     def decode_gloss(self, indices):
         return " ".join(

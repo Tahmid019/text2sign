@@ -5,3 +5,6 @@
 /env
 /archive
 /pose_cache
+/old
+pipeTest.ipynb
+/openpose
