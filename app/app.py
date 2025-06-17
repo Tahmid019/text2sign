@@ -182,11 +182,14 @@ def text_to_sign(text, t2g_model, g2p_model, dataset):
     
     return gloss_text, poses
 
+# Streamlit UI
 st.title("Text to Sign Language Translator")
 st.write("Enter text below to see its sign language translation")
 
+# Load models
 t2g_model, g2p_model, dataset = load_models()
 
+# User input
 user_input = st.text_input("Input Text:", "Hello world")
 generate_btn = st.button("Generate Sign Language")
 

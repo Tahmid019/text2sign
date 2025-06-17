@@ -144,9 +144,9 @@ user_text = st.text_input("Enter text:")
 
 if user_text:
     main_video_path = get_video_paths(user_text)
-    video_path = generate_keyframe_skeleton(get_video_paths(user_text)[0])
-    if video_path:
+    # video_path = generate_keyframe_skeleton(get_video_paths(user_text)[0])
+    if 1:
         st.video(main_video_path[0])
-        st.video(video_path)
+        # st.video(video_path)
     else:
         st.error(f"No video found for: {user_text}")

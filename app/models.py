@@ -53,7 +53,7 @@ class Text2GlossTransformer(nn.Module):
 class TextGlossDataset3(Dataset): # takes from .pth
     def __init__(self, processed_path):
         
-        data = torch.load(processed_path, map_location=torch.device("cpu"))
+        data = torch.load(processed_path, map_location=torch.device("cuda:0"))
         self.text_vocab  = data["text_vocab"]
         self.gloss_vocab = data["gloss_vocab"]
         self.inv_gloss   = data["inv_gloss"]
