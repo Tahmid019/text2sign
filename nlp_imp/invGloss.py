@@ -8,7 +8,7 @@ with open(INP, 'r', encoding='utf-8') as f:
 
 inv_gloss = {}
 for key, values in gloss_data.items():
-    inv_gloss[values] = key
+    inv_gloss[values.lower()] = key
 
 with open(OUT, 'w', encoding='utf-8') as f:
     json.dump(inv_gloss, f, ensure_ascii=False, indent=2)

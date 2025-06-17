@@ -1,10 +1,19 @@
 *.pth
 *.mp4
+*.pt
+*.h5
+
+
 /myenv
 *.env
 /env
 /archive
+
+# Cache
 /pose_cache
+/__pycache__
+__pycache__
+
 /old
 pipeTest.ipynb
 /openpose
