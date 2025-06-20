@@ -48,4 +48,4 @@ def get_vid_path(text):
     if vid_path is None:
         raise FileNotFoundError(f"No video file found for {vid_id} in supported formats: {exts}")
     
-    return vid_path
+    return vid_path, score, matched
