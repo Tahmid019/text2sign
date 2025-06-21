@@ -2,6 +2,7 @@ import cv2
 import mediapipe as mp
 import time
 import math
+import numpy as np
 class poseDetector():
     def __init__(self, mode=False, upBody=False, smooth=True,
                  detectionCon=0.5, trackCon=0.5):
@@ -29,6 +30,18 @@ class poseDetector():
                 self.mpDraw.draw_landmarks(img, self.results.pose_landmarks,
                                            self.mpPose.POSE_CONNECTIONS)
         return img
+    
+    def findPose_onlyframe(self, img, draw=True):
+        black_img = np.zeros_like(img)
+        imgRGB = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+        self.results = self.pose.process(imgRGB)
+        if self.results.pose_landmarks:
+            if draw:
+                self.mpDraw.draw_landmarks(black_img, self.results.pose_landmarks,
+                                           self.mpPose.POSE_CONNECTIONS)
+                
+        return black_img
+    
     def findPosition(self, img, draw=True):
         self.lmList = []
         if self.results.pose_landmarks:

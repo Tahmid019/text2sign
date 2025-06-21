@@ -1,5 +1,7 @@
 import streamlit as st
+import os
 from helpers import get_vid_path
+os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 
 st.title("NLP Based Sign Language GIF Generator")
 st.write("Enter text to see its Sign language Translation")
@@ -13,7 +15,7 @@ if reset:
     # st.experimental_rerun()
 
 if user_input and not reset:
-    vid_path, score, matched = get_vid_path(user_input)
+    vid_path, score, matched, keyframe_path = get_vid_path(user_input)
     if vid_path != '':
         if vid_path.lower().endswith(('.mp4', '.webm', '.mov', '.avi')):
             st.video(vid_path)
@@ -21,8 +23,11 @@ if user_input and not reset:
             st.image(vid_path)
         else:
             st.warning(f"Unsupported file type for: {vid_path}")
+        if keyframe_path is not None: st.video(keyframe_path)
+
         st.write(f"Score: {score}")
     else:
         st.error(f"No video found for: {user_input}")
     st.write(f"Matched: {matched}")
+    # print(keyframe_path, vid_path)
         
