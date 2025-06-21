@@ -21,7 +21,7 @@ matplotlib==3.10.3
 mpi4py==4.0.3
 opt_einsum==3.4.0
 pandas==2.3.0
-Pillow==9.5.0
+# Pillow==9.5.0
 Pillow==11.2.1
 pyOpenSSL==25.1.0
 pytest==8.4.1
