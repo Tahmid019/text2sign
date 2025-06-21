@@ -12,6 +12,9 @@ INP = 'nlp_imp/inv_gloss.json'
 KEYDATASET = 'nlp_imp/keyframe_videos'
 KEY_SUFF = 'output_'
 
+KEYDATASET_HAND = 'nlp_imp/keyframe_videos_hand'
+
+
 logging.info(f'Loading json: {INP}')
 with open(INP) as f:
     sentence2vid = json.load(f)
@@ -44,14 +47,21 @@ def get_vid_path(text):
     logging.info(f"Matched “{matched}” (score={score:.2f}) → {vid_id}")
     vid_path = None
     keyframe_path = None
+    keyframe_hand_path = None
     for ext in exts:
         candidate = os.path.join(DATASET_DIR, vid_id + ext)
-        if ext is not '.jpg': keyframe_path = os.path.join(KEYDATASET, KEY_SUFF + vid_id + ".mp4")
-        else: keyframe_path = None
+        if ext is not '.jpg': 
+            keyframe_path = os.path.join(KEYDATASET, KEY_SUFF + vid_id + ".mp4")
+            keyframe_hand_path = os.path.join(KEYDATASET_HAND, KEY_SUFF + vid_id + ".mp4")
+        else: 
+            keyframe_path = None
+            keyframe_hand_path = None
+            
         if os.path.isfile(candidate):
             vid_path = candidate
             break
+        
     if vid_path is None:
         raise FileNotFoundError(f"No video file found for {vid_id} in supported formats: {exts}")
     
-    return vid_path, score, matched, keyframe_path
+    return vid_path, score, matched, keyframe_path, keyframe_hand_path

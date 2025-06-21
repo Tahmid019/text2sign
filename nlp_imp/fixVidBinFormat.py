@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # CURR = os.getcwd()
-VID_DIR = "nlp_imp/keyframe_videos"
+VID_DIR = "nlp_imp/keyframe_videos_hand"
 
 for filenname in os.listdir(VID_DIR):
     if filenname.endswith(".mp4"):
