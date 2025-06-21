@@ -20,11 +20,11 @@ with open(INP) as f:
     sentence2vid = json.load(f)
 
 exts = [".gif", ".mp4", ".webm", ".avi", ".jpg"]
-data = torch.load('nlp_imp/corpus_data.pt')
+data = torch.load('nlp_imp/corpus_data_2.pt')
 sentences = data['sentences']
 corpus_embeddings = data['embeddings']
 
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('all-mpnet-base-v2')
 
 def find_video_id(user_query: str, threshold: float = 0.7):
     query_emb = model.encode(user_query, convert_to_tensor=True)
@@ -44,7 +44,10 @@ def find_video_id(user_query: str, threshold: float = 0.7):
 
 def get_vid_path(text): 
     vid_id, score, matched = find_video_id(text.lower())
+    
     logging.info(f"Matched “{matched}” (score={score:.2f}) → {vid_id}")
+    
+    
     vid_path = None
     keyframe_path = None
     keyframe_hand_path = None
@@ -65,3 +68,17 @@ def get_vid_path(text):
         raise FileNotFoundError(f"No video file found for {vid_id} in supported formats: {exts}")
     
     return vid_path, score, matched, keyframe_path, keyframe_hand_path
+
+
+
+def get_top_k_matches(user_inp: str, k: int = 5):
+    inp_emb = model.encode(user_inp, convert_to_tensor=True)
+    cos_scores = util.cos_sim(inp_emb, corpus_embeddings)[0]
+    
+    topk = torch.topk(cos_scores, k)
+    res = []
+    for score, idx in zip(topk.values, topk.indices):
+        sent = sentences[idx]
+        vid_id = sentence2vid.get(sent, None)
+        res.append((sent, vid_id, score.item()))
+    return res

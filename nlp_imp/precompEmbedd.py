@@ -6,14 +6,14 @@ from tqdm import tqdm
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-INV_GLOSS = 'inv_gloss.json'
+INV_GLOSS = 'nlp_imp/inv_gloss.json'
 
 logging.info(f'Loading json: {INV_GLOSS}')
 with open(INV_GLOSS) as f:
     sentence2vid = json.load(f)
 
 logging.info('Loading Model')
-model = SentenceTransformer('all-MiniLM-L6-v2')
+model = SentenceTransformer('all-mpnet-base-v2')
 
 sentences = list(sentence2vid.keys())
 logging.info(f'Encoding {len(sentences)} sentences...')
@@ -25,6 +25,6 @@ for sentence in tqdm(sentences, desc="Encoding sentences"):
 
 corpus_embeddings = torch.stack(corpus_embeddings)
 
-output_path = 'corpus_data.pt'
+output_path = 'corpus_data_2.pt'
 torch.save({'sentences': sentences, 'embeddings': corpus_embeddings}, output_path)
 logging.info(f'Saved embeddings and sentences to {output_path}')
