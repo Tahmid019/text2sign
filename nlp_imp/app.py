@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 from helpers import get_vid_path, get_top_k_matches
+
 os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 
 st.title("NLP Based Sign Language GIF Generator")
