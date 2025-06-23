@@ -20,7 +20,7 @@ with open(INP) as f:
     sentence2vid = json.load(f)
 
 exts = [".gif", ".mp4", ".webm", ".avi", ".jpg"]
-data = torch.load('nlp_imp/corpus_data_2.pt')
+data = torch.load('nlp_imp/corpus_data_2.pt', map_location=torch.device('cpu'))
 sentences = data['sentences']
 corpus_embeddings = data['embeddings']
 
