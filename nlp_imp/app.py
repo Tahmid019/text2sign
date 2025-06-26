@@ -26,7 +26,6 @@ if user_input and not reset:
     ]
     choice = st.selectbox("", options)
 
-    # Extract chosen sentence and score separately
     chosen_sent = choice.split(" (score")[0]
     chosen_score_str = choice.split("score=")[-1].rstrip(")")
     chosen_score = float(chosen_score_str)
