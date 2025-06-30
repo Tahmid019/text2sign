@@ -2,7 +2,7 @@ keras
 keyboard
 logging
 numpy
-opencv_python
+opencv-python-headless
 pyttsx3
 sentence_transformers
 streamlit
@@ -10,4 +10,4 @@ mediapipe
 torch
 tensorflow
 tf-keras
-streamlit_webrtc
+streamlit-webrtc
