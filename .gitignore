@@ -5,7 +5,7 @@
 
 # app/models
 !Final.h5
-!my_model_update.h5
+!my_model_updated.h5
 
 /myenv
 *.env

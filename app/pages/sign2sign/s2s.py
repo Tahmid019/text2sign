@@ -25,6 +25,7 @@ class WebRTCSignDetector(VideoTransformerBase):
         # Load model and TTS
         self.model = load_model(MODEL_PATH)
         self.engine = init_tts_engine()
+        self.last_prediction = None
         # MediaPipe holistic setup
         self.holistic = mp.solutions.holistic.Holistic(
             min_detection_confidence=0.7,
@@ -33,7 +34,6 @@ class WebRTCSignDetector(VideoTransformerBase):
         # Buffers and state
         self.frame_buffer = []
         self.sentence = []
-        self.last_prediction = None
         self.cooldown = 0
         self.cooldown_thresh = 20
         self.skip_after_detect = 5
@@ -97,7 +97,10 @@ def s2s():
             rtc_configuration={"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]}
         )
         if webrtc_ctx.state.playing and webrtc_ctx.video_transformer:
-            text_placeholder.markdown(f"### Detected: `{webrtc_ctx.video_transformer.last_prediction or ''}`")
+            text_placeholder.markdown(
+                f"### Detected: `{getattr(webrtc_ctx.video_transformer, 'last_prediction', '')}`"
+            )
+
 
     # --- Right Column: T2SL Text to Sign ---
     with right_col:
