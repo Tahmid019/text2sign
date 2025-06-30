@@ -6,6 +6,14 @@ import logging
 
 import streamlit as st
 
+import numpy as np
+import cv2
+from keras.models import load_model
+import keyboard
+import pyttsx3 
+
+
+
 __all__ = [
     "json",
     "os",
@@ -14,4 +22,9 @@ __all__ = [
     "logging",
     
     "st",
+    "cv2",
+    "np",
+    "load_model",
+    "keyboard",
+    "pyttsx3",
 ]

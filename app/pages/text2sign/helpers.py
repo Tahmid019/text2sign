@@ -14,7 +14,7 @@ with open(INP) as f:
     sentence2vid = json.load(f)
 
 exts = T2SL_EXTS
-data = torch.load(f'{PROJECT_ROOT}/{DATASET_DIR}/{CORPUS_DATASET}_2.pt')
+data = torch.load(f'{PROJECT_ROOT}/{DATASET_DIR}/{CORPUS_DATASET}_2.pt',  map_location=torch.device('cpu'))
 sentences = data['sentences']
 corpus_embeddings = data['embeddings']
 

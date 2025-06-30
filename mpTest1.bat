@@ -1,0 +1,1 @@
+python mediapipe_service\app\mediapipe_api.py

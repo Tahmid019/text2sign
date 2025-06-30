@@ -1,0 +1,8 @@
+Flask
+keras
+keyboard
+mediapipe
+numpy
+opencv_python
+pyttsx3
+tensorflow

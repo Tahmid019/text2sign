@@ -3,11 +3,15 @@
 # *.pt
 *.h5
 
+# app/models
+!Final.h5
+!my_model_update.h5
 
 /myenv
 *.env
 /env
 /archive
+/app_env
 
 # Cache
 /pose_cache

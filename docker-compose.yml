@@ -1,0 +1,25 @@
+version: '3.12'
+services:
+  mediapipe:
+    build: ./mediapipe_service
+    ports:
+      - "5000:5000"
+    networks:
+      - app-net
+
+  streamlit:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app  
+    environment:
+      - MEDIAPIPE_URL=http://mediapipe:5000
+    networks:
+      - app-net
+    depends_on:
+      - mediapipe
+
+networks:
+  app-net:
+    driver: bridge
