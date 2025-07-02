@@ -12,6 +12,7 @@
 /env
 /archive
 /app_env
+/train_env
 
 # Cache
 /pose_cache
