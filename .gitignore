@@ -14,6 +14,8 @@
 /app_env
 /train_env
 
+/logs
+
 # Cache
 /pose_cache
 /__pycache__
@@ -33,4 +35,8 @@ keyframe_videos_old
 !keyframe_videos_hand
 !/keyframe_videos
 !/keyframe_videos_hand
+
+# Train
+/Train/checkpoints
+/Train/logs
 

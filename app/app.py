@@ -1,7 +1,7 @@
 from imports import *
 from config import *
 from pages.text2sign.t2sl import t2sl
-# from pages.sign2text.MediaPipeClient import MediaPipeClient
+from pages.sign2text.func import s2t
 from pages.sign2sign.s2s import s2s
 # from text2sign import *
 
@@ -11,16 +11,22 @@ from pages.sign2sign.s2s import s2s
 os.environ["PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION"] = "python"
 
 def intro():
-    st.write("Application")
+    st.write("""
+    ## Welcome to the Text2Sign Application
+
+    In the sidebar, you will find three modules:
+    - **T2SL (Text to Sign Language):** Convert written text into sign language representations.
+    - **SL2T (Sign Language to Text):** Translate sign language gestures or videos into written text.
+    - **S2S (Sign to Sign):** Transform one sign language format or style into another.
+
+    Use the sidebar to select and access any of these modules as per your needs.
+    """)
     
-# def sl2t_process():
-#     result = mp_client.ping_sl2t()
-#     st.json(result)
 
 page_names = {
-    "_" : intro,
+    "Home" : intro,
     "T2SL" : t2sl,
-    # "SL2T" : sl2t_process,
+    "SL2T" : s2t,
     "S2S" : s2s,
 }
 

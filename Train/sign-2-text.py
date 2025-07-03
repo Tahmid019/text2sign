@@ -52,6 +52,7 @@ class SignDataset(Dataset):
     def __init__(self, data_dir, gloss_map, gloss_inv, max_seq_len, feature_dim):
         self.data_dir = data_dir
         self.samples = []
+        self.gloss_map = gloss_map
         self.gloss_inv = gloss_inv
         self.max_seq_len = max_seq_len
         self.feature_dim = feature_dim
@@ -60,8 +61,8 @@ class SignDataset(Dataset):
             for vid in vids:
                 found = False
                 for ext in CONFIG['exTS']:
-                    if ext == '.jpg':
-                        continue
+                    # if ext == '.jpg':
+                    #     continue
                     candidate = Path(self.data_dir) / f"{vid}{ext}"
                     if candidate.exists():
                         self.samples.append((str(candidate), gloss_inv[gloss]))
@@ -116,36 +117,102 @@ class SignDataset(Dataset):
 
 # ---------- MODEL ----------
 class TransformerSignModel(nn.Module):
-    def __init__(self, seq_len, feature_dim, num_classes, d_model=128, nhead=4, num_layers=3):
+    def __init__(
+        self,
+        seq_len,
+        feature_dim,
+        num_classes,
+        d_model=128,
+        nhead=4,
+        num_layers=4,
+        dim_feedforward=256,
+        dropout=0.3,
+        frame_drop_prob=0.1
+    ):
         super().__init__()
+        # Input projection
         self.fc_in = nn.Linear(feature_dim, d_model)
-        pe = self._positional_encoding(seq_len, d_model)
-        self.register_buffer('pos_enc', pe)
-        encoder = nn.TransformerEncoderLayer(d_model, nhead, dim_feedforward=256)
-        self.transformer = nn.TransformerEncoder(encoder, num_layers)
-        self.pool = nn.AdaptiveAvgPool1d(1)
-        self.classifier = nn.Sequential(
-            nn.Dropout(0.3),
-            nn.Linear(d_model, num_classes)
-        )
+        # Learned positional embeddings
+        self.pos_emb = nn.Parameter(torch.zeros(1, seq_len + 1, d_model))  # +1 for cls token
+        # Classification token
+        self.cls_token = nn.Parameter(torch.zeros(1, 1, d_model))
 
-    def _positional_encoding(self, seq_len, d_model):
-        pos = torch.arange(seq_len).unsqueeze(1)
-        i = torch.arange(d_model).unsqueeze(0)
-        angle = pos / (10000 ** (2 * (i//2) / d_model))
-        pe = torch.zeros(seq_len, d_model)
-        pe[:, 0::2] = torch.sin(angle[:, 0::2])
-        pe[:, 1::2] = torch.cos(angle[:, 1::2])
-        return pe.unsqueeze(1)
+        # Single encoder layer template
+        encoder_layer = nn.TransformerEncoderLayer(
+            d_model=d_model,
+            nhead=nhead,
+            dim_feedforward=dim_feedforward,
+            dropout=dropout,
+            activation='gelu',
+            batch_first=False  #  permute manually
+        )
+        # Transformer encoder stack
+        self.transformer = nn.TransformerEncoder(encoder_layer, num_layers)
+
+        # Adaptive frame dropout
+        self.frame_dropout = nn.Dropout(frame_drop_prob)
+        # Classification head: two-layer MLP with LayerNorm
+        self.classifier = nn.Sequential(
+            nn.LayerNorm(d_model),
+            nn.Linear(d_model, d_model // 2),
+            nn.GELU(),
+            nn.Dropout(dropout),
+            nn.Linear(d_model // 2, num_classes)
+        )
 
     def forward(self, x):
         # x: [B, T, F]
-        x = self.fc_in(x) + self.pos_enc.permute(1,0,2)
-        x = x.permute(1,0,2)  # [T,B,D]
-        x = self.transformer(x)
-        x = x.permute(1,2,0)  # [B,D,T]
-        x = self.pool(x).squeeze(-1)
-        return self.classifier(x)
+        B, T, _ = x.size()
+        # project features
+        x = self.fc_in(x)  # [B, T, D]
+        # prepend cls token
+        cls = self.cls_token.expand(B, -1, -1)  # [B, 1, D]
+        x = torch.cat([cls, x], dim=1)  # [B, T+1, D]
+        # add positional embeddings
+        x = x + self.pos_emb[:, : T + 1]
+        # (avoid dropping cls token)
+        x[:, 1:] = self.frame_dropout(x[:, 1:])
+        # transformer expects [S, B, D]
+        x = x.permute(1, 0, 2)  # [T+1, B, D]
+        x = self.transformer(x)  # [T+1, B, D]
+        x = x.permute(1, 0, 2)  # [B, T+1, D]
+        cls_out = x[:, 0, :]  # [B, D]
+        # classification head
+        return self.classifier(cls_out)
+
+class LSTMSignModel(nn.Module):
+    def __init__(self, seq_len, feature_dim, num_classes, lstm_hidden=128, lstm_layers=2, dropout=0.3):
+        super().__init__()
+        # Bi‑LSTM encoder
+        self.lstm = nn.LSTM(
+            input_size=feature_dim,
+            hidden_size=lstm_hidden,
+            num_layers=lstm_layers,
+            batch_first=True,
+            bidirectional=True,
+            dropout=dropout if lstm_layers > 1 else 0.0
+        )
+        # Pool the final hidden states from both directions
+        self.fc = nn.Sequential(
+            nn.LayerNorm(lstm_hidden * 2),
+            nn.Linear(lstm_hidden * 2, lstm_hidden),
+            nn.GELU(),
+            nn.Dropout(dropout),
+            nn.Linear(lstm_hidden, num_classes)
+        )
+
+    def forward(self, x, lengths=None):
+        # x: [B, T, F]
+        # (optional) you can pack_padded_sequence here if you have per‐sample lengths
+        outputs, (hn, cn) = self.lstm(x)
+        # hn: [num_layers*2, B, hidden]
+        # take last layer's forward and backward hidden states
+        last_forward = hn[-2]   # [B, hidden]
+        last_backward = hn[-1]  # [B, hidden]
+        h = torch.cat([last_forward, last_backward], dim=1)  # [B, hidden*2]
+        return self.fc(h)
+
+
 
 # ---------- TRAINING LOOP ----------
 def train_epoch(model, loader, criterion, optimizer, epoch, writer):
@@ -180,7 +247,14 @@ def main():
     loader = DataLoader(dataset, batch_size=CONFIG['BATCH_SIZE'], shuffle=True,
                         num_workers=4, pin_memory=True)
 
-    model = TransformerSignModel(CONFIG['MAX_SEQ_LEN'], CONFIG['FEATURE_DIM'], CONFIG['NUM_CLASSES']).to(device)
+    # model = TransformerSignModel(CONFIG['MAX_SEQ_LEN'], CONFIG['FEATURE_DIM'], CONFIG['NUM_CLASSES']).to(device)
+    model = LSTMSignModel(
+        seq_len    = CONFIG['MAX_SEQ_LEN'],
+        feature_dim= CONFIG['FEATURE_DIM'],
+        num_classes= CONFIG['NUM_CLASSES']
+    ).to(device)
+
+    
     criterion = nn.CrossEntropyLoss()
     optimizer = optim.Adam(model.parameters(), lr=CONFIG['LR'])
 
