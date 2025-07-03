@@ -1,4 +1,5 @@
 import os
+from pathlib import Path
 import json
 import pandas as pd
 import cv2
@@ -13,11 +14,12 @@ from mediapipe import solutions
 from tqdm import tqdm
 
 # from config import *
-
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPO_ROOT = SCRIPT_DIR.parent   # Text2Sign/t2slt
 # ---------- CONFIGURATION ----------
 CONFIG = {
-    "DATA_DIR": "./nlp_imp/ISL_Gifs", 
-    "GLOSS_MAP": "./nlp_imp/gloss_dataset.json",  # JSON mapping: {"word": ["sample1", ...]}
+    "DATA_DIR": str(REPO_ROOT / "nlp_imp" / "ISL_Gifs"), 
+    "GLOSS_MAP": str(REPO_ROOT / "nlp_imp" / "invGlossList.json"),  # JSON mapping: {"word": ["sample1", ...]}
     "BATCH_SIZE": 16,
     "EPOCHS": 50,
     "MAX_SEQ_LEN": 100,
@@ -25,8 +27,14 @@ CONFIG = {
     "NUM_CLASSES": None,
     "LR": 1e-4,
     "CHECKPOINT_DIR": "./Train/checkpoints/",
-    "LOG_DIR": "./Train/logs/"
+    "LOG_DIR": "./Train/logs/",
+    "exTS": ['.jpg', '.gif'],
 }
+
+print("DATA_DIR:", CONFIG["DATA_DIR"])
+print("Exists:", Path(CONFIG["DATA_DIR"]).exists())
+print("Contents:", list(Path(CONFIG["DATA_DIR"]).iterdir())[:5])
+
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f"Using device: {device}")
@@ -48,11 +56,19 @@ class SignDataset(Dataset):
         self.max_seq_len = max_seq_len
         self.feature_dim = feature_dim
         # build index: gloss_map maps word to list of sample IDs
-        for gloss, ids in gloss_map.items():
-            for sid in ids:
-                path = os.path.join(data_dir, sid)
-                if os.path.exists(path):
-                    self.samples.append((path, gloss_inv[gloss]))
+        for gloss, vids in gloss_map.items():
+            for vid in vids:
+                found = False
+                for ext in CONFIG['exTS']:
+                    if ext == '.jpg':
+                        continue
+                    candidate = Path(self.data_dir) / f"{vid}{ext}"
+                    if candidate.exists():
+                        self.samples.append((str(candidate), gloss_inv[gloss]))
+                        found = True
+                        break
+                if not found:
+                    print(f"[WARNING] No file found for ID={vid} in {self.data_dir}")
 
     def __len__(self):
         return len(self.samples)
