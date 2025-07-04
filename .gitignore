@@ -2,6 +2,7 @@
 # *.mp4
 # *.pt
 *.h5
+*.npy
 
 # app/models
 !Final.h5
