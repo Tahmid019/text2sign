@@ -5,7 +5,9 @@ import numpy as np
 import mediapipe as mp
 import pyttsx3
 from keras.models import load_model
+from pages.sign2text.func3 import s2t_main
 
+from config import *
 
 
 from config import PROJECT_ROOT, APP_ROOT, MODEL_DIR
@@ -84,33 +86,42 @@ class WebRTCSignDetector(VideoTransformerBase):
 def s2s():
     st.title("SIgn-2-Sign Interface")
     left_col, right_col = st.columns(2)
+    
+    curr_text = ""
+    
     with left_col:
         st.subheader("SL2T: Real-Time Sign to Text ")
         
-        text_placeholder = st.empty()
+        # text_placeholder = st.empty()
         
-        webrtc_ctx = webrtc_streamer(
-            key="sl2t_stream",
-            video_transformer_factory=WebRTCSignDetector,
-            media_stream_constraints={"video": True, "audio": False},
-            async_transform=True,
-            rtc_configuration={"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]}
-        )
-        if webrtc_ctx.state.playing and webrtc_ctx.video_transformer:
-            text_placeholder.markdown(
-                f"### Detected: `{getattr(webrtc_ctx.video_transformer, 'last_prediction', '')}`"
-            )
+        # webrtc_ctx = webrtc_streamer(
+        #     key="sl2t_stream",
+        #     video_transformer_factory=WebRTCSignDetector,
+        #     media_stream_constraints={"video": True, "audio": False},
+        #     async_transform=True,
+        #     rtc_configuration={"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]}
+        # )
+        # if webrtc_ctx.state.playing and webrtc_ctx.video_transformer:
+        #     text_placeholder.markdown(
+        #         f"### Detected: `{getattr(webrtc_ctx.video_transformer, 'last_prediction', '')}`"
+        #     )
+        curr_text = s2t_main(curr_text)
+        st.write(GLOBAL_CURR_TEXT)
 
 
     # --- Right Column: T2SL Text to Sign ---
     with right_col:
         st.subheader("T2SL: Text to Sign ")
-        user_input = st.text_input("Enter text to translate into Sign Language:")
-        if st.button("Generate Sign Video") and user_input:
+        # user_input = st.text_input("Enter text to translate into Sign Language:")
+        user_input = curr_text
+        if user_input:
             try:
                 from pages.text2sign.t2sl import t2sl
                 video_path = t2sl(user_input)
+                st.write(GLOBAL_NEXT_TEXT)
+                st.write(user_input)
                 st.video(video_path)
                 st.markdown(f"**Input Text:** {user_input}")
             except Exception as e:
                 st.error(f"Error: {e}")
+                

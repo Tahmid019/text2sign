@@ -20,6 +20,9 @@ T2SL_EXTS = [".gif", ".mp4", ".webm", ".avi", ".jpg"]
 MODEL_DIR = 'models'
 
 SL2T_URL = 'http://192.168.1.2:5000'
-# Sign-2-text
+
+
+GLOBAL_CURR_TEXT = "" 
+GLOBAL_NEXT_TEXT = ""
 
  

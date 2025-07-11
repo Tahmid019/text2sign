@@ -1,7 +1,8 @@
 from imports import *
 from config import *
 from pages.text2sign.t2sl import t2sl
-from pages.sign2text.func2 import s2t
+# from pages.sign2text.func2 import s2t
+from pages.sign2text.func3 import s2t
 from pages.sign2sign.s2s import s2s
 # from text2sign import *
 

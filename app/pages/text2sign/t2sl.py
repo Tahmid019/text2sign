@@ -1,12 +1,16 @@
 from imports import *
 from .helpers import *
+from config import *
 
 
-def t2sl():
+def t2sl(outgoing_text = ""):
     st.title("Sign Language GIF Generator")
     st.write("Enter text to see its Sign language Translation")
 
-    user_input = st.text_input("Input Text", "")
+    if outgoing_text is "":
+        user_input = st.text_input("Input Text", "")
+    else: 
+        user_input = outgoing_text
 
     reset = st.button("Reset")
 
@@ -50,5 +54,6 @@ def t2sl():
         else:
             st.error(f"No video found for: {user_input}")
         st.write(f"Matched: {matched}")
+        GLOBAL_NEXT_TEXT = matched
         # print(keyframe_path, vid_path)
         
