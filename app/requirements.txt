@@ -11,3 +11,4 @@ torch
 tensorflow
 tf-keras
 streamlit-webrtc
+streamlit-autorefresh

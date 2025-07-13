@@ -9,7 +9,6 @@ from keras.layers import LSTM, Dense
 
 from config import *
 
-# Initialize MediaPipe Holistic
 mp_holistic = mp.solutions.holistic
 mp_drawing = mp.solutions.drawing_utils
 
@@ -18,7 +17,6 @@ mp_drawing = mp.solutions.drawing_utils
 # Load model (uncomment if you have a saved model)
 # model = load_model('action.h5')
 
-# Or define the model architecture (if you don't have saved .h5)
 @st.cache_resource
 def create_model():
     actions = np.array(['hello', 'thanks', 'iloveyou'])
@@ -32,12 +30,10 @@ def create_model():
     return model
 
 model = create_model()
-model.load_weights('app/models/LSTM_Model1.h5')  # Load weights if available
-
-# 1. New detection variables
+model.load_weights('app/models/LSTM_Model1.h5')  
 
 
-# 2. Function to extract keypoints
+
 def extract_keypoints(results):
     pose = np.array([[res.x, res.y, res.z, res.visibility] for res in results.pose_landmarks.landmark]).flatten() if results.pose_landmarks else np.zeros(33*4)
     face = np.array([[res.x, res.y, res.z] for res in results.face_landmarks.landmark]).flatten() if results.face_landmarks else np.zeros(468*3)
@@ -45,7 +41,6 @@ def extract_keypoints(results):
     rh = np.array([[res.x, res.y, res.z] for res in results.right_hand_landmarks.landmark]).flatten() if results.right_hand_landmarks else np.zeros(21*3)
     return np.concatenate([pose, face, lh, rh])
 
-# 3. Function to draw styled landmarks
 def draw_styled_landmarks(image, results):
     # Draw pose connections
     mp_drawing.draw_landmarks(image, results.pose_landmarks, mp_holistic.POSE_CONNECTIONS,
@@ -68,7 +63,6 @@ def draw_styled_landmarks(image, results):
                              mp_drawing.DrawingSpec(color=(245,66,230), thickness=2, circle_radius=2)
                              ) 
 
-# 4. Function for mediapipe detection
 def mediapipe_detection(image, model):
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB) # COLOR CONVERSION
     image.flags.writeable = False                  # Image no longer writeable
@@ -79,7 +73,6 @@ def mediapipe_detection(image, model):
 
 
 
-# Set mediapipe model 
 def s2t_main(incomming_text = ""):
     actions = np.array(['hello', 'thanks', 'iloveyou'])
     sequence = []
@@ -87,7 +80,6 @@ def s2t_main(incomming_text = ""):
     predictions = []
     threshold = 0.8
     
-    # Initialize webcam
     run = st.checkbox('Start Webcam')
     FRAME_WINDOW = st.image([])
     TEXT_WINDOW = st.empty()
@@ -96,13 +88,10 @@ def s2t_main(incomming_text = ""):
 
     with mp_holistic.Holistic(min_detection_confidence=0.5, min_tracking_confidence=0.5) as holistic:
         while run:
-            # Read feed
             ret, frame = cap.read()
 
-            # Make detections
             image, results = mediapipe_detection(frame, holistic)
             
-            # Draw landmarks
             draw_styled_landmarks(image, results)
             
             # 2. Prediction logic
@@ -126,6 +115,9 @@ def s2t_main(incomming_text = ""):
 
                 if len(sentence) > 5: 
                     sentence = sentence[-5:]
+                    
+                joined_text = ' '.join(sentence)
+                st.session_state['current_prediction'] = joined_text
                 
                 incomming_text = sentence
                 GLOBAL_CURR_TEXT = sentence
@@ -142,11 +134,11 @@ def s2t_main(incomming_text = ""):
                     cv2.putText(image, text, (10, 60 + i*30), 
                             cv2.FONT_HERSHEY_SIMPLEX, 0.6, (255,255,255), 1, cv2.LINE_AA)
 
-            # Show to screen
             FRAME_WINDOW.image(image)
             TEXT_WINDOW.text(f"Current Prediction: {' '.join(sentence) if sentence else 'None'}")
+            
+            
 
-            # Break gracefully
             if cv2.waitKey(10) & 0xFF == ord('q'):
                 break
 
@@ -154,9 +146,12 @@ def s2t_main(incomming_text = ""):
         return incomming_text
         
 def s2t(in_text = ""):
-    # Streamlit UI
     st.title("Real-Time Sign Language Detection")
     st.markdown("Detecting actions: Hello, Thanks, I Love You")
+    
+    if 'current_prediction' not in st.session_state:
+        st.session_state['current_prediction'] = ''
+
     
     s2t_main(in_text)
     

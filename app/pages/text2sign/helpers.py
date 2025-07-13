@@ -13,10 +13,13 @@ logging.info(f'Loading json: {INP}')
 with open(INP) as f:
     sentence2vid = json.load(f)
 
+device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 exts = T2SL_EXTS
 data = torch.load(f'{PROJECT_ROOT}/{DATASET_DIR}/{CORPUS_DATASET}_2.pt',  map_location=torch.device('cpu'))
 sentences = data['sentences']
 corpus_embeddings = data['embeddings']
+corpus_embeddings = corpus_embeddings.to(device)
 
 model = SentenceTransformer('all-mpnet-base-v2')
 
@@ -67,7 +70,9 @@ def get_vid_path(text):
 
 def get_top_k_matches(user_inp: str, k: int = 5):
     inp_emb = model.encode(user_inp, convert_to_tensor=True)
+    inp_emb = inp_emb.to(device)
     cos_scores = util.cos_sim(inp_emb, corpus_embeddings)[0]
+    # cos_scores = cos_scores.to(device)
     
     topk = torch.topk(cos_scores, k)
     res = []

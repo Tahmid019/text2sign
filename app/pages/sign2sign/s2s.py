@@ -6,11 +6,13 @@ import mediapipe as mp
 import pyttsx3
 from keras.models import load_model
 from pages.sign2text.func3 import s2t_main
+from streamlit_autorefresh import st_autorefresh
 
 from config import *
 
 
-from config import PROJECT_ROOT, APP_ROOT, MODEL_DIR
+
+# from config import PROJECT_ROOT, APP_ROOT, MODEL_DIR
 MODEL_PATH = f"{PROJECT_ROOT}/{APP_ROOT}/{MODEL_DIR}/Final.h5"
 ACTIONS = np.array(__import__('os').listdir(f"{PROJECT_ROOT}/{APP_ROOT}/{MODEL_DIR}"))
 
@@ -87,7 +89,13 @@ def s2s():
     st.title("SIgn-2-Sign Interface")
     left_col, right_col = st.columns(2)
     
+    if "run_webcam" not in st.session_state:
+        st.session_state.run_webcam = True
+    
     curr_text = ""
+    
+    if 'current_prediction' not in st.session_state:
+        st.session_state['current_prediction'] = ""
     
     with left_col:
         st.subheader("SL2T: Real-Time Sign to Text ")
@@ -105,19 +113,22 @@ def s2s():
         #     text_placeholder.markdown(
         #         f"### Detected: `{getattr(webrtc_ctx.video_transformer, 'last_prediction', '')}`"
         #     )
-        curr_text = s2t_main(curr_text)
-        st.write(GLOBAL_CURR_TEXT)
+        
+        if st.session_state.run_webcam:
+            curr_text = s2t_main(curr_text)
+        # st.write(GLOBAL_CURR_TEXT)
 
 
     # --- Right Column: T2SL Text to Sign ---
     with right_col:
         st.subheader("T2SL: Text to Sign ")
+        # st_autorefresh(interval=10000, key="refresh") 
         # user_input = st.text_input("Enter text to translate into Sign Language:")
-        user_input = curr_text
+        user_input = st.session_state['current_prediction']
         if user_input:
             try:
-                from pages.text2sign.t2sl import t2sl
-                video_path = t2sl(user_input)
+                from pages.text2sign.t2sl import t2sl_main
+                video_path = t2sl_main(user_input)
                 st.write(GLOBAL_NEXT_TEXT)
                 st.write(user_input)
                 st.video(video_path)

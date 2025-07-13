@@ -2,11 +2,10 @@ from imports import *
 from .helpers import *
 from config import *
 
+# device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-def t2sl(outgoing_text = ""):
-    st.title("Sign Language GIF Generator")
-    st.write("Enter text to see its Sign language Translation")
-
+def t2sl_main(outgoing_text):
+    
     if outgoing_text is "":
         user_input = st.text_input("Input Text", "")
     else: 
@@ -55,5 +54,13 @@ def t2sl(outgoing_text = ""):
             st.error(f"No video found for: {user_input}")
         st.write(f"Matched: {matched}")
         GLOBAL_NEXT_TEXT = matched
+        return vid_path
         # print(keyframe_path, vid_path)
         
+
+def t2sl(outgoing_text = ""):
+    st.title("Sign Language GIF Generator")
+    st.write("Enter text to see its Sign language Translation")
+
+    t2sl_main(outgoing_text)
+    
