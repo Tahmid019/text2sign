@@ -1,6 +1,7 @@
 from imports import *
 from config import *
-from pages.text2sign.t2sl import t2sl
+# from pages.text2sign.t2sl import t2sl
+from pages.text2sign.t2s_2 import t2s_2
 # from pages.sign2text.func2 import s2t
 from pages.sign2text.func3 import s2t
 from pages.sign2sign.s2s import s2s
@@ -26,7 +27,7 @@ def intro():
 
 page_names = {
     "Home" : intro,
-    "T2SL" : t2sl,
+    "T2SL" : t2s_2,
     "SL2T" : s2t,
     "S2S" : s2s,
 }
