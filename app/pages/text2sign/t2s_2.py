@@ -4,6 +4,7 @@ import torch.nn as nn
 import numpy as np
 import os
 import cv2
+from mediapipe.python.solutions.holistic import POSE_CONNECTIONS, HAND_CONNECTIONS
 
 # from lstm_model.utils import LSTM_t2s, tokenize, render_keypoints
 
@@ -120,12 +121,39 @@ def tokenize(text, vocab, max_len=10):
     ids += [vocab["<PAD>"]] * (max_len - len(ids))
     return torch.tensor(ids[:max_len]).unsqueeze(0)
 
+
+SKELETON_CONNECTIONS = set(POSE_CONNECTIONS) | set(HAND_CONNECTIONS)
+
+N_pose = 33
+N_hand = 21
+
 def render_keypoints(frame, keypoints):
-    keypoints = keypoints.reshape(-1, 3)  
-    for x, y, v in keypoints[:50]:  
-        if v > 0:
-            cv2.circle(frame, (int(x * 640), int(y * 480)), 3, (0, 255, 0), -1)
+    h, w, _ = frame.shape
+    pts = keypoints.reshape(-1, 3)        
+
+    pose_pts = pts[:N_pose]
+    left_pts = pts[N_pose   :N_pose+N_hand]
+    right_pts= pts[N_pose+N_hand : N_pose+2*N_hand]
+
+    def draw_part(pts, connections, color_line, color_dot):
+        for i,j in connections:
+            x1,y1,v1 = pts[i]
+            x2,y2,v2 = pts[j]
+            if v1>0 and v2>0:
+                p1 = (int(x1*w), int(y1*h))
+                p2 = (int(x2*w), int(y2*h))
+                cv2.line(frame, p1, p2, color_line, 2)
+        for x,y,v in pts:
+            if v>0:
+                cv2.circle(frame, (int(x*w), int(y*h)), 3, color_dot, -1)
+
+    draw_part(pose_pts, POSE_CONNECTIONS, (0,255,0), (0,128,0))
+    draw_part(left_pts, HAND_CONNECTIONS, (255,0,0), (128,0,0))
+    draw_part(right_pts, HAND_CONNECTIONS, (0,0,255), (0,0,128))
+
     return frame
+
+
 
 MODEL_PATH = "app/models/t2s_models"
 
