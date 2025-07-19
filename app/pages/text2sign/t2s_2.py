@@ -124,28 +124,41 @@ def tokenize(text, vocab, max_len=10):
     return torch.tensor(ids[:max_len]).unsqueeze(0)
 
 
-SKELETON_CONNECTIONS = list(POSE_CONNECTIONS) + list(HAND_CONNECTIONS)
+SKELETON_CONNECTIONS = set(POSE_CONNECTIONS) | set(HAND_CONNECTIONS)
 
-def render_keypoints(frame, keypoints, margin=0.02):
+N_pose = 33
+N_hand = 21
 
-    h, w = frame.shape[:2]
-    pts = keypoints.reshape(-1, 3)   # (N,3)
+def render_keypoints(frame, keypoints):
+    h, w, _ = frame.shape
+    pts = keypoints.reshape(-1, 3)  # shape: (75, 3)
 
-    xs = pts[:,0]
-    ys = pts[:,1]
-    vs = pts[:,2]
-    valid = (xs > margin) & (xs < 1-margin) & (ys > margin) & (ys < 1-margin) & (vs > 0)
+    pose_pts = pts[:N_pose]
+    left_pts = pts[N_pose   :N_pose+N_hand]
+    right_pts= pts[N_pose+N_hand : N_pose+2*N_hand]
+    
+    
+    def valid(i, margin=0.05):
+        xs, ys, vs = pts[i] 
+        return (xs > margin) & (xs < 1-margin) & (ys > margin) & (ys < 1-margin) & (vs > 0)
 
-    for i, j in SKELETON_CONNECTIONS:
-        if valid[i] and valid[j]:
-            x1, y1 = int(xs[i]*w), int(ys[i]*h)
-            x2, y2 = int(xs[j]*w), int(ys[j]*h)
-            cv2.line(frame, (x1,y1), (x2,y2), (0,255,0), 2)
+    def draw_part(pts, connections, color_line, color_dot):
+        for i,j in connections:
+            x1,y1,v1 = pts[i]
+            x2,y2,v2 = pts[j]
+            # if not valid(i) or not valid(j):
+            #     continue
+            if v1>0 and v2>0:
+                p1 = (int(x1*w), int(y1*h))
+                p2 = (int(x2*w), int(y2*h))
+                cv2.line(frame, p1, p2, color_line, 2)
+        for x,y,v in pts:
+            if v>0:
+                cv2.circle(frame, (int(x*w), int(y*h)), 3, color_dot, -1)
 
-    for idx, (x, y, v) in enumerate(pts):
-        if valid[idx]:
-            px, py = int(x*w), int(y*h)
-            cv2.circle(frame, (px, py), 3, (0,0,255), -1)
+    draw_part(pose_pts, POSE_CONNECTIONS, (0,255,0), (0,128,0))
+    draw_part(left_pts, HAND_CONNECTIONS, (255,0,0), (128,0,0))
+    draw_part(right_pts, HAND_CONNECTIONS, (0,0,255), (0,0,128))
 
     return frame
 
@@ -165,7 +178,7 @@ def load_models():
             # model = LSTM_t2s(vocab_size=len(vocab_dict), embed_dim=128, hidden_dim=512, output_dim=1662)
             model = Text2SignHybrid(
                 vocab_size  = len(vocab_dict),
-                output_dim  = 258,        
+                output_dim  = 225,        
                 seq_len     = 30,          
                 embed_dim   = 128,        
                 trans_dim   = 256,         
