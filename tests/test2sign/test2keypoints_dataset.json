@@ -1,194 +1,3866 @@
 [
   {
-    "text": "ahemdabad",
-    "keypoints_path": "MP_Data_gloss/ahemdabad/1"
+    "text": "test",
+    "keypoints_path": "MP_Data_gloss/test/1"
+  },
+  {
+    "text": "test",
+    "keypoints_path": "MP_Data_gloss/test/2"
+  },
+  {
+    "text": "test",
+    "keypoints_path": "MP_Data_gloss/test/5"
+  },
+  {
+    "text": "test",
+    "keypoints_path": "MP_Data_gloss/test/6"
+  },
+  {
+    "text": "test",
+    "keypoints_path": "MP_Data_gloss/test/8"
+  },
+  {
+    "text": "test",
+    "keypoints_path": "MP_Data_gloss/test/13"
+  },
+  {
+    "text": "test",
+    "keypoints_path": "MP_Data_gloss/test/15"
+  },
+  {
+    "text": "book",
+    "keypoints_path": "MP_Data_gloss/book/0"
+  },
+  {
+    "text": "book",
+    "keypoints_path": "MP_Data_gloss/book/10"
+  },
+  {
+    "text": "book",
+    "keypoints_path": "MP_Data_gloss/book/17"
+  },
+  {
+    "text": "book",
+    "keypoints_path": "MP_Data_gloss/book/22"
+  },
+  {
+    "text": "book",
+    "keypoints_path": "MP_Data_gloss/book/24"
+  },
+  {
+    "text": "book",
+    "keypoints_path": "MP_Data_gloss/book/29"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/0"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/1"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/11"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/16"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/17"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/18"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/19"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/20"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/21"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/27"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/30"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/31"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/32"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/33"
+  },
+  {
+    "text": "drink",
+    "keypoints_path": "MP_Data_gloss/drink/34"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/3"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/6"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/12"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/14"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/15"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/16"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/17"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/18"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/19"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/20"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/21"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/22"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/28"
+  },
+  {
+    "text": "computer",
+    "keypoints_path": "MP_Data_gloss/computer/29"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/8"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/9"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/10"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/11"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/12"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/13"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/14"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/15"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/16"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/19"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/21"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/22"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/23"
+  },
+  {
+    "text": "before",
+    "keypoints_path": "MP_Data_gloss/before/25"
+  },
+  {
+    "text": "chair",
+    "keypoints_path": "MP_Data_gloss/chair/7"
+  },
+  {
+    "text": "chair",
+    "keypoints_path": "MP_Data_gloss/chair/9"
+  },
+  {
+    "text": "chair",
+    "keypoints_path": "MP_Data_gloss/chair/10"
+  },
+  {
+    "text": "chair",
+    "keypoints_path": "MP_Data_gloss/chair/11"
+  },
+  {
+    "text": "chair",
+    "keypoints_path": "MP_Data_gloss/chair/12"
+  },
+  {
+    "text": "chair",
+    "keypoints_path": "MP_Data_gloss/chair/13"
+  },
+  {
+    "text": "chair",
+    "keypoints_path": "MP_Data_gloss/chair/15"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/1"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/3"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/4"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/5"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/6"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/7"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/8"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/14"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/15"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/16"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/17"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/18"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/20"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/24"
+  },
+  {
+    "text": "go",
+    "keypoints_path": "MP_Data_gloss/go/25"
+  },
+  {
+    "text": "clothes",
+    "keypoints_path": "MP_Data_gloss/clothes/5"
+  },
+  {
+    "text": "clothes",
+    "keypoints_path": "MP_Data_gloss/clothes/7"
+  },
+  {
+    "text": "clothes",
+    "keypoints_path": "MP_Data_gloss/clothes/8"
+  },
+  {
+    "text": "clothes",
+    "keypoints_path": "MP_Data_gloss/clothes/10"
+  },
+  {
+    "text": "clothes",
+    "keypoints_path": "MP_Data_gloss/clothes/13"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/1"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/7"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/8"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/9"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/10"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/11"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/12"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/13"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/14"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/15"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/18"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/20"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/22"
+  },
+  {
+    "text": "who",
+    "keypoints_path": "MP_Data_gloss/who/23"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/5"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/6"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/7"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/8"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/9"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/10"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/11"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/14"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/16"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/17"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/18"
+  },
+  {
+    "text": "candy",
+    "keypoints_path": "MP_Data_gloss/candy/21"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/0"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/3"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/4"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/5"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/6"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/7"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/8"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/9"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/10"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/13"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/16"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/17"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/18"
+  },
+  {
+    "text": "cousin",
+    "keypoints_path": "MP_Data_gloss/cousin/22"
+  },
+  {
+    "text": "deaf",
+    "keypoints_path": "MP_Data_gloss/deaf/6"
+  },
+  {
+    "text": "deaf",
+    "keypoints_path": "MP_Data_gloss/deaf/8"
+  },
+  {
+    "text": "deaf",
+    "keypoints_path": "MP_Data_gloss/deaf/10"
+  },
+  {
+    "text": "deaf",
+    "keypoints_path": "MP_Data_gloss/deaf/12"
+  },
+  {
+    "text": "deaf",
+    "keypoints_path": "MP_Data_gloss/deaf/13"
+  },
+  {
+    "text": "deaf",
+    "keypoints_path": "MP_Data_gloss/deaf/14"
+  },
+  {
+    "text": "deaf",
+    "keypoints_path": "MP_Data_gloss/deaf/15"
+  },
+  {
+    "text": "deaf",
+    "keypoints_path": "MP_Data_gloss/deaf/18"
+  },
+  {
+    "text": "deaf",
+    "keypoints_path": "MP_Data_gloss/deaf/19"
+  },
+  {
+    "text": "fine",
+    "keypoints_path": "MP_Data_gloss/fine/7"
+  },
+  {
+    "text": "fine",
+    "keypoints_path": "MP_Data_gloss/fine/9"
+  },
+  {
+    "text": "fine",
+    "keypoints_path": "MP_Data_gloss/fine/10"
+  },
+  {
+    "text": "fine",
+    "keypoints_path": "MP_Data_gloss/fine/11"
+  },
+  {
+    "text": "fine",
+    "keypoints_path": "MP_Data_gloss/fine/12"
+  },
+  {
+    "text": "fine",
+    "keypoints_path": "MP_Data_gloss/fine/13"
+  },
+  {
+    "text": "fine",
+    "keypoints_path": "MP_Data_gloss/fine/14"
+  },
+  {
+    "text": "fine",
+    "keypoints_path": "MP_Data_gloss/fine/17"
+  },
+  {
+    "text": "fine",
+    "keypoints_path": "MP_Data_gloss/fine/20"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/1"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/4"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/5"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/6"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/7"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/8"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/12"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/13"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/14"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/15"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/16"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/18"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/19"
+  },
+  {
+    "text": "help",
+    "keypoints_path": "MP_Data_gloss/help/20"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/1"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/8"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/9"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/10"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/11"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/12"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/14"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/15"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/16"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/17"
+  },
+  {
+    "text": "no",
+    "keypoints_path": "MP_Data_gloss/no/19"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/1"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/2"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/5"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/6"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/7"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/9"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/10"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/11"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/12"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/13"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/14"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/15"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/16"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/18"
+  },
+  {
+    "text": "thin",
+    "keypoints_path": "MP_Data_gloss/thin/21"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/6"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/7"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/9"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/10"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/12"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/14"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/15"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/17"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/18"
+  },
+  {
+    "text": "walk",
+    "keypoints_path": "MP_Data_gloss/walk/19"
+  },
+  {
+    "text": "year",
+    "keypoints_path": "MP_Data_gloss/year/1"
+  },
+  {
+    "text": "year",
+    "keypoints_path": "MP_Data_gloss/year/7"
+  },
+  {
+    "text": "year",
+    "keypoints_path": "MP_Data_gloss/year/8"
+  },
+  {
+    "text": "year",
+    "keypoints_path": "MP_Data_gloss/year/9"
+  },
+  {
+    "text": "year",
+    "keypoints_path": "MP_Data_gloss/year/10"
+  },
+  {
+    "text": "year",
+    "keypoints_path": "MP_Data_gloss/year/11"
+  },
+  {
+    "text": "year",
+    "keypoints_path": "MP_Data_gloss/year/12"
+  },
+  {
+    "text": "year",
+    "keypoints_path": "MP_Data_gloss/year/13"
+  },
+  {
+    "text": "year",
+    "keypoints_path": "MP_Data_gloss/year/19"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/1"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/2"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/5"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/6"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/7"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/8"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/12"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/14"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/17"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/18"
+  },
+  {
+    "text": "yes",
+    "keypoints_path": "MP_Data_gloss/yes/19"
   },
   {
     "text": "all",
     "keypoints_path": "MP_Data_gloss/all/1"
   },
   {
-    "text": "august",
-    "keypoints_path": "MP_Data_gloss/august/1"
+    "text": "all",
+    "keypoints_path": "MP_Data_gloss/all/5"
   },
   {
-    "text": "cat",
-    "keypoints_path": "MP_Data_gloss/cat/1"
+    "text": "all",
+    "keypoints_path": "MP_Data_gloss/all/6"
   },
   {
-    "text": "church",
-    "keypoints_path": "MP_Data_gloss/church/1"
+    "text": "all",
+    "keypoints_path": "MP_Data_gloss/all/7"
   },
   {
-    "text": "cilinic",
-    "keypoints_path": "MP_Data_gloss/cilinic/1"
+    "text": "all",
+    "keypoints_path": "MP_Data_gloss/all/10"
   },
   {
-    "text": "december",
-    "keypoints_path": "MP_Data_gloss/december/1"
+    "text": "all",
+    "keypoints_path": "MP_Data_gloss/all/11"
   },
   {
-    "text": "did you finish homework",
-    "keypoints_path": "MP_Data_gloss/did you finish homework/1"
+    "text": "all",
+    "keypoints_path": "MP_Data_gloss/all/12"
   },
   {
-    "text": "do you want something to drink",
-    "keypoints_path": "MP_Data_gloss/do you want something to drink/1"
+    "text": "all",
+    "keypoints_path": "MP_Data_gloss/all/14"
   },
   {
-    "text": "do you watch tv",
-    "keypoints_path": "MP_Data_gloss/do you watch tv/1"
+    "text": "black",
+    "keypoints_path": "MP_Data_gloss/black/1"
   },
   {
-    "text": "flower is beautiful",
-    "keypoints_path": "MP_Data_gloss/flower is beautiful/1"
+    "text": "black",
+    "keypoints_path": "MP_Data_gloss/black/4"
   },
   {
-    "text": "good afternoon",
-    "keypoints_path": "MP_Data_gloss/good afternoon/1"
+    "text": "black",
+    "keypoints_path": "MP_Data_gloss/black/5"
   },
   {
-    "text": "good morning",
-    "keypoints_path": "MP_Data_gloss/good morning/1"
+    "text": "black",
+    "keypoints_path": "MP_Data_gloss/black/6"
   },
   {
-    "text": "good question",
-    "keypoints_path": "MP_Data_gloss/good question/1"
+    "text": "black",
+    "keypoints_path": "MP_Data_gloss/black/8"
   },
   {
-    "text": "grapes",
-    "keypoints_path": "MP_Data_gloss/grapes/1"
+    "text": "black",
+    "keypoints_path": "MP_Data_gloss/black/10"
   },
   {
-    "text": "hindu",
-    "keypoints_path": "MP_Data_gloss/hindu/1"
+    "text": "black",
+    "keypoints_path": "MP_Data_gloss/black/12"
   },
   {
-    "text": "hyderabad",
-    "keypoints_path": "MP_Data_gloss/hyderabad/1"
+    "text": "black",
+    "keypoints_path": "MP_Data_gloss/black/13"
   },
   {
-    "text": "i am a clerk",
-    "keypoints_path": "MP_Data_gloss/i am a clerk/1"
+    "text": "black",
+    "keypoints_path": "MP_Data_gloss/black/20"
   },
   {
-    "text": "i am fine",
-    "keypoints_path": "MP_Data_gloss/i am fine/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/0"
   },
   {
-    "text": "i am thinking",
-    "keypoints_path": "MP_Data_gloss/i am thinking/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/1"
   },
   {
-    "text": "i go to a theatre",
-    "keypoints_path": "MP_Data_gloss/i go to a theatre/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/3"
   },
   {
-    "text": "i had to say something but i forgot",
-    "keypoints_path": "MP_Data_gloss/i had to say something but i forgot/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/6"
   },
   {
-    "text": "i like pink colour",
-    "keypoints_path": "MP_Data_gloss/i like pink colour/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/7"
   },
   {
-    "text": "i love to shop",
-    "keypoints_path": "MP_Data_gloss/i love to shop/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/8"
   },
   {
-    "text": "job",
-    "keypoints_path": "MP_Data_gloss/job/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/9"
   },
   {
-    "text": "july",
-    "keypoints_path": "MP_Data_gloss/july/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/11"
   },
   {
-    "text": "june",
-    "keypoints_path": "MP_Data_gloss/june/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/12"
   },
   {
-    "text": "kerala",
-    "keypoints_path": "MP_Data_gloss/kerala/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/13"
   },
   {
-    "text": "mango",
-    "keypoints_path": "MP_Data_gloss/mango/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/14"
   },
   {
-    "text": "may",
-    "keypoints_path": "MP_Data_gloss/may/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/19"
   },
   {
-    "text": "nagpur",
-    "keypoints_path": "MP_Data_gloss/nagpur/1"
+    "text": "cool",
+    "keypoints_path": "MP_Data_gloss/cool/20"
   },
   {
-    "text": "nice to meet you",
-    "keypoints_path": "MP_Data_gloss/nice to meet you/1"
+    "text": "finish",
+    "keypoints_path": "MP_Data_gloss/finish/5"
   },
   {
-    "text": "please call me later",
-    "keypoints_path": "MP_Data_gloss/please call me later/1"
+    "text": "finish",
+    "keypoints_path": "MP_Data_gloss/finish/7"
   },
   {
-    "text": "punjab",
-    "keypoints_path": "MP_Data_gloss/punjab/1"
+    "text": "finish",
+    "keypoints_path": "MP_Data_gloss/finish/8"
   },
   {
-    "text": "shall i help you",
-    "keypoints_path": "MP_Data_gloss/shall i help you/1"
+    "text": "finish",
+    "keypoints_path": "MP_Data_gloss/finish/10"
   },
   {
-    "text": "shall we go together tommorow",
-    "keypoints_path": "MP_Data_gloss/shall we go together tommorow/1"
+    "text": "finish",
+    "keypoints_path": "MP_Data_gloss/finish/11"
   },
   {
-    "text": "sign language interpreter",
-    "keypoints_path": "MP_Data_gloss/sign language interpreter/1"
+    "text": "finish",
+    "keypoints_path": "MP_Data_gloss/finish/12"
   },
   {
-    "text": "stand up",
-    "keypoints_path": "MP_Data_gloss/stand up/1"
+    "text": "finish",
+    "keypoints_path": "MP_Data_gloss/finish/13"
   },
   {
-    "text": "temple",
-    "keypoints_path": "MP_Data_gloss/temple/1"
+    "text": "finish",
+    "keypoints_path": "MP_Data_gloss/finish/15"
   },
   {
-    "text": "there was traffic jam",
-    "keypoints_path": "MP_Data_gloss/there was traffic jam/1"
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/1"
   },
   {
-    "text": "thursday",
-    "keypoints_path": "MP_Data_gloss/thursday/1"
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/3"
   },
   {
-    "text": "tuesday",
-    "keypoints_path": "MP_Data_gloss/tuesday/1"
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/4"
   },
   {
-    "text": "wednesday",
-    "keypoints_path": "MP_Data_gloss/wednesday/1"
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/5"
   },
   {
-    "text": "what is the problem",
-    "keypoints_path": "MP_Data_gloss/what is the problem/1"
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/6"
   },
   {
-    "text": "what is today's date",
-    "keypoints_path": "MP_Data_gloss/what is today's date/1"
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/7"
   },
   {
-    "text": "what is your father do",
-    "keypoints_path": "MP_Data_gloss/what is your father do/1"
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/8"
   },
   {
-    "text": "what is your name",
-    "keypoints_path": "MP_Data_gloss/what is your name/1"
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/11"
   },
   {
-    "text": "where is the police station",
-    "keypoints_path": "MP_Data_gloss/where is the police station/1"
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/12"
+  },
+  {
+    "text": "hot",
+    "keypoints_path": "MP_Data_gloss/hot/13"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/0"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/1"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/4"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/5"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/6"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/7"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/8"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/9"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/11"
+  },
+  {
+    "text": "like",
+    "keypoints_path": "MP_Data_gloss/like/12"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/1"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/3"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/4"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/5"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/6"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/7"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/10"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/11"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/13"
+  },
+  {
+    "text": "many",
+    "keypoints_path": "MP_Data_gloss/many/20"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/1"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/3"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/4"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/5"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/6"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/7"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/9"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/10"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/12"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/13"
+  },
+  {
+    "text": "mother",
+    "keypoints_path": "MP_Data_gloss/mother/14"
+  },
+  {
+    "text": "now",
+    "keypoints_path": "MP_Data_gloss/now/1"
+  },
+  {
+    "text": "now",
+    "keypoints_path": "MP_Data_gloss/now/2"
+  },
+  {
+    "text": "now",
+    "keypoints_path": "MP_Data_gloss/now/7"
+  },
+  {
+    "text": "now",
+    "keypoints_path": "MP_Data_gloss/now/8"
+  },
+  {
+    "text": "now",
+    "keypoints_path": "MP_Data_gloss/now/12"
+  },
+  {
+    "text": "now",
+    "keypoints_path": "MP_Data_gloss/now/16"
+  },
+  {
+    "text": "now",
+    "keypoints_path": "MP_Data_gloss/now/17"
+  },
+  {
+    "text": "now",
+    "keypoints_path": "MP_Data_gloss/now/18"
+  },
+  {
+    "text": "now",
+    "keypoints_path": "MP_Data_gloss/now/20"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/1"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/5"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/6"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/7"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/8"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/9"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/11"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/14"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/19"
+  },
+  {
+    "text": "orange",
+    "keypoints_path": "MP_Data_gloss/orange/20"
+  },
+  {
+    "text": "table",
+    "keypoints_path": "MP_Data_gloss/table/5"
+  },
+  {
+    "text": "table",
+    "keypoints_path": "MP_Data_gloss/table/9"
+  },
+  {
+    "text": "table",
+    "keypoints_path": "MP_Data_gloss/table/10"
+  },
+  {
+    "text": "table",
+    "keypoints_path": "MP_Data_gloss/table/11"
+  },
+  {
+    "text": "table",
+    "keypoints_path": "MP_Data_gloss/table/13"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/3"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/4"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/5"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/6"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/7"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/9"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/10"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/12"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/15"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/16"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/17"
+  },
+  {
+    "text": "thanksgiving",
+    "keypoints_path": "MP_Data_gloss/thanksgiving/18"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/1"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/4"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/6"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/9"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/13"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/14"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/16"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/17"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/18"
+  },
+  {
+    "text": "what",
+    "keypoints_path": "MP_Data_gloss/what/19"
+  },
+  {
+    "text": "woman",
+    "keypoints_path": "MP_Data_gloss/woman/3"
+  },
+  {
+    "text": "woman",
+    "keypoints_path": "MP_Data_gloss/woman/4"
+  },
+  {
+    "text": "woman",
+    "keypoints_path": "MP_Data_gloss/woman/5"
+  },
+  {
+    "text": "woman",
+    "keypoints_path": "MP_Data_gloss/woman/7"
+  },
+  {
+    "text": "woman",
+    "keypoints_path": "MP_Data_gloss/woman/8"
+  },
+  {
+    "text": "woman",
+    "keypoints_path": "MP_Data_gloss/woman/12"
+  },
+  {
+    "text": "woman",
+    "keypoints_path": "MP_Data_gloss/woman/13"
+  },
+  {
+    "text": "woman",
+    "keypoints_path": "MP_Data_gloss/woman/14"
+  },
+  {
+    "text": "woman",
+    "keypoints_path": "MP_Data_gloss/woman/15"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/2"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/3"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/4"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/6"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/8"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/10"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/11"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/12"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/13"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/14"
+  },
+  {
+    "text": "bed",
+    "keypoints_path": "MP_Data_gloss/bed/16"
+  },
+  {
+    "text": "blue",
+    "keypoints_path": "MP_Data_gloss/blue/1"
+  },
+  {
+    "text": "blue",
+    "keypoints_path": "MP_Data_gloss/blue/4"
+  },
+  {
+    "text": "blue",
+    "keypoints_path": "MP_Data_gloss/blue/8"
+  },
+  {
+    "text": "blue",
+    "keypoints_path": "MP_Data_gloss/blue/11"
+  },
+  {
+    "text": "blue",
+    "keypoints_path": "MP_Data_gloss/blue/12"
+  },
+  {
+    "text": "blue",
+    "keypoints_path": "MP_Data_gloss/blue/17"
+  },
+  {
+    "text": "blue",
+    "keypoints_path": "MP_Data_gloss/blue/18"
+  },
+  {
+    "text": "blue",
+    "keypoints_path": "MP_Data_gloss/blue/19"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/2"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/5"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/6"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/7"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/10"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/11"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/12"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/13"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/15"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/16"
+  },
+  {
+    "text": "bowling",
+    "keypoints_path": "MP_Data_gloss/bowling/17"
+  },
+  {
+    "text": "can",
+    "keypoints_path": "MP_Data_gloss/can/0"
+  },
+  {
+    "text": "can",
+    "keypoints_path": "MP_Data_gloss/can/1"
+  },
+  {
+    "text": "can",
+    "keypoints_path": "MP_Data_gloss/can/6"
+  },
+  {
+    "text": "can",
+    "keypoints_path": "MP_Data_gloss/can/7"
+  },
+  {
+    "text": "can",
+    "keypoints_path": "MP_Data_gloss/can/8"
+  },
+  {
+    "text": "can",
+    "keypoints_path": "MP_Data_gloss/can/9"
+  },
+  {
+    "text": "can",
+    "keypoints_path": "MP_Data_gloss/can/10"
+  },
+  {
+    "text": "can",
+    "keypoints_path": "MP_Data_gloss/can/12"
+  },
+  {
+    "text": "can",
+    "keypoints_path": "MP_Data_gloss/can/14"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/1"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/4"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/5"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/6"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/7"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/8"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/10"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/11"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/13"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/14"
+  },
+  {
+    "text": "dog",
+    "keypoints_path": "MP_Data_gloss/dog/15"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/1"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/3"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/4"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/5"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/6"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/9"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/10"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/11"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/12"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/18"
+  },
+  {
+    "text": "family",
+    "keypoints_path": "MP_Data_gloss/family/19"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/1"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/3"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/4"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/5"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/6"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/7"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/10"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/11"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/12"
+  },
+  {
+    "text": "fish",
+    "keypoints_path": "MP_Data_gloss/fish/13"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/5"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/6"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/7"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/8"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/9"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/10"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/13"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/14"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/15"
+  },
+  {
+    "text": "graduate",
+    "keypoints_path": "MP_Data_gloss/graduate/16"
+  },
+  {
+    "text": "hat",
+    "keypoints_path": "MP_Data_gloss/hat/1"
+  },
+  {
+    "text": "hat",
+    "keypoints_path": "MP_Data_gloss/hat/4"
+  },
+  {
+    "text": "hat",
+    "keypoints_path": "MP_Data_gloss/hat/6"
+  },
+  {
+    "text": "hat",
+    "keypoints_path": "MP_Data_gloss/hat/7"
+  },
+  {
+    "text": "hat",
+    "keypoints_path": "MP_Data_gloss/hat/8"
+  },
+  {
+    "text": "hat",
+    "keypoints_path": "MP_Data_gloss/hat/9"
+  },
+  {
+    "text": "hat",
+    "keypoints_path": "MP_Data_gloss/hat/10"
+  },
+  {
+    "text": "hat",
+    "keypoints_path": "MP_Data_gloss/hat/12"
+  },
+  {
+    "text": "hat",
+    "keypoints_path": "MP_Data_gloss/hat/14"
+  },
+  {
+    "text": "hearing",
+    "keypoints_path": "MP_Data_gloss/hearing/0"
+  },
+  {
+    "text": "hearing",
+    "keypoints_path": "MP_Data_gloss/hearing/4"
+  },
+  {
+    "text": "hearing",
+    "keypoints_path": "MP_Data_gloss/hearing/5"
+  },
+  {
+    "text": "hearing",
+    "keypoints_path": "MP_Data_gloss/hearing/6"
+  },
+  {
+    "text": "hearing",
+    "keypoints_path": "MP_Data_gloss/hearing/7"
+  },
+  {
+    "text": "hearing",
+    "keypoints_path": "MP_Data_gloss/hearing/8"
+  },
+  {
+    "text": "hearing",
+    "keypoints_path": "MP_Data_gloss/hearing/11"
+  },
+  {
+    "text": "hearing",
+    "keypoints_path": "MP_Data_gloss/hearing/12"
+  },
+  {
+    "text": "kiss",
+    "keypoints_path": "MP_Data_gloss/kiss/3"
+  },
+  {
+    "text": "kiss",
+    "keypoints_path": "MP_Data_gloss/kiss/5"
+  },
+  {
+    "text": "kiss",
+    "keypoints_path": "MP_Data_gloss/kiss/7"
+  },
+  {
+    "text": "kiss",
+    "keypoints_path": "MP_Data_gloss/kiss/9"
+  },
+  {
+    "text": "kiss",
+    "keypoints_path": "MP_Data_gloss/kiss/10"
+  },
+  {
+    "text": "kiss",
+    "keypoints_path": "MP_Data_gloss/kiss/11"
+  },
+  {
+    "text": "kiss",
+    "keypoints_path": "MP_Data_gloss/kiss/14"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/4"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/5"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/6"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/7"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/10"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/11"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/12"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/13"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/18"
+  },
+  {
+    "text": "language",
+    "keypoints_path": "MP_Data_gloss/language/19"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/3"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/4"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/5"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/7"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/8"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/9"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/10"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/11"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/12"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/15"
+  },
+  {
+    "text": "later",
+    "keypoints_path": "MP_Data_gloss/later/18"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/1"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/3"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/4"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/5"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/6"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/7"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/8"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/11"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/12"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/13"
+  },
+  {
+    "text": "man",
+    "keypoints_path": "MP_Data_gloss/man/14"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/2"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/4"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/5"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/6"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/7"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/8"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/9"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/10"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/11"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/13"
+  },
+  {
+    "text": "shirt",
+    "keypoints_path": "MP_Data_gloss/shirt/14"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/4"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/5"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/6"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/8"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/9"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/11"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/12"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/17"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/18"
+  },
+  {
+    "text": "study",
+    "keypoints_path": "MP_Data_gloss/study/19"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/2"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/3"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/4"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/6"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/7"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/8"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/9"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/11"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/12"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/13"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/14"
+  },
+  {
+    "text": "tall",
+    "keypoints_path": "MP_Data_gloss/tall/17"
+  },
+  {
+    "text": "white",
+    "keypoints_path": "MP_Data_gloss/white/1"
+  },
+  {
+    "text": "white",
+    "keypoints_path": "MP_Data_gloss/white/5"
+  },
+  {
+    "text": "white",
+    "keypoints_path": "MP_Data_gloss/white/6"
+  },
+  {
+    "text": "white",
+    "keypoints_path": "MP_Data_gloss/white/9"
+  },
+  {
+    "text": "white",
+    "keypoints_path": "MP_Data_gloss/white/11"
+  },
+  {
+    "text": "white",
+    "keypoints_path": "MP_Data_gloss/white/16"
+  },
+  {
+    "text": "white",
+    "keypoints_path": "MP_Data_gloss/white/17"
+  },
+  {
+    "text": "white",
+    "keypoints_path": "MP_Data_gloss/white/18"
+  },
+  {
+    "text": "white",
+    "keypoints_path": "MP_Data_gloss/white/19"
+  },
+  {
+    "text": "wrong",
+    "keypoints_path": "MP_Data_gloss/wrong/4"
+  },
+  {
+    "text": "wrong",
+    "keypoints_path": "MP_Data_gloss/wrong/5"
+  },
+  {
+    "text": "wrong",
+    "keypoints_path": "MP_Data_gloss/wrong/8"
+  },
+  {
+    "text": "wrong",
+    "keypoints_path": "MP_Data_gloss/wrong/11"
+  },
+  {
+    "text": "wrong",
+    "keypoints_path": "MP_Data_gloss/wrong/17"
+  },
+  {
+    "text": "wrong",
+    "keypoints_path": "MP_Data_gloss/wrong/18"
+  },
+  {
+    "text": "wrong",
+    "keypoints_path": "MP_Data_gloss/wrong/19"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/1"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/2"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/3"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/4"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/5"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/6"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/7"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/9"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/10"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/11"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/12"
+  },
+  {
+    "text": "accident",
+    "keypoints_path": "MP_Data_gloss/accident/15"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/1"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/6"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/9"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/10"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/11"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/12"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/13"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/15"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/16"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/17"
+  },
+  {
+    "text": "apple",
+    "keypoints_path": "MP_Data_gloss/apple/18"
+  },
+  {
+    "text": "bird",
+    "keypoints_path": "MP_Data_gloss/bird/1"
+  },
+  {
+    "text": "bird",
+    "keypoints_path": "MP_Data_gloss/bird/3"
+  },
+  {
+    "text": "bird",
+    "keypoints_path": "MP_Data_gloss/bird/5"
+  },
+  {
+    "text": "bird",
+    "keypoints_path": "MP_Data_gloss/bird/7"
+  },
+  {
+    "text": "bird",
+    "keypoints_path": "MP_Data_gloss/bird/10"
+  },
+  {
+    "text": "bird",
+    "keypoints_path": "MP_Data_gloss/bird/11"
+  },
+  {
+    "text": "bird",
+    "keypoints_path": "MP_Data_gloss/bird/16"
+  },
+  {
+    "text": "bird",
+    "keypoints_path": "MP_Data_gloss/bird/17"
+  },
+  {
+    "text": "bird",
+    "keypoints_path": "MP_Data_gloss/bird/18"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/2"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/3"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/5"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/7"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/8"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/9"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/11"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/13"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/14"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/15"
+  },
+  {
+    "text": "change",
+    "keypoints_path": "MP_Data_gloss/change/18"
+  },
+  {
+    "text": "color",
+    "keypoints_path": "MP_Data_gloss/color/1"
+  },
+  {
+    "text": "color",
+    "keypoints_path": "MP_Data_gloss/color/5"
+  },
+  {
+    "text": "color",
+    "keypoints_path": "MP_Data_gloss/color/6"
+  },
+  {
+    "text": "color",
+    "keypoints_path": "MP_Data_gloss/color/10"
+  },
+  {
+    "text": "color",
+    "keypoints_path": "MP_Data_gloss/color/15"
+  },
+  {
+    "text": "color",
+    "keypoints_path": "MP_Data_gloss/color/16"
+  },
+  {
+    "text": "color",
+    "keypoints_path": "MP_Data_gloss/color/17"
+  },
+  {
+    "text": "color",
+    "keypoints_path": "MP_Data_gloss/color/18"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/1"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/2"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/3"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/4"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/5"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/6"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/7"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/10"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/11"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/12"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/15"
+  },
+  {
+    "text": "corn",
+    "keypoints_path": "MP_Data_gloss/corn/16"
+  },
+  {
+    "text": "cow",
+    "keypoints_path": "MP_Data_gloss/cow/1"
+  },
+  {
+    "text": "cow",
+    "keypoints_path": "MP_Data_gloss/cow/2"
+  },
+  {
+    "text": "cow",
+    "keypoints_path": "MP_Data_gloss/cow/3"
+  },
+  {
+    "text": "cow",
+    "keypoints_path": "MP_Data_gloss/cow/4"
+  },
+  {
+    "text": "cow",
+    "keypoints_path": "MP_Data_gloss/cow/7"
+  },
+  {
+    "text": "cow",
+    "keypoints_path": "MP_Data_gloss/cow/8"
+  },
+  {
+    "text": "cow",
+    "keypoints_path": "MP_Data_gloss/cow/10"
+  },
+  {
+    "text": "cow",
+    "keypoints_path": "MP_Data_gloss/cow/17"
+  },
+  {
+    "text": "cow",
+    "keypoints_path": "MP_Data_gloss/cow/18"
+  },
+  {
+    "text": "dance",
+    "keypoints_path": "MP_Data_gloss/dance/6"
+  },
+  {
+    "text": "dance",
+    "keypoints_path": "MP_Data_gloss/dance/10"
+  },
+  {
+    "text": "dance",
+    "keypoints_path": "MP_Data_gloss/dance/14"
+  },
+  {
+    "text": "dance",
+    "keypoints_path": "MP_Data_gloss/dance/15"
+  },
+  {
+    "text": "dance",
+    "keypoints_path": "MP_Data_gloss/dance/16"
+  },
+  {
+    "text": "dance",
+    "keypoints_path": "MP_Data_gloss/dance/17"
+  },
+  {
+    "text": "dance",
+    "keypoints_path": "MP_Data_gloss/dance/18"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/1"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/2"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/3"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/4"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/5"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/9"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/10"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/11"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/12"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/13"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/17"
+  },
+  {
+    "text": "dark",
+    "keypoints_path": "MP_Data_gloss/dark/18"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/3"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/4"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/5"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/7"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/8"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/10"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/11"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/12"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/17"
+  },
+  {
+    "text": "doctor",
+    "keypoints_path": "MP_Data_gloss/doctor/18"
+  },
+  {
+    "text": "eat",
+    "keypoints_path": "MP_Data_gloss/eat/1"
+  },
+  {
+    "text": "eat",
+    "keypoints_path": "MP_Data_gloss/eat/7"
+  },
+  {
+    "text": "eat",
+    "keypoints_path": "MP_Data_gloss/eat/10"
+  },
+  {
+    "text": "eat",
+    "keypoints_path": "MP_Data_gloss/eat/11"
+  },
+  {
+    "text": "eat",
+    "keypoints_path": "MP_Data_gloss/eat/16"
+  },
+  {
+    "text": "eat",
+    "keypoints_path": "MP_Data_gloss/eat/17"
+  },
+  {
+    "text": "eat",
+    "keypoints_path": "MP_Data_gloss/eat/18"
+  },
+  {
+    "text": "enjoy",
+    "keypoints_path": "MP_Data_gloss/enjoy/4"
+  },
+  {
+    "text": "enjoy",
+    "keypoints_path": "MP_Data_gloss/enjoy/7"
+  },
+  {
+    "text": "enjoy",
+    "keypoints_path": "MP_Data_gloss/enjoy/10"
+  },
+  {
+    "text": "enjoy",
+    "keypoints_path": "MP_Data_gloss/enjoy/11"
+  },
+  {
+    "text": "enjoy",
+    "keypoints_path": "MP_Data_gloss/enjoy/15"
+  },
+  {
+    "text": "enjoy",
+    "keypoints_path": "MP_Data_gloss/enjoy/16"
+  },
+  {
+    "text": "enjoy",
+    "keypoints_path": "MP_Data_gloss/enjoy/17"
+  },
+  {
+    "text": "enjoy",
+    "keypoints_path": "MP_Data_gloss/enjoy/18"
+  },
+  {
+    "text": "forget",
+    "keypoints_path": "MP_Data_gloss/forget/0"
+  },
+  {
+    "text": "forget",
+    "keypoints_path": "MP_Data_gloss/forget/5"
+  },
+  {
+    "text": "forget",
+    "keypoints_path": "MP_Data_gloss/forget/6"
+  },
+  {
+    "text": "forget",
+    "keypoints_path": "MP_Data_gloss/forget/9"
+  },
+  {
+    "text": "forget",
+    "keypoints_path": "MP_Data_gloss/forget/16"
+  },
+  {
+    "text": "forget",
+    "keypoints_path": "MP_Data_gloss/forget/17"
+  },
+  {
+    "text": "forget",
+    "keypoints_path": "MP_Data_gloss/forget/18"
+  },
+  {
+    "text": "give",
+    "keypoints_path": "MP_Data_gloss/give/0"
+  },
+  {
+    "text": "give",
+    "keypoints_path": "MP_Data_gloss/give/6"
+  },
+  {
+    "text": "give",
+    "keypoints_path": "MP_Data_gloss/give/7"
+  },
+  {
+    "text": "give",
+    "keypoints_path": "MP_Data_gloss/give/9"
+  },
+  {
+    "text": "give",
+    "keypoints_path": "MP_Data_gloss/give/10"
+  },
+  {
+    "text": "give",
+    "keypoints_path": "MP_Data_gloss/give/14"
+  },
+  {
+    "text": "give",
+    "keypoints_path": "MP_Data_gloss/give/15"
+  },
+  {
+    "text": "give",
+    "keypoints_path": "MP_Data_gloss/give/16"
+  },
+  {
+    "text": "give",
+    "keypoints_path": "MP_Data_gloss/give/17"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/0"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/3"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/5"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/6"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/9"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/10"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/12"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/14"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/17"
+  },
+  {
+    "text": "last",
+    "keypoints_path": "MP_Data_gloss/last/18"
+  },
+  {
+    "text": "meet",
+    "keypoints_path": "MP_Data_gloss/meet/3"
+  },
+  {
+    "text": "meet",
+    "keypoints_path": "MP_Data_gloss/meet/4"
+  },
+  {
+    "text": "meet",
+    "keypoints_path": "MP_Data_gloss/meet/5"
+  },
+  {
+    "text": "meet",
+    "keypoints_path": "MP_Data_gloss/meet/8"
+  },
+  {
+    "text": "meet",
+    "keypoints_path": "MP_Data_gloss/meet/9"
+  },
+  {
+    "text": "meet",
+    "keypoints_path": "MP_Data_gloss/meet/10"
+  },
+  {
+    "text": "meet",
+    "keypoints_path": "MP_Data_gloss/meet/11"
+  },
+  {
+    "text": "meet",
+    "keypoints_path": "MP_Data_gloss/meet/12"
+  },
+  {
+    "text": "meet",
+    "keypoints_path": "MP_Data_gloss/meet/18"
+  },
+  {
+    "text": "pink",
+    "keypoints_path": "MP_Data_gloss/pink/1"
+  },
+  {
+    "text": "pink",
+    "keypoints_path": "MP_Data_gloss/pink/5"
+  },
+  {
+    "text": "pink",
+    "keypoints_path": "MP_Data_gloss/pink/6"
+  },
+  {
+    "text": "pink",
+    "keypoints_path": "MP_Data_gloss/pink/7"
+  },
+  {
+    "text": "pink",
+    "keypoints_path": "MP_Data_gloss/pink/9"
+  },
+  {
+    "text": "pink",
+    "keypoints_path": "MP_Data_gloss/pink/11"
+  },
+  {
+    "text": "pink",
+    "keypoints_path": "MP_Data_gloss/pink/12"
+  },
+  {
+    "text": "pink",
+    "keypoints_path": "MP_Data_gloss/pink/17"
+  },
+  {
+    "text": "pink",
+    "keypoints_path": "MP_Data_gloss/pink/18"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/1"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/4"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/5"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/6"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/7"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/8"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/9"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/10"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/13"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/14"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/15"
+  },
+  {
+    "text": "pizza",
+    "keypoints_path": "MP_Data_gloss/pizza/16"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/0"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/1"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/4"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/5"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/7"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/8"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/14"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/15"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/16"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/17"
+  },
+  {
+    "text": "play",
+    "keypoints_path": "MP_Data_gloss/play/18"
+  },
+  {
+    "text": "school",
+    "keypoints_path": "MP_Data_gloss/school/1"
+  },
+  {
+    "text": "school",
+    "keypoints_path": "MP_Data_gloss/school/7"
+  },
+  {
+    "text": "school",
+    "keypoints_path": "MP_Data_gloss/school/10"
+  },
+  {
+    "text": "school",
+    "keypoints_path": "MP_Data_gloss/school/13"
+  },
+  {
+    "text": "school",
+    "keypoints_path": "MP_Data_gloss/school/14"
+  },
+  {
+    "text": "school",
+    "keypoints_path": "MP_Data_gloss/school/15"
+  },
+  {
+    "text": "school",
+    "keypoints_path": "MP_Data_gloss/school/16"
+  },
+  {
+    "text": "school",
+    "keypoints_path": "MP_Data_gloss/school/17"
+  },
+  {
+    "text": "school",
+    "keypoints_path": "MP_Data_gloss/school/18"
+  },
+  {
+    "text": "secretary",
+    "keypoints_path": "MP_Data_gloss/secretary/1"
+  },
+  {
+    "text": "secretary",
+    "keypoints_path": "MP_Data_gloss/secretary/2"
+  },
+  {
+    "text": "secretary",
+    "keypoints_path": "MP_Data_gloss/secretary/3"
+  },
+  {
+    "text": "secretary",
+    "keypoints_path": "MP_Data_gloss/secretary/4"
+  },
+  {
+    "text": "secretary",
+    "keypoints_path": "MP_Data_gloss/secretary/5"
+  },
+  {
+    "text": "secretary",
+    "keypoints_path": "MP_Data_gloss/secretary/9"
+  },
+  {
+    "text": "secretary",
+    "keypoints_path": "MP_Data_gloss/secretary/10"
+  },
+  {
+    "text": "secretary",
+    "keypoints_path": "MP_Data_gloss/secretary/12"
+  },
+  {
+    "text": "secretary",
+    "keypoints_path": "MP_Data_gloss/secretary/18"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/2"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/3"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/4"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/5"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/6"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/7"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/10"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/11"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/13"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/14"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/15"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/17"
+  },
+  {
+    "text": "short",
+    "keypoints_path": "MP_Data_gloss/short/18"
+  },
+  {
+    "text": "time",
+    "keypoints_path": "MP_Data_gloss/time/1"
+  },
+  {
+    "text": "time",
+    "keypoints_path": "MP_Data_gloss/time/5"
+  },
+  {
+    "text": "time",
+    "keypoints_path": "MP_Data_gloss/time/6"
+  },
+  {
+    "text": "time",
+    "keypoints_path": "MP_Data_gloss/time/10"
+  },
+  {
+    "text": "time",
+    "keypoints_path": "MP_Data_gloss/time/11"
+  },
+  {
+    "text": "time",
+    "keypoints_path": "MP_Data_gloss/time/14"
+  },
+  {
+    "text": "time",
+    "keypoints_path": "MP_Data_gloss/time/15"
+  },
+  {
+    "text": "time",
+    "keypoints_path": "MP_Data_gloss/time/16"
+  },
+  {
+    "text": "want",
+    "keypoints_path": "MP_Data_gloss/want/1"
+  },
+  {
+    "text": "want",
+    "keypoints_path": "MP_Data_gloss/want/4"
+  },
+  {
+    "text": "want",
+    "keypoints_path": "MP_Data_gloss/want/5"
+  },
+  {
+    "text": "want",
+    "keypoints_path": "MP_Data_gloss/want/6"
+  },
+  {
+    "text": "want",
+    "keypoints_path": "MP_Data_gloss/want/9"
+  },
+  {
+    "text": "want",
+    "keypoints_path": "MP_Data_gloss/want/11"
+  },
+  {
+    "text": "want",
+    "keypoints_path": "MP_Data_gloss/want/17"
+  },
+  {
+    "text": "want",
+    "keypoints_path": "MP_Data_gloss/want/18"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/4"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/5"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/6"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/7"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/8"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/9"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/11"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/12"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/13"
+  },
+  {
+    "text": "work",
+    "keypoints_path": "MP_Data_gloss/work/15"
+  },
+  {
+    "text": "africa",
+    "keypoints_path": "MP_Data_gloss/africa/1"
+  },
+  {
+    "text": "africa",
+    "keypoints_path": "MP_Data_gloss/africa/2"
+  },
+  {
+    "text": "africa",
+    "keypoints_path": "MP_Data_gloss/africa/3"
+  },
+  {
+    "text": "africa",
+    "keypoints_path": "MP_Data_gloss/africa/4"
+  },
+  {
+    "text": "africa",
+    "keypoints_path": "MP_Data_gloss/africa/5"
+  },
+  {
+    "text": "africa",
+    "keypoints_path": "MP_Data_gloss/africa/6"
+  },
+  {
+    "text": "africa",
+    "keypoints_path": "MP_Data_gloss/africa/8"
+  },
+  {
+    "text": "africa",
+    "keypoints_path": "MP_Data_gloss/africa/9"
+  },
+  {
+    "text": "africa",
+    "keypoints_path": "MP_Data_gloss/africa/17"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/1"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/3"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/4"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/5"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/6"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/7"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/10"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/11"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/12"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/13"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/15"
+  },
+  {
+    "text": "basketball",
+    "keypoints_path": "MP_Data_gloss/basketball/17"
+  },
+  {
+    "text": "birthday",
+    "keypoints_path": "MP_Data_gloss/birthday/1"
+  },
+  {
+    "text": "birthday",
+    "keypoints_path": "MP_Data_gloss/birthday/5"
+  },
+  {
+    "text": "birthday",
+    "keypoints_path": "MP_Data_gloss/birthday/9"
+  },
+  {
+    "text": "birthday",
+    "keypoints_path": "MP_Data_gloss/birthday/13"
+  },
+  {
+    "text": "birthday",
+    "keypoints_path": "MP_Data_gloss/birthday/14"
+  },
+  {
+    "text": "birthday",
+    "keypoints_path": "MP_Data_gloss/birthday/17"
+  },
+  {
+    "text": "brown",
+    "keypoints_path": "MP_Data_gloss/brown/1"
+  },
+  {
+    "text": "brown",
+    "keypoints_path": "MP_Data_gloss/brown/4"
+  },
+  {
+    "text": "brown",
+    "keypoints_path": "MP_Data_gloss/brown/6"
+  },
+  {
+    "text": "brown",
+    "keypoints_path": "MP_Data_gloss/brown/10"
+  },
+  {
+    "text": "brown",
+    "keypoints_path": "MP_Data_gloss/brown/11"
+  },
+  {
+    "text": "brown",
+    "keypoints_path": "MP_Data_gloss/brown/15"
+  },
+  {
+    "text": "brown",
+    "keypoints_path": "MP_Data_gloss/brown/16"
+  },
+  {
+    "text": "brown",
+    "keypoints_path": "MP_Data_gloss/brown/17"
+  },
+  {
+    "text": "but",
+    "keypoints_path": "MP_Data_gloss/but/5"
+  },
+  {
+    "text": "but",
+    "keypoints_path": "MP_Data_gloss/but/6"
+  },
+  {
+    "text": "but",
+    "keypoints_path": "MP_Data_gloss/but/9"
+  },
+  {
+    "text": "but",
+    "keypoints_path": "MP_Data_gloss/but/10"
+  },
+  {
+    "text": "but",
+    "keypoints_path": "MP_Data_gloss/but/15"
+  },
+  {
+    "text": "but",
+    "keypoints_path": "MP_Data_gloss/but/17"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/4"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/5"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/6"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/7"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/8"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/9"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/10"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/14"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/15"
+  },
+  {
+    "text": "cheat",
+    "keypoints_path": "MP_Data_gloss/cheat/16"
+  },
+  {
+    "text": "city",
+    "keypoints_path": "MP_Data_gloss/city/1"
+  },
+  {
+    "text": "city",
+    "keypoints_path": "MP_Data_gloss/city/3"
+  },
+  {
+    "text": "city",
+    "keypoints_path": "MP_Data_gloss/city/5"
+  },
+  {
+    "text": "city",
+    "keypoints_path": "MP_Data_gloss/city/9"
+  },
+  {
+    "text": "city",
+    "keypoints_path": "MP_Data_gloss/city/10"
+  },
+  {
+    "text": "city",
+    "keypoints_path": "MP_Data_gloss/city/11"
+  },
+  {
+    "text": "city",
+    "keypoints_path": "MP_Data_gloss/city/15"
+  },
+  {
+    "text": "city",
+    "keypoints_path": "MP_Data_gloss/city/16"
+  },
+  {
+    "text": "city",
+    "keypoints_path": "MP_Data_gloss/city/17"
+  },
+  {
+    "text": "cook",
+    "keypoints_path": "MP_Data_gloss/cook/4"
+  },
+  {
+    "text": "cook",
+    "keypoints_path": "MP_Data_gloss/cook/6"
+  },
+  {
+    "text": "cook",
+    "keypoints_path": "MP_Data_gloss/cook/7"
+  },
+  {
+    "text": "cook",
+    "keypoints_path": "MP_Data_gloss/cook/13"
+  },
+  {
+    "text": "cook",
+    "keypoints_path": "MP_Data_gloss/cook/14"
+  },
+  {
+    "text": "cook",
+    "keypoints_path": "MP_Data_gloss/cook/15"
+  },
+  {
+    "text": "cook",
+    "keypoints_path": "MP_Data_gloss/cook/16"
+  },
+  {
+    "text": "cook",
+    "keypoints_path": "MP_Data_gloss/cook/17"
+  },
+  {
+    "text": "decide",
+    "keypoints_path": "MP_Data_gloss/decide/3"
+  },
+  {
+    "text": "decide",
+    "keypoints_path": "MP_Data_gloss/decide/5"
+  },
+  {
+    "text": "decide",
+    "keypoints_path": "MP_Data_gloss/decide/6"
+  },
+  {
+    "text": "decide",
+    "keypoints_path": "MP_Data_gloss/decide/9"
+  },
+  {
+    "text": "decide",
+    "keypoints_path": "MP_Data_gloss/decide/10"
+  },
+  {
+    "text": "decide",
+    "keypoints_path": "MP_Data_gloss/decide/15"
+  },
+  {
+    "text": "decide",
+    "keypoints_path": "MP_Data_gloss/decide/16"
+  },
+  {
+    "text": "decide",
+    "keypoints_path": "MP_Data_gloss/decide/17"
+  },
+  {
+    "text": "full",
+    "keypoints_path": "MP_Data_gloss/full/0"
+  },
+  {
+    "text": "full",
+    "keypoints_path": "MP_Data_gloss/full/2"
+  },
+  {
+    "text": "full",
+    "keypoints_path": "MP_Data_gloss/full/3"
+  },
+  {
+    "text": "full",
+    "keypoints_path": "MP_Data_gloss/full/6"
+  },
+  {
+    "text": "full",
+    "keypoints_path": "MP_Data_gloss/full/7"
+  },
+  {
+    "text": "full",
+    "keypoints_path": "MP_Data_gloss/full/8"
+  },
+  {
+    "text": "full",
+    "keypoints_path": "MP_Data_gloss/full/9"
+  },
+  {
+    "text": "full",
+    "keypoints_path": "MP_Data_gloss/full/15"
+  },
+  {
+    "text": "full",
+    "keypoints_path": "MP_Data_gloss/full/17"
+  },
+  {
+    "text": "how",
+    "keypoints_path": "MP_Data_gloss/how/1"
+  },
+  {
+    "text": "how",
+    "keypoints_path": "MP_Data_gloss/how/4"
+  },
+  {
+    "text": "how",
+    "keypoints_path": "MP_Data_gloss/how/9"
+  },
+  {
+    "text": "how",
+    "keypoints_path": "MP_Data_gloss/how/11"
+  },
+  {
+    "text": "how",
+    "keypoints_path": "MP_Data_gloss/how/14"
+  },
+  {
+    "text": "how",
+    "keypoints_path": "MP_Data_gloss/how/15"
+  },
+  {
+    "text": "how",
+    "keypoints_path": "MP_Data_gloss/how/16"
+  },
+  {
+    "text": "how",
+    "keypoints_path": "MP_Data_gloss/how/17"
+  },
+  {
+    "text": "jacket",
+    "keypoints_path": "MP_Data_gloss/jacket/5"
+  },
+  {
+    "text": "jacket",
+    "keypoints_path": "MP_Data_gloss/jacket/6"
+  },
+  {
+    "text": "jacket",
+    "keypoints_path": "MP_Data_gloss/jacket/7"
+  },
+  {
+    "text": "jacket",
+    "keypoints_path": "MP_Data_gloss/jacket/8"
+  },
+  {
+    "text": "jacket",
+    "keypoints_path": "MP_Data_gloss/jacket/9"
+  },
+  {
+    "text": "jacket",
+    "keypoints_path": "MP_Data_gloss/jacket/10"
+  },
+  {
+    "text": "jacket",
+    "keypoints_path": "MP_Data_gloss/jacket/14"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/0"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/4"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/5"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/6"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/8"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/9"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/10"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/12"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/15"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/16"
+  },
+  {
+    "text": "letter",
+    "keypoints_path": "MP_Data_gloss/letter/17"
+  },
+  {
+    "text": "medicine",
+    "keypoints_path": "MP_Data_gloss/medicine/0"
+  },
+  {
+    "text": "medicine",
+    "keypoints_path": "MP_Data_gloss/medicine/2"
+  },
+  {
+    "text": "medicine",
+    "keypoints_path": "MP_Data_gloss/medicine/3"
+  },
+  {
+    "text": "medicine",
+    "keypoints_path": "MP_Data_gloss/medicine/4"
+  },
+  {
+    "text": "medicine",
+    "keypoints_path": "MP_Data_gloss/medicine/6"
+  },
+  {
+    "text": "medicine",
+    "keypoints_path": "MP_Data_gloss/medicine/9"
+  },
+  {
+    "text": "medicine",
+    "keypoints_path": "MP_Data_gloss/medicine/16"
+  },
+  {
+    "text": "medicine",
+    "keypoints_path": "MP_Data_gloss/medicine/17"
+  },
+  {
+    "text": "need",
+    "keypoints_path": "MP_Data_gloss/need/4"
+  },
+  {
+    "text": "need",
+    "keypoints_path": "MP_Data_gloss/need/9"
+  },
+  {
+    "text": "need",
+    "keypoints_path": "MP_Data_gloss/need/14"
+  },
+  {
+    "text": "need",
+    "keypoints_path": "MP_Data_gloss/need/15"
+  },
+  {
+    "text": "need",
+    "keypoints_path": "MP_Data_gloss/need/16"
+  },
+  {
+    "text": "need",
+    "keypoints_path": "MP_Data_gloss/need/17"
+  },
+  {
+    "text": "paint",
+    "keypoints_path": "MP_Data_gloss/paint/5"
+  },
+  {
+    "text": "paint",
+    "keypoints_path": "MP_Data_gloss/paint/6"
+  },
+  {
+    "text": "paint",
+    "keypoints_path": "MP_Data_gloss/paint/9"
+  },
+  {
+    "text": "paint",
+    "keypoints_path": "MP_Data_gloss/paint/14"
+  },
+  {
+    "text": "paint",
+    "keypoints_path": "MP_Data_gloss/paint/15"
+  },
+  {
+    "text": "paint",
+    "keypoints_path": "MP_Data_gloss/paint/16"
+  },
+  {
+    "text": "paint",
+    "keypoints_path": "MP_Data_gloss/paint/17"
+  },
+  {
+    "text": "paper",
+    "keypoints_path": "MP_Data_gloss/paper/4"
+  },
+  {
+    "text": "paper",
+    "keypoints_path": "MP_Data_gloss/paper/6"
+  },
+  {
+    "text": "paper",
+    "keypoints_path": "MP_Data_gloss/paper/9"
+  },
+  {
+    "text": "paper",
+    "keypoints_path": "MP_Data_gloss/paper/13"
+  },
+  {
+    "text": "paper",
+    "keypoints_path": "MP_Data_gloss/paper/14"
+  },
+  {
+    "text": "paper",
+    "keypoints_path": "MP_Data_gloss/paper/15"
+  },
+  {
+    "text": "paper",
+    "keypoints_path": "MP_Data_gloss/paper/16"
+  },
+  {
+    "text": "paper",
+    "keypoints_path": "MP_Data_gloss/paper/17"
+  },
+  {
+    "text": "pull",
+    "keypoints_path": "MP_Data_gloss/pull/1"
+  },
+  {
+    "text": "pull",
+    "keypoints_path": "MP_Data_gloss/pull/3"
+  },
+  {
+    "text": "pull",
+    "keypoints_path": "MP_Data_gloss/pull/5"
+  },
+  {
+    "text": "pull",
+    "keypoints_path": "MP_Data_gloss/pull/9"
+  },
+  {
+    "text": "pull",
+    "keypoints_path": "MP_Data_gloss/pull/10"
+  },
+  {
+    "text": "pull",
+    "keypoints_path": "MP_Data_gloss/pull/14"
+  },
+  {
+    "text": "pull",
+    "keypoints_path": "MP_Data_gloss/pull/15"
+  },
+  {
+    "text": "pull",
+    "keypoints_path": "MP_Data_gloss/pull/16"
+  },
+  {
+    "text": "pull",
+    "keypoints_path": "MP_Data_gloss/pull/17"
+  },
+  {
+    "text": "purple",
+    "keypoints_path": "MP_Data_gloss/purple/1"
+  },
+  {
+    "text": "purple",
+    "keypoints_path": "MP_Data_gloss/purple/5"
+  },
+  {
+    "text": "purple",
+    "keypoints_path": "MP_Data_gloss/purple/9"
+  },
+  {
+    "text": "purple",
+    "keypoints_path": "MP_Data_gloss/purple/12"
+  },
+  {
+    "text": "purple",
+    "keypoints_path": "MP_Data_gloss/purple/13"
+  },
+  {
+    "text": "purple",
+    "keypoints_path": "MP_Data_gloss/purple/14"
+  },
+  {
+    "text": "purple",
+    "keypoints_path": "MP_Data_gloss/purple/15"
+  },
+  {
+    "text": "purple",
+    "keypoints_path": "MP_Data_gloss/purple/16"
+  },
+  {
+    "text": "right",
+    "keypoints_path": "MP_Data_gloss/right/3"
+  },
+  {
+    "text": "right",
+    "keypoints_path": "MP_Data_gloss/right/4"
+  },
+  {
+    "text": "right",
+    "keypoints_path": "MP_Data_gloss/right/5"
+  },
+  {
+    "text": "right",
+    "keypoints_path": "MP_Data_gloss/right/6"
+  },
+  {
+    "text": "right",
+    "keypoints_path": "MP_Data_gloss/right/7"
+  },
+  {
+    "text": "right",
+    "keypoints_path": "MP_Data_gloss/right/8"
+  },
+  {
+    "text": "right",
+    "keypoints_path": "MP_Data_gloss/right/10"
+  },
+  {
+    "text": "right",
+    "keypoints_path": "MP_Data_gloss/right/14"
+  },
+  {
+    "text": "right",
+    "keypoints_path": "MP_Data_gloss/right/15"
+  },
+  {
+    "text": "same",
+    "keypoints_path": "MP_Data_gloss/same/0"
+  },
+  {
+    "text": "same",
+    "keypoints_path": "MP_Data_gloss/same/2"
+  },
+  {
+    "text": "same",
+    "keypoints_path": "MP_Data_gloss/same/3"
+  },
+  {
+    "text": "same",
+    "keypoints_path": "MP_Data_gloss/same/4"
+  },
+  {
+    "text": "same",
+    "keypoints_path": "MP_Data_gloss/same/7"
+  },
+  {
+    "text": "same",
+    "keypoints_path": "MP_Data_gloss/same/8"
+  },
+  {
+    "text": "same",
+    "keypoints_path": "MP_Data_gloss/same/11"
+  },
+  {
+    "text": "same",
+    "keypoints_path": "MP_Data_gloss/same/16"
+  },
+  {
+    "text": "same",
+    "keypoints_path": "MP_Data_gloss/same/17"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/4"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/5"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/6"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/9"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/10"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/11"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/14"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/15"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/16"
+  },
+  {
+    "text": "son",
+    "keypoints_path": "MP_Data_gloss/son/17"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/1"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/5"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/6"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/7"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/8"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/9"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/11"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/12"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/16"
+  },
+  {
+    "text": "tell",
+    "keypoints_path": "MP_Data_gloss/tell/17"
   }
 ]
