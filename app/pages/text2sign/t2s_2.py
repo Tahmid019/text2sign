@@ -210,7 +210,15 @@ def t2s_2():
     if st.button("Generate"):
         input_tensor = tokenize(text_input, vocab).long()
         with torch.no_grad():
-            pred_keypoints = model(input_tensor).squeeze(0).numpy()  # (30, 1662)
+            pred_keypoints = model(input_tensor).squeeze(0).numpy()  
+        
+        pred_keypoints = pred_keypoints.reshape(30, -1, 3)
+        REFERENCE_CENTER = np.array([256, 256])  
+        REFERENCE_SCALE = 1.0 
+
+        pred_keypoints[:, :, :2] = pred_keypoints[:, :, :2] * REFERENCE_SCALE + REFERENCE_CENTER
+
+        
 
         st.session_state.pred_keypoints = pred_keypoints
         st.session_state.current_text = text_input
