@@ -8,6 +8,8 @@
 !Final.h5
 !my_model_updated.h5
 
+/venv
+venv
 /myenv
 *.env
 /env

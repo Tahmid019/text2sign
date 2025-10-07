@@ -12,3 +12,5 @@ tensorflow
 tf-keras
 streamlit-webrtc
 streamlit-autorefresh
+
+# For GPU support, uncomment the following line and comment out the tensorflow line above
