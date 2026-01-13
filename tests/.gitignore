@@ -1,0 +1,60 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files (raw, processed, temporary)
+data/
+*.csv
+*.tsv
+*.json
+*.parquet
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Model weights and checkpoints
+*.ckpt
+*.pth
+*.pt
+*.pb
+*.onnx
+*.tflite
+checkpoints/
+models/
+
+# Logs and outputs
+logs/
+*.log
+*.out
+*.err
+
+# Temporary or intermediate files
+tmp/
+temp/
+*.tmp
+
+# IDE/project files
+.vscode/
+.idea/
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+*.mp4
+*.h5
+*.mp3
+
