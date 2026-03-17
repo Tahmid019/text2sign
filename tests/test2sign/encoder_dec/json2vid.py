@@ -4,8 +4,8 @@ import cv2
 import mediapipe as mp
 
 # =======
-INPUT_JSON = r'E:\Balanced_20_Frames_Augmented\Train\about\00421_10\landmarks.json'     
-OUTPUT_VIDEO = "output_keypoints.mp4"
+INPUT_JSON = r'E:\Balanced_20_Frames_Augmented\Train\baby\04509\landmarks.json'     
+OUTPUT_VIDEO = "baby_1.mp4"
 
 IMG_SIZE = 800
 FPS = 15
