@@ -1,0 +1,13 @@
+{
+    "model_path": "assets/final_model.pth",
+    "stats_path": "assets/stats.json",
+    "label_map_path": "assets/label_map_final.json",
+    "model_params": {
+        "input_dim": 3484,
+        "num_classes": 200,
+        "hidden_dim": 384,
+        "nhead": 8,
+        "num_lstm_layers": 2,
+        "num_transformer_layers": 1
+    }
+}

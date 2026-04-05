@@ -1,25 +1,9 @@
-version: '3.12'
 services:
-  mediapipe:
-    build: ./mediapipe_service
-    ports:
-      - "5000:5000"
-    networks:
-      - app-net
-
   streamlit:
-    build: .
+    build: ./app
+    container_name: streamlit_app
     ports:
       - "8501:8501"
     volumes:
-      - .:/app  
-    environment:
-      - MEDIAPIPE_URL=http://mediapipe:5000
-    networks:
-      - app-net
-    depends_on:
-      - mediapipe
-
-networks:
-  app-net:
-    driver: bridge
+      - ./app:/app
+    command: streamlit run app.py --server.address=0.0.0.0

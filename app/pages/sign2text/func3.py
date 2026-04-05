@@ -12,8 +12,6 @@ from config import *
 mp_holistic = mp.solutions.holistic
 mp_drawing = mp.solutions.drawing_utils
 
-
-
 # Load model (uncomment if you have a saved model)
 # model = load_model('action.h5')
 

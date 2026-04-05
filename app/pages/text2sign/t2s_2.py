@@ -5,6 +5,9 @@ import numpy as np
 import os
 import cv2
 from mediapipe.python.solutions.holistic import POSE_CONNECTIONS, HAND_CONNECTIONS
+import imageio
+import tempfile
+# import moviepy.editor as mp
 
 # from lstm_model.utils import LSTM_t2s, tokenize, render_keypoints
 
@@ -207,7 +210,15 @@ def t2s_2():
     if st.button("Generate"):
         input_tensor = tokenize(text_input, vocab).long()
         with torch.no_grad():
-            pred_keypoints = model(input_tensor).squeeze(0).numpy()  # (30, 1662)
+            pred_keypoints = model(input_tensor).squeeze(0).numpy()  
+        
+        pred_keypoints = pred_keypoints.reshape(30, -1, 3)
+        REFERENCE_CENTER = np.array([256, 256])  
+        REFERENCE_SCALE = 1.0 
+
+        pred_keypoints[:, :, :2] = pred_keypoints[:, :, :2] * REFERENCE_SCALE + REFERENCE_CENTER
+
+        
 
         st.session_state.pred_keypoints = pred_keypoints
         st.session_state.current_text = text_input
@@ -218,5 +229,14 @@ def t2s_2():
 
         frame = np.ones((480, 640, 3), dtype=np.uint8)
         keypoints = st.session_state.pred_keypoints[frame_idx]
-        rendered = render_keypoints(frame, keypoints)
-        st.image(rendered, channels="BGR", caption=f"Frame {frame_idx + 1}")
+
+        frames = []
+        for i in range(30):
+            frame = np.ones((480, 640, 3), dtype=np.uint8)
+            keypoints = st.session_state.pred_keypoints[i]
+            rendered = render_keypoints(frame, keypoints)
+            frames.append(rendered)
+
+        with tempfile.NamedTemporaryFile(suffix=".gif", delete=False) as tmpfile:
+            imageio.mimsave(tmpfile.name, frames, format='GIF', duration=0.08, loop=0)
+            st.image(tmpfile.name, caption="Generated Sign Language Animation (GIF)")

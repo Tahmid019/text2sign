@@ -12,3 +12,20 @@ tensorflow
 tf-keras
 streamlit-webrtc
 streamlit-autorefresh
+
+
+# imageio
+# keras
+# keyboard
+# # mediapipe==0.10.21
+# numpy
+# opencv_python
+# pyttsx3
+# Requests
+# sentence_transformers
+# streamlit
+# streamlit_autorefresh
+# streamlit_webrtc
+# tensorflow
+# tensorflow_intel
+# torch
