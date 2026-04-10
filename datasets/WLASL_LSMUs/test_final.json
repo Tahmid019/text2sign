@@ -1,0 +1,10367 @@
+[
+  {
+    "id": "211",
+    "gloss": "book",
+    "instances": [
+      {
+        "video_id": "07092"
+      },
+      {
+        "video_id": "07093"
+      },
+      {
+        "video_id": "07095"
+      },
+      {
+        "video_id": "07072"
+      }
+    ]
+  },
+  {
+    "id": "569",
+    "gloss": "drink",
+    "instances": [
+      {
+        "video_id": "17730"
+      },
+      {
+        "video_id": "17713"
+      },
+      {
+        "video_id": "17716"
+      },
+      {
+        "video_id": "17718"
+      }
+    ]
+  },
+  {
+    "id": "393",
+    "gloss": "computer",
+    "instances": [
+      {
+        "video_id": "12306"
+      },
+      {
+        "video_id": "12332"
+      },
+      {
+        "video_id": "12336"
+      },
+      {
+        "video_id": "12320"
+      },
+      {
+        "video_id": "67519"
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "gloss": "before",
+    "instances": [
+      {
+        "video_id": "05735"
+      },
+      {
+        "video_id": "05727"
+      },
+      {
+        "video_id": "05739"
+      },
+      {
+        "video_id": "05741"
+      }
+    ]
+  },
+  {
+    "id": "314",
+    "gloss": "chair",
+    "instances": [
+      {
+        "video_id": "09847"
+      },
+      {
+        "video_id": "09867"
+      },
+      {
+        "video_id": "09855"
+      }
+    ]
+  },
+  {
+    "id": "790",
+    "gloss": "go",
+    "instances": [
+      {
+        "video_id": "24857"
+      },
+      {
+        "video_id": "24960"
+      },
+      {
+        "video_id": "67715"
+      }
+    ]
+  },
+  {
+    "id": "359",
+    "gloss": "clothes",
+    "instances": [
+      {
+        "video_id": "11305"
+      },
+      {
+        "video_id": "11311"
+      },
+      {
+        "video_id": "11318"
+      }
+    ]
+  },
+  {
+    "id": "286",
+    "gloss": "candy",
+    "instances": [
+      {
+        "video_id": "65300"
+      },
+      {
+        "video_id": "08915"
+      },
+      {
+        "video_id": "08925"
+      }
+    ]
+  },
+  {
+    "id": "434",
+    "gloss": "cousin",
+    "instances": [
+      {
+        "video_id": "65415"
+      },
+      {
+        "video_id": "13635"
+      },
+      {
+        "video_id": "67535"
+      }
+    ]
+  },
+  {
+    "id": "473",
+    "gloss": "deaf",
+    "instances": [
+      {
+        "video_id": "14855"
+      },
+      {
+        "video_id": "14883"
+      },
+      {
+        "video_id": "14888"
+      }
+    ]
+  },
+  {
+    "id": "704",
+    "gloss": "fine",
+    "instances": [
+      {
+        "video_id": "65717"
+      },
+      {
+        "video_id": "70234"
+      },
+      {
+        "video_id": "21890"
+      }
+    ]
+  },
+  {
+    "id": "859",
+    "gloss": "help",
+    "instances": [
+      {
+        "video_id": "27194"
+      },
+      {
+        "video_id": "27209"
+      },
+      {
+        "video_id": "27213"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "gloss": "all",
+    "instances": [
+      {
+        "video_id": "68720"
+      },
+      {
+        "video_id": "01986"
+      },
+      {
+        "video_id": "01996"
+      }
+    ]
+  },
+  {
+    "id": "197",
+    "gloss": "black",
+    "instances": [
+      {
+        "video_id": "06455"
+      },
+      {
+        "video_id": "06481"
+      },
+      {
+        "video_id": "06483"
+      }
+    ]
+  },
+  {
+    "id": "419",
+    "gloss": "cool",
+    "instances": [
+      {
+        "video_id": "70271"
+      },
+      {
+        "video_id": "13198"
+      },
+      {
+        "video_id": "13196"
+      }
+    ]
+  },
+  {
+    "id": "706",
+    "gloss": "finish",
+    "instances": [
+      {
+        "video_id": "21933"
+      },
+      {
+        "video_id": "70361"
+      },
+      {
+        "video_id": "21944"
+      }
+    ]
+  },
+  {
+    "id": "885",
+    "gloss": "hot",
+    "instances": [
+      {
+        "video_id": "28074"
+      },
+      {
+        "video_id": "28119"
+      },
+      {
+        "video_id": "28121"
+      }
+    ]
+  },
+  {
+    "id": "165",
+    "gloss": "bed",
+    "instances": [
+      {
+        "video_id": "05628"
+      },
+      {
+        "video_id": "05639"
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "gloss": "blue",
+    "instances": [
+      {
+        "video_id": "06822"
+      },
+      {
+        "video_id": "06845"
+      }
+    ]
+  },
+  {
+    "id": "223",
+    "gloss": "bowling",
+    "instances": [
+      {
+        "video_id": "07383"
+      },
+      {
+        "video_id": "07400"
+      }
+    ]
+  },
+  {
+    "id": "281",
+    "gloss": "can",
+    "instances": [
+      {
+        "video_id": "69257"
+      },
+      {
+        "video_id": "08947"
+      }
+    ]
+  },
+  {
+    "id": "549",
+    "gloss": "dog",
+    "instances": [
+      {
+        "video_id": "17097"
+      },
+      {
+        "video_id": "65506"
+      },
+      {
+        "video_id": "67578"
+      }
+    ]
+  },
+  {
+    "id": "679",
+    "gloss": "family",
+    "instances": [
+      {
+        "video_id": "20976"
+      },
+      {
+        "video_id": "20991"
+      }
+    ]
+  },
+  {
+    "id": "710",
+    "gloss": "fish",
+    "instances": [
+      {
+        "video_id": "22109"
+      },
+      {
+        "video_id": "22117"
+      },
+      {
+        "video_id": "22126"
+      }
+    ]
+  },
+  {
+    "id": "803",
+    "gloss": "graduate",
+    "instances": [
+      {
+        "video_id": "25318"
+      },
+      {
+        "video_id": "67722"
+      }
+    ]
+  },
+  {
+    "id": "841",
+    "gloss": "hat",
+    "instances": [
+      {
+        "video_id": "26688"
+      },
+      {
+        "video_id": "26723"
+      }
+    ]
+  },
+  {
+    "id": "850",
+    "gloss": "hearing",
+    "instances": [
+      {
+        "video_id": "65884"
+      },
+      {
+        "video_id": "26984"
+      }
+    ]
+  },
+  {
+    "id": "978",
+    "gloss": "kiss",
+    "instances": [
+      {
+        "video_id": "31750"
+      },
+      {
+        "video_id": "31758"
+      },
+      {
+        "video_id": "31749"
+      }
+    ]
+  },
+  {
+    "id": "988",
+    "gloss": "language",
+    "instances": [
+      {
+        "video_id": "32157"
+      },
+      {
+        "video_id": "32166"
+      },
+      {
+        "video_id": "32167"
+      }
+    ]
+  },
+  {
+    "id": "995",
+    "gloss": "later",
+    "instances": [
+      {
+        "video_id": "67829"
+      },
+      {
+        "video_id": "32329"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "gloss": "accident",
+    "instances": [
+      {
+        "video_id": "00625"
+      },
+      {
+        "video_id": "00634"
+      },
+      {
+        "video_id": "00635"
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "gloss": "apple",
+    "instances": [
+      {
+        "video_id": "02997"
+      },
+      {
+        "video_id": "03004"
+      }
+    ]
+  },
+  {
+    "id": "192",
+    "gloss": "bird",
+    "instances": [
+      {
+        "video_id": "06326"
+      },
+      {
+        "video_id": "06335"
+      }
+    ]
+  },
+  {
+    "id": "318",
+    "gloss": "change",
+    "instances": [
+      {
+        "video_id": "09945"
+      },
+      {
+        "video_id": "09950"
+      }
+    ]
+  },
+  {
+    "id": "372",
+    "gloss": "color",
+    "instances": [
+      {
+        "video_id": "11752"
+      },
+      {
+        "video_id": "11772"
+      }
+    ]
+  },
+  {
+    "id": "423",
+    "gloss": "corn",
+    "instances": [
+      {
+        "video_id": "13325"
+      },
+      {
+        "video_id": "67530"
+      },
+      {
+        "video_id": "13334"
+      }
+    ]
+  },
+  {
+    "id": "436",
+    "gloss": "cow",
+    "instances": [
+      {
+        "video_id": "13681"
+      },
+      {
+        "video_id": "13708"
+      },
+      {
+        "video_id": "13710"
+      }
+    ]
+  },
+  {
+    "id": "463",
+    "gloss": "dance",
+    "instances": [
+      {
+        "video_id": "14621"
+      },
+      {
+        "video_id": "14626"
+      }
+    ]
+  },
+  {
+    "id": "467",
+    "gloss": "dark",
+    "instances": [
+      {
+        "video_id": "14673"
+      },
+      {
+        "video_id": "14682"
+      },
+      {
+        "video_id": "14685"
+      }
+    ]
+  },
+  {
+    "id": "547",
+    "gloss": "doctor",
+    "instances": [
+      {
+        "video_id": "17020"
+      },
+      {
+        "video_id": "67579"
+      },
+      {
+        "video_id": "17024"
+      }
+    ]
+  },
+  {
+    "id": "597",
+    "gloss": "eat",
+    "instances": [
+      {
+        "video_id": "18316"
+      },
+      {
+        "video_id": "18326"
+      }
+    ]
+  },
+  {
+    "id": "627",
+    "gloss": "enjoy",
+    "instances": [
+      {
+        "video_id": "19255"
+      },
+      {
+        "video_id": "19262"
+      }
+    ]
+  },
+  {
+    "id": "733",
+    "gloss": "forget",
+    "instances": [
+      {
+        "video_id": "65761"
+      },
+      {
+        "video_id": "22954"
+      }
+    ]
+  },
+  {
+    "id": "785",
+    "gloss": "give",
+    "instances": [
+      {
+        "video_id": "24636"
+      },
+      {
+        "video_id": "24649"
+      }
+    ]
+  },
+  {
+    "id": "991",
+    "gloss": "last",
+    "instances": [
+      {
+        "video_id": "32253"
+      },
+      {
+        "video_id": "32246"
+      },
+      {
+        "video_id": "32258"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "gloss": "africa",
+    "instances": [
+      {
+        "video_id": "01386"
+      },
+      {
+        "video_id": "01394"
+      },
+      {
+        "video_id": "01397"
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "gloss": "basketball",
+    "instances": [
+      {
+        "video_id": "05227"
+      },
+      {
+        "video_id": "69225"
+      }
+    ]
+  },
+  {
+    "id": "194",
+    "gloss": "birthday",
+    "instances": [
+      {
+        "video_id": "06366"
+      },
+      {
+        "video_id": "06370"
+      },
+      {
+        "video_id": "06360"
+      }
+    ]
+  },
+  {
+    "id": "248",
+    "gloss": "brown",
+    "instances": [
+      {
+        "video_id": "07957"
+      },
+      {
+        "video_id": "69252"
+      }
+    ]
+  },
+  {
+    "id": "261",
+    "gloss": "but",
+    "instances": [
+      {
+        "video_id": "08429"
+      },
+      {
+        "video_id": "08436"
+      },
+      {
+        "video_id": "08425"
+      }
+    ]
+  },
+  {
+    "id": "324",
+    "gloss": "cheat",
+    "instances": [
+      {
+        "video_id": "10156"
+      },
+      {
+        "video_id": "10159"
+      }
+    ]
+  },
+  {
+    "id": "348",
+    "gloss": "city",
+    "instances": [
+      {
+        "video_id": "10888"
+      },
+      {
+        "video_id": "69269"
+      }
+    ]
+  },
+  {
+    "id": "417",
+    "gloss": "cook",
+    "instances": [
+      {
+        "video_id": "13154"
+      },
+      {
+        "video_id": "70030"
+      }
+    ]
+  },
+  {
+    "id": "478",
+    "gloss": "decide",
+    "instances": [
+      {
+        "video_id": "15031"
+      },
+      {
+        "video_id": "70119"
+      }
+    ]
+  },
+  {
+    "id": "755",
+    "gloss": "full",
+    "instances": [
+      {
+        "video_id": "70029"
+      },
+      {
+        "video_id": "23767"
+      }
+    ]
+  },
+  {
+    "id": "889",
+    "gloss": "how",
+    "instances": [
+      {
+        "video_id": "28187"
+      },
+      {
+        "video_id": "69370"
+      },
+      {
+        "video_id": "28201"
+      }
+    ]
+  },
+  {
+    "id": "951",
+    "gloss": "jacket",
+    "instances": [
+      {
+        "video_id": "30830"
+      },
+      {
+        "video_id": "68320"
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "gloss": "backpack",
+    "instances": [
+      {
+        "video_id": "04614"
+      },
+      {
+        "video_id": "68956"
+      },
+      {
+        "video_id": "65123"
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "gloss": "bar",
+    "instances": [
+      {
+        "video_id": "65137"
+      },
+      {
+        "video_id": "05088"
+      },
+      {
+        "video_id": "05089"
+      }
+    ]
+  },
+  {
+    "id": "247",
+    "gloss": "brother",
+    "instances": [
+      {
+        "video_id": "07929"
+      },
+      {
+        "video_id": "69251"
+      }
+    ]
+  },
+  {
+    "id": "300",
+    "gloss": "cat",
+    "instances": [
+      {
+        "video_id": "09431"
+      },
+      {
+        "video_id": "69261"
+      }
+    ]
+  },
+  {
+    "id": "325",
+    "gloss": "check",
+    "instances": [
+      {
+        "video_id": "10186"
+      },
+      {
+        "video_id": "10195"
+      },
+      {
+        "video_id": "10196"
+      }
+    ]
+  },
+  {
+    "id": "349",
+    "gloss": "class",
+    "instances": [
+      {
+        "video_id": "10965"
+      },
+      {
+        "video_id": "69270"
+      }
+    ]
+  },
+  {
+    "id": "448",
+    "gloss": "cry",
+    "instances": [
+      {
+        "video_id": "14172"
+      },
+      {
+        "video_id": "14190"
+      }
+    ]
+  },
+  {
+    "id": "519",
+    "gloss": "different",
+    "instances": [
+      {
+        "video_id": "16190"
+      },
+      {
+        "video_id": "68034"
+      }
+    ]
+  },
+  {
+    "id": "555",
+    "gloss": "door",
+    "instances": [
+      {
+        "video_id": "17317"
+      },
+      {
+        "video_id": "70264"
+      }
+    ]
+  },
+  {
+    "id": "815",
+    "gloss": "green",
+    "instances": [
+      {
+        "video_id": "25674"
+      },
+      {
+        "video_id": "69353"
+      }
+    ]
+  },
+  {
+    "id": "829",
+    "gloss": "hair",
+    "instances": [
+      {
+        "video_id": "26122"
+      },
+      {
+        "video_id": "68424"
+      }
+    ]
+  },
+  {
+    "id": "843",
+    "gloss": "have",
+    "instances": [
+      {
+        "video_id": "26757"
+      },
+      {
+        "video_id": "69360"
+      }
+    ]
+  },
+  {
+    "id": "846",
+    "gloss": "headache",
+    "instances": [
+      {
+        "video_id": "26832"
+      },
+      {
+        "video_id": "26835"
+      }
+    ]
+  },
+  {
+    "id": "920",
+    "gloss": "inform",
+    "instances": [
+      {
+        "video_id": "29654"
+      },
+      {
+        "video_id": "29657"
+      },
+      {
+        "video_id": "29660"
+      }
+    ]
+  },
+  {
+    "id": "981",
+    "gloss": "knife",
+    "instances": [
+      {
+        "video_id": "31841"
+      },
+      {
+        "video_id": "70320"
+      }
+    ]
+  },
+  {
+    "id": "996",
+    "gloss": "laugh",
+    "instances": [
+      {
+        "video_id": "32379"
+      },
+      {
+        "video_id": "67831"
+      },
+      {
+        "video_id": "32389"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "gloss": "again",
+    "instances": [
+      {
+        "video_id": "01457"
+      },
+      {
+        "video_id": "68276"
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "gloss": "bad",
+    "instances": [
+      {
+        "video_id": "04694"
+      },
+      {
+        "video_id": "69219"
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "gloss": "ball",
+    "instances": [
+      {
+        "video_id": "04833"
+      },
+      {
+        "video_id": "69221"
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "gloss": "bathroom",
+    "instances": [
+      {
+        "video_id": "05296"
+      },
+      {
+        "video_id": "05299"
+      }
+    ]
+  },
+  {
+    "id": "199",
+    "gloss": "blanket",
+    "instances": [
+      {
+        "video_id": "06550"
+      },
+      {
+        "video_id": "06553"
+      }
+    ]
+  },
+  {
+    "id": "265",
+    "gloss": "buy",
+    "instances": [
+      {
+        "video_id": "08478"
+      },
+      {
+        "video_id": "69255"
+      }
+    ]
+  },
+  {
+    "id": "275",
+    "gloss": "call",
+    "instances": [
+      {
+        "video_id": "08706"
+      },
+      {
+        "video_id": "08701"
+      }
+    ]
+  },
+  {
+    "id": "368",
+    "gloss": "coffee",
+    "instances": [
+      {
+        "video_id": "11552"
+      },
+      {
+        "video_id": "70298"
+      }
+    ]
+  },
+  {
+    "id": "369",
+    "gloss": "cold",
+    "instances": [
+      {
+        "video_id": "65377"
+      },
+      {
+        "video_id": "11638"
+      }
+    ]
+  },
+  {
+    "id": "371",
+    "gloss": "college",
+    "instances": [
+      {
+        "video_id": "11704"
+      },
+      {
+        "video_id": "68026"
+      }
+    ]
+  },
+  {
+    "id": "422",
+    "gloss": "copy",
+    "instances": [
+      {
+        "video_id": "13258"
+      },
+      {
+        "video_id": "68756"
+      }
+    ]
+  },
+  {
+    "id": "458",
+    "gloss": "cute",
+    "instances": [
+      {
+        "video_id": "14450"
+      },
+      {
+        "video_id": "68652"
+      }
+    ]
+  },
+  {
+    "id": "469",
+    "gloss": "daughter",
+    "instances": [
+      {
+        "video_id": "14748"
+      },
+      {
+        "video_id": "70334"
+      }
+    ]
+  },
+  {
+    "id": "651",
+    "gloss": "example",
+    "instances": [
+      {
+        "video_id": "20067"
+      },
+      {
+        "video_id": "20077"
+      }
+    ]
+  },
+  {
+    "id": "682",
+    "gloss": "far",
+    "instances": [
+      {
+        "video_id": "21052"
+      },
+      {
+        "video_id": "21078"
+      },
+      {
+        "video_id": "65682"
+      }
+    ]
+  },
+  {
+    "id": "709",
+    "gloss": "first",
+    "instances": [
+      {
+        "video_id": "22071"
+      },
+      {
+        "video_id": "22096"
+      }
+    ]
+  },
+  {
+    "id": "748",
+    "gloss": "friend",
+    "instances": [
+      {
+        "video_id": "23567"
+      },
+      {
+        "video_id": "68214"
+      }
+    ]
+  },
+  {
+    "id": "797",
+    "gloss": "good",
+    "instances": [
+      {
+        "video_id": "25072"
+      },
+      {
+        "video_id": "25070"
+      }
+    ]
+  },
+  {
+    "id": "838",
+    "gloss": "happy",
+    "instances": [
+      {
+        "video_id": "26506"
+      },
+      {
+        "video_id": "26525"
+      }
+    ]
+  },
+  {
+    "id": "875",
+    "gloss": "home",
+    "instances": [
+      {
+        "video_id": "27762"
+      },
+      {
+        "video_id": "69366"
+      }
+    ]
+  },
+  {
+    "id": "983",
+    "gloss": "know",
+    "instances": [
+      {
+        "video_id": "31896"
+      },
+      {
+        "video_id": "31900"
+      }
+    ]
+  },
+  {
+    "id": "994",
+    "gloss": "late",
+    "instances": [
+      {
+        "video_id": "32298"
+      },
+      {
+        "video_id": "70297"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "gloss": "about",
+    "instances": [
+      {
+        "video_id": "67339"
+      },
+      {
+        "video_id": "00424"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "gloss": "approve",
+    "instances": [
+      {
+        "video_id": "03125"
+      },
+      {
+        "video_id": "03120"
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "gloss": "arrive",
+    "instances": [
+      {
+        "video_id": "03445"
+      },
+      {
+        "video_id": "03436"
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "gloss": "balance",
+    "instances": [
+      {
+        "video_id": "04805"
+      },
+      {
+        "video_id": "04796"
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "gloss": "banana",
+    "instances": [
+      {
+        "video_id": "04905"
+      },
+      {
+        "video_id": "04896"
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "gloss": "beard",
+    "instances": [
+      {
+        "video_id": "67397"
+      },
+      {
+        "video_id": "05477"
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "gloss": "because",
+    "instances": [
+      {
+        "video_id": "05605"
+      },
+      {
+        "video_id": "05607"
+      }
+    ]
+  },
+  {
+    "id": "226",
+    "gloss": "boy",
+    "instances": [
+      {
+        "video_id": "07462"
+      },
+      {
+        "video_id": "07454"
+      }
+    ]
+  },
+  {
+    "id": "259",
+    "gloss": "business",
+    "instances": [
+      {
+        "video_id": "08377"
+      },
+      {
+        "video_id": "08379"
+      }
+    ]
+  },
+  {
+    "id": "295",
+    "gloss": "careful",
+    "instances": [
+      {
+        "video_id": "09188"
+      },
+      {
+        "video_id": "09180"
+      }
+    ]
+  },
+  {
+    "id": "310",
+    "gloss": "center",
+    "instances": [
+      {
+        "video_id": "09729"
+      },
+      {
+        "video_id": "09731"
+      }
+    ]
+  },
+  {
+    "id": "322",
+    "gloss": "chat",
+    "instances": [
+      {
+        "video_id": "10111"
+      },
+      {
+        "video_id": "10102"
+      }
+    ]
+  },
+  {
+    "id": "334",
+    "gloss": "children",
+    "instances": [
+      {
+        "video_id": "67495"
+      },
+      {
+        "video_id": "10472"
+      }
+    ]
+  },
+  {
+    "id": "344",
+    "gloss": "christmas",
+    "instances": [
+      {
+        "video_id": "10696"
+      },
+      {
+        "video_id": "10708"
+      }
+    ]
+  },
+  {
+    "id": "356",
+    "gloss": "clock",
+    "instances": [
+      {
+        "video_id": "11206"
+      },
+      {
+        "video_id": "11209"
+      }
+    ]
+  },
+  {
+    "id": "357",
+    "gloss": "close",
+    "instances": [
+      {
+        "video_id": "11262"
+      },
+      {
+        "video_id": "11265"
+      }
+    ]
+  },
+  {
+    "id": "416",
+    "gloss": "convince",
+    "instances": [
+      {
+        "video_id": "13135"
+      },
+      {
+        "video_id": "13148"
+      }
+    ]
+  },
+  {
+    "id": "432",
+    "gloss": "country",
+    "instances": [
+      {
+        "video_id": "13553"
+      },
+      {
+        "video_id": "13555"
+      }
+    ]
+  },
+  {
+    "id": "439",
+    "gloss": "crash",
+    "instances": [
+      {
+        "video_id": "69284"
+      },
+      {
+        "video_id": "13801"
+      }
+    ]
+  },
+  {
+    "id": "471",
+    "gloss": "day",
+    "instances": [
+      {
+        "video_id": "14802"
+      },
+      {
+        "video_id": "14793"
+      }
+    ]
+  },
+  {
+    "id": "536",
+    "gloss": "discuss",
+    "instances": [
+      {
+        "video_id": "16595"
+      },
+      {
+        "video_id": "16597"
+      }
+    ]
+  },
+  {
+    "id": "568",
+    "gloss": "dress",
+    "instances": [
+      {
+        "video_id": "17665"
+      },
+      {
+        "video_id": "17656"
+      }
+    ]
+  },
+  {
+    "id": "570",
+    "gloss": "drive",
+    "instances": [
+      {
+        "video_id": "17751"
+      },
+      {
+        "video_id": "17768"
+      }
+    ]
+  },
+  {
+    "id": "571",
+    "gloss": "drop",
+    "instances": [
+      {
+        "video_id": "65544"
+      },
+      {
+        "video_id": "17822"
+      }
+    ]
+  },
+  {
+    "id": "686",
+    "gloss": "fat",
+    "instances": [
+      {
+        "video_id": "21239"
+      },
+      {
+        "video_id": "21241"
+      }
+    ]
+  },
+  {
+    "id": "695",
+    "gloss": "feel",
+    "instances": [
+      {
+        "video_id": "21442"
+      },
+      {
+        "video_id": "21434"
+      }
+    ]
+  },
+  {
+    "id": "728",
+    "gloss": "football",
+    "instances": [
+      {
+        "video_id": "22810"
+      },
+      {
+        "video_id": "22802"
+      }
+    ]
+  },
+  {
+    "id": "761",
+    "gloss": "future",
+    "instances": [
+      {
+        "video_id": "23955"
+      },
+      {
+        "video_id": "23946"
+      }
+    ]
+  },
+  {
+    "id": "765",
+    "gloss": "game",
+    "instances": [
+      {
+        "video_id": "24026"
+      },
+      {
+        "video_id": "24028"
+      }
+    ]
+  },
+  {
+    "id": "783",
+    "gloss": "girl",
+    "instances": [
+      {
+        "video_id": "24606"
+      },
+      {
+        "video_id": "24608"
+      }
+    ]
+  },
+  {
+    "id": "801",
+    "gloss": "government",
+    "instances": [
+      {
+        "video_id": "25251"
+      },
+      {
+        "video_id": "25253"
+      }
+    ]
+  },
+  {
+    "id": "849",
+    "gloss": "hear",
+    "instances": [
+      {
+        "video_id": "26946"
+      },
+      {
+        "video_id": "26955"
+      }
+    ]
+  },
+  {
+    "id": "861",
+    "gloss": "here",
+    "instances": [
+      {
+        "video_id": "27263"
+      },
+      {
+        "video_id": "27273"
+      }
+    ]
+  },
+  {
+    "id": "881",
+    "gloss": "hope",
+    "instances": [
+      {
+        "video_id": "27922"
+      },
+      {
+        "video_id": "27933"
+      }
+    ]
+  },
+  {
+    "id": "888",
+    "gloss": "house",
+    "instances": [
+      {
+        "video_id": "28160"
+      },
+      {
+        "video_id": "28162"
+      }
+    ]
+  },
+  {
+    "id": "898",
+    "gloss": "husband",
+    "instances": [
+      {
+        "video_id": "28473"
+      },
+      {
+        "video_id": "28465"
+      }
+    ]
+  },
+  {
+    "id": "930",
+    "gloss": "interest",
+    "instances": [
+      {
+        "video_id": "30153"
+      },
+      {
+        "video_id": "30155"
+      }
+    ]
+  },
+  {
+    "id": "959",
+    "gloss": "join",
+    "instances": [
+      {
+        "video_id": "65981"
+      },
+      {
+        "video_id": "31159"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "gloss": "always",
+    "instances": [
+      {
+        "video_id": "02229"
+      },
+      {
+        "video_id": "02231"
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "gloss": "animal",
+    "instances": [
+      {
+        "video_id": "02585"
+      },
+      {
+        "video_id": "02587"
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "gloss": "argue",
+    "instances": [
+      {
+        "video_id": "03278"
+      },
+      {
+        "video_id": "03281"
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "gloss": "baby",
+    "instances": [
+      {
+        "video_id": "04507"
+      },
+      {
+        "video_id": "04509"
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "gloss": "back",
+    "instances": [
+      {
+        "video_id": "04600"
+      },
+      {
+        "video_id": "04593"
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "gloss": "bake",
+    "instances": [
+      {
+        "video_id": "67382"
+      },
+      {
+        "video_id": "04770"
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "gloss": "bath",
+    "instances": [
+      {
+        "video_id": "05276"
+      },
+      {
+        "video_id": "05278"
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "gloss": "behind",
+    "instances": [
+      {
+        "video_id": "05813"
+      },
+      {
+        "video_id": "05815"
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "gloss": "bring",
+    "instances": [
+      {
+        "video_id": "07809"
+      },
+      {
+        "video_id": "07811"
+      }
+    ]
+  },
+  {
+    "id": "301",
+    "gloss": "catch",
+    "instances": [
+      {
+        "video_id": "09468"
+      },
+      {
+        "video_id": "09470"
+      }
+    ]
+  },
+  {
+    "id": "311",
+    "gloss": "cereal",
+    "instances": [
+      {
+        "video_id": "69264"
+      },
+      {
+        "video_id": "09774"
+      }
+    ]
+  },
+  {
+    "id": "316",
+    "gloss": "champion",
+    "instances": [
+      {
+        "video_id": "09915"
+      },
+      {
+        "video_id": "09917"
+      }
+    ]
+  },
+  {
+    "id": "327",
+    "gloss": "cheese",
+    "instances": [
+      {
+        "video_id": "10268"
+      },
+      {
+        "video_id": "10270"
+      }
+    ]
+  },
+  {
+    "id": "428",
+    "gloss": "cough",
+    "instances": [
+      {
+        "video_id": "13468"
+      },
+      {
+        "video_id": "13470"
+      }
+    ]
+  },
+  {
+    "id": "441",
+    "gloss": "crazy",
+    "instances": [
+      {
+        "video_id": "13855"
+      },
+      {
+        "video_id": "13857"
+      }
+    ]
+  },
+  {
+    "id": "487",
+    "gloss": "delay",
+    "instances": [
+      {
+        "video_id": "15332"
+      },
+      {
+        "video_id": "15321"
+      }
+    ]
+  },
+  {
+    "id": "488",
+    "gloss": "delicious",
+    "instances": [
+      {
+        "video_id": "15372"
+      },
+      {
+        "video_id": "15374"
+      }
+    ]
+  },
+  {
+    "id": "531",
+    "gloss": "disappear",
+    "instances": [
+      {
+        "video_id": "16449"
+      },
+      {
+        "video_id": "16438"
+      }
+    ]
+  },
+  {
+    "id": "545",
+    "gloss": "divorce",
+    "instances": [
+      {
+        "video_id": "67577"
+      },
+      {
+        "video_id": "16975"
+      }
+    ]
+  },
+  {
+    "id": "565",
+    "gloss": "draw",
+    "instances": [
+      {
+        "video_id": "17605"
+      },
+      {
+        "video_id": "17595"
+      }
+    ]
+  },
+  {
+    "id": "594",
+    "gloss": "east",
+    "instances": [
+      {
+        "video_id": "18289"
+      },
+      {
+        "video_id": "18291"
+      }
+    ]
+  },
+  {
+    "id": "596",
+    "gloss": "easy",
+    "instances": [
+      {
+        "video_id": "18307"
+      },
+      {
+        "video_id": "18309"
+      }
+    ]
+  },
+  {
+    "id": "602",
+    "gloss": "egg",
+    "instances": [
+      {
+        "video_id": "18497"
+      },
+      {
+        "video_id": "18486"
+      }
+    ]
+  },
+  {
+    "id": "632",
+    "gloss": "environment",
+    "instances": [
+      {
+        "video_id": "19410"
+      },
+      {
+        "video_id": "19413"
+      }
+    ]
+  },
+  {
+    "id": "687",
+    "gloss": "father",
+    "instances": [
+      {
+        "video_id": "21204"
+      },
+      {
+        "video_id": "21217"
+      }
+    ]
+  },
+  {
+    "id": "688",
+    "gloss": "fault",
+    "instances": [
+      {
+        "video_id": "21281"
+      },
+      {
+        "video_id": "21286"
+      }
+    ]
+  },
+  {
+    "id": "721",
+    "gloss": "flower",
+    "instances": [
+      {
+        "video_id": "22549"
+      },
+      {
+        "video_id": "22551"
+      }
+    ]
+  },
+  {
+    "id": "749",
+    "gloss": "friendly",
+    "instances": [
+      {
+        "video_id": "23581"
+      },
+      {
+        "video_id": "23583"
+      }
+    ]
+  },
+  {
+    "id": "788",
+    "gloss": "glasses",
+    "instances": [
+      {
+        "video_id": "67710"
+      },
+      {
+        "video_id": "24732"
+      }
+    ]
+  },
+  {
+    "id": "832",
+    "gloss": "halloween",
+    "instances": [
+      {
+        "video_id": "26250"
+      },
+      {
+        "video_id": "26258"
+      }
+    ]
+  },
+  {
+    "id": "839",
+    "gloss": "hard",
+    "instances": [
+      {
+        "video_id": "26568"
+      },
+      {
+        "video_id": "26570"
+      }
+    ]
+  },
+  {
+    "id": "852",
+    "gloss": "heart",
+    "instances": [
+      {
+        "video_id": "27013"
+      },
+      {
+        "video_id": "27047"
+      }
+    ]
+  },
+  {
+    "id": "887",
+    "gloss": "hour",
+    "instances": [
+      {
+        "video_id": "28148"
+      },
+      {
+        "video_id": "28150"
+      }
+    ]
+  },
+  {
+    "id": "892",
+    "gloss": "humble",
+    "instances": [
+      {
+        "video_id": "28318"
+      },
+      {
+        "video_id": "28308"
+      }
+    ]
+  },
+  {
+    "id": "896",
+    "gloss": "hurry",
+    "instances": [
+      {
+        "video_id": "28428"
+      },
+      {
+        "video_id": "28429"
+      }
+    ]
+  },
+  {
+    "id": "911",
+    "gloss": "improve",
+    "instances": [
+      {
+        "video_id": "29137"
+      },
+      {
+        "video_id": "29139"
+      }
+    ]
+  },
+  {
+    "id": "933",
+    "gloss": "internet",
+    "instances": [
+      {
+        "video_id": "30242"
+      },
+      {
+        "video_id": "30232"
+      }
+    ]
+  },
+  {
+    "id": "965",
+    "gloss": "jump",
+    "instances": [
+      {
+        "video_id": "31317"
+      },
+      {
+        "video_id": "31320"
+      }
+    ]
+  },
+  {
+    "id": "975",
+    "gloss": "kill",
+    "instances": [
+      {
+        "video_id": "31659"
+      },
+      {
+        "video_id": "31650"
+      }
+    ]
+  },
+  {
+    "id": "998",
+    "gloss": "law",
+    "instances": [
+      {
+        "video_id": "32449"
+      },
+      {
+        "video_id": "32451"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "gloss": "afternoon",
+    "instances": [
+      {
+        "video_id": "01436"
+      },
+      {
+        "video_id": "01438"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "gloss": "age",
+    "instances": [
+      {
+        "video_id": "01487"
+      },
+      {
+        "video_id": "01489"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "gloss": "alone",
+    "instances": [
+      {
+        "video_id": "02105"
+      },
+      {
+        "video_id": "02107"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "gloss": "appointment",
+    "instances": [
+      {
+        "video_id": "03058"
+      },
+      {
+        "video_id": "03060"
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "gloss": "australia",
+    "instances": [
+      {
+        "video_id": "04195"
+      },
+      {
+        "video_id": "04198"
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "gloss": "avoid",
+    "instances": [
+      {
+        "video_id": "04346"
+      },
+      {
+        "video_id": "04348"
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "gloss": "balloon",
+    "instances": [
+      {
+        "video_id": "04869"
+      },
+      {
+        "video_id": "04871"
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "gloss": "basement",
+    "instances": [
+      {
+        "video_id": "05195"
+      },
+      {
+        "video_id": "05197"
+      }
+    ]
+  },
+  {
+    "id": "160",
+    "gloss": "bear",
+    "instances": [
+      {
+        "video_id": "05495"
+      },
+      {
+        "video_id": "05497"
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "gloss": "believe",
+    "instances": [
+      {
+        "video_id": "05855"
+      },
+      {
+        "video_id": "05857"
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "gloss": "better",
+    "instances": [
+      {
+        "video_id": "06070"
+      },
+      {
+        "video_id": "06072"
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "gloss": "blind",
+    "instances": [
+      {
+        "video_id": "06652"
+      },
+      {
+        "video_id": "06654"
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "gloss": "bored",
+    "instances": [
+      {
+        "video_id": "07202"
+      },
+      {
+        "video_id": "07192"
+      }
+    ]
+  },
+  {
+    "id": "222",
+    "gloss": "bowl",
+    "instances": [
+      {
+        "video_id": "07372"
+      },
+      {
+        "video_id": "07374"
+      }
+    ]
+  },
+  {
+    "id": "224",
+    "gloss": "box",
+    "instances": [
+      {
+        "video_id": "07420"
+      },
+      {
+        "video_id": "07422"
+      }
+    ]
+  },
+  {
+    "id": "229",
+    "gloss": "bracelet",
+    "instances": [
+      {
+        "video_id": "07472"
+      },
+      {
+        "video_id": "07474"
+      }
+    ]
+  },
+  {
+    "id": "234",
+    "gloss": "bread",
+    "instances": [
+      {
+        "video_id": "07599"
+      },
+      {
+        "video_id": "07601"
+      }
+    ]
+  },
+  {
+    "id": "269",
+    "gloss": "cafeteria",
+    "instances": [
+      {
+        "video_id": "08590"
+      },
+      {
+        "video_id": "08592"
+      }
+    ]
+  },
+  {
+    "id": "291",
+    "gloss": "car",
+    "instances": [
+      {
+        "video_id": "09245"
+      },
+      {
+        "video_id": "09249"
+      }
+    ]
+  },
+  {
+    "id": "332",
+    "gloss": "chicken",
+    "instances": [
+      {
+        "video_id": "10408"
+      },
+      {
+        "video_id": "10411"
+      }
+    ]
+  },
+  {
+    "id": "333",
+    "gloss": "child",
+    "instances": [
+      {
+        "video_id": "10446"
+      },
+      {
+        "video_id": "10448"
+      }
+    ]
+  },
+  {
+    "id": "340",
+    "gloss": "choose",
+    "instances": [
+      {
+        "video_id": "10639"
+      },
+      {
+        "video_id": "10641"
+      }
+    ]
+  },
+  {
+    "id": "345",
+    "gloss": "church",
+    "instances": [
+      {
+        "video_id": "10772"
+      },
+      {
+        "video_id": "10774"
+      }
+    ]
+  },
+  {
+    "id": "418",
+    "gloss": "cookie",
+    "instances": [
+      {
+        "video_id": "13174"
+      },
+      {
+        "video_id": "13177"
+      }
+    ]
+  },
+  {
+    "id": "451",
+    "gloss": "cup",
+    "instances": [
+      {
+        "video_id": "14289"
+      },
+      {
+        "video_id": "14291"
+      }
+    ]
+  },
+  {
+    "id": "457",
+    "gloss": "cut",
+    "instances": [
+      {
+        "video_id": "14485"
+      },
+      {
+        "video_id": "14473"
+      }
+    ]
+  },
+  {
+    "id": "479",
+    "gloss": "decorate",
+    "instances": [
+      {
+        "video_id": "15100"
+      },
+      {
+        "video_id": "65451"
+      }
+    ]
+  },
+  {
+    "id": "482",
+    "gloss": "deep",
+    "instances": [
+      {
+        "video_id": "15160"
+      },
+      {
+        "video_id": "15162"
+      }
+    ]
+  },
+  {
+    "id": "483",
+    "gloss": "deer",
+    "instances": [
+      {
+        "video_id": "15175"
+      },
+      {
+        "video_id": "15177"
+      }
+    ]
+  },
+  {
+    "id": "493",
+    "gloss": "dentist",
+    "instances": [
+      {
+        "video_id": "15534"
+      },
+      {
+        "video_id": "15536"
+      }
+    ]
+  },
+  {
+    "id": "529",
+    "gloss": "dirty",
+    "instances": [
+      {
+        "video_id": "16407"
+      },
+      {
+        "video_id": "16409"
+      }
+    ]
+  },
+  {
+    "id": "542",
+    "gloss": "dive",
+    "instances": [
+      {
+        "video_id": "16896"
+      },
+      {
+        "video_id": "16899"
+      }
+    ]
+  },
+  {
+    "id": "560",
+    "gloss": "down",
+    "instances": [
+      {
+        "video_id": "17432"
+      },
+      {
+        "video_id": "17434"
+      }
+    ]
+  },
+  {
+    "id": "575",
+    "gloss": "dry",
+    "instances": [
+      {
+        "video_id": "17934"
+      },
+      {
+        "video_id": "17936"
+      }
+    ]
+  },
+  {
+    "id": "588",
+    "gloss": "ear",
+    "instances": [
+      {
+        "video_id": "18156"
+      },
+      {
+        "video_id": "18158"
+      }
+    ]
+  },
+  {
+    "id": "590",
+    "gloss": "earn",
+    "instances": [
+      {
+        "video_id": "18198"
+      },
+      {
+        "video_id": "18200"
+      }
+    ]
+  },
+  {
+    "id": "591",
+    "gloss": "earring",
+    "instances": [
+      {
+        "video_id": "18225"
+      },
+      {
+        "video_id": "67605"
+      }
+    ]
+  },
+  {
+    "id": "610",
+    "gloss": "elephant",
+    "instances": [
+      {
+        "video_id": "18772"
+      },
+      {
+        "video_id": "18774"
+      }
+    ]
+  },
+  {
+    "id": "626",
+    "gloss": "english",
+    "instances": [
+      {
+        "video_id": "19235"
+      },
+      {
+        "video_id": "19237"
+      }
+    ]
+  },
+  {
+    "id": "636",
+    "gloss": "escape",
+    "instances": [
+      {
+        "video_id": "19559"
+      },
+      {
+        "video_id": "19561"
+      }
+    ]
+  },
+  {
+    "id": "660",
+    "gloss": "expensive",
+    "instances": [
+      {
+        "video_id": "20365"
+      },
+      {
+        "video_id": "20367"
+      }
+    ]
+  },
+  {
+    "id": "664",
+    "gloss": "explain",
+    "instances": [
+      {
+        "video_id": "20438"
+      },
+      {
+        "video_id": "20440"
+      }
+    ]
+  },
+  {
+    "id": "685",
+    "gloss": "fast",
+    "instances": [
+      {
+        "video_id": "65691"
+      },
+      {
+        "video_id": "21177"
+      }
+    ]
+  },
+  {
+    "id": "699",
+    "gloss": "fight",
+    "instances": [
+      {
+        "video_id": "21704"
+      },
+      {
+        "video_id": "21707"
+      }
+    ]
+  },
+  {
+    "id": "703",
+    "gloss": "find",
+    "instances": [
+      {
+        "video_id": "21853"
+      },
+      {
+        "video_id": "21855"
+      }
+    ]
+  },
+  {
+    "id": "711",
+    "gloss": "fishing",
+    "instances": [
+      {
+        "video_id": "22134"
+      },
+      {
+        "video_id": "22136"
+      }
+    ]
+  },
+  {
+    "id": "719",
+    "gloss": "floor",
+    "instances": [
+      {
+        "video_id": "22492"
+      },
+      {
+        "video_id": "22494"
+      }
+    ]
+  },
+  {
+    "id": "723",
+    "gloss": "fly",
+    "instances": [
+      {
+        "video_id": "22642"
+      },
+      {
+        "video_id": "22633"
+      }
+    ]
+  },
+  {
+    "id": "725",
+    "gloss": "follow",
+    "instances": [
+      {
+        "video_id": "22718"
+      },
+      {
+        "video_id": "22720"
+      }
+    ]
+  },
+  {
+    "id": "751",
+    "gloss": "from",
+    "instances": [
+      {
+        "video_id": "23641"
+      },
+      {
+        "video_id": "23643"
+      }
+    ]
+  },
+  {
+    "id": "778",
+    "gloss": "get",
+    "instances": [
+      {
+        "video_id": "24440"
+      },
+      {
+        "video_id": "24443"
+      }
+    ]
+  },
+  {
+    "id": "837",
+    "gloss": "happen",
+    "instances": [
+      {
+        "video_id": "26498"
+      },
+      {
+        "video_id": "26500"
+      }
+    ]
+  },
+  {
+    "id": "857",
+    "gloss": "hello",
+    "instances": [
+      {
+        "video_id": "27172"
+      },
+      {
+        "video_id": "27175"
+      }
+    ]
+  },
+  {
+    "id": "871",
+    "gloss": "hit",
+    "instances": [
+      {
+        "video_id": "27592"
+      },
+      {
+        "video_id": "27594"
+      }
+    ]
+  },
+  {
+    "id": "883",
+    "gloss": "hospital",
+    "instances": [
+      {
+        "video_id": "28034"
+      },
+      {
+        "video_id": "28036"
+      }
+    ]
+  },
+  {
+    "id": "901",
+    "gloss": "idea",
+    "instances": [
+      {
+        "video_id": "28649"
+      },
+      {
+        "video_id": "28651"
+      }
+    ]
+  },
+  {
+    "id": "909",
+    "gloss": "important",
+    "instances": [
+      {
+        "video_id": "29071"
+      },
+      {
+        "video_id": "29073"
+      }
+    ]
+  },
+  {
+    "id": "941",
+    "gloss": "investigate",
+    "instances": [
+      {
+        "video_id": "30469"
+      },
+      {
+        "video_id": "30471"
+      }
+    ]
+  },
+  {
+    "id": "954",
+    "gloss": "japan",
+    "instances": [
+      {
+        "video_id": "30937"
+      },
+      {
+        "video_id": "30933"
+      }
+    ]
+  },
+  {
+    "id": "955",
+    "gloss": "jealous",
+    "instances": [
+      {
+        "video_id": "30987"
+      },
+      {
+        "video_id": "30974"
+      }
+    ]
+  },
+  {
+    "id": "977",
+    "gloss": "king",
+    "instances": [
+      {
+        "video_id": "31732"
+      },
+      {
+        "video_id": "31734"
+      }
+    ]
+  },
+  {
+    "id": "979",
+    "gloss": "kitchen",
+    "instances": [
+      {
+        "video_id": "31776"
+      },
+      {
+        "video_id": "31780"
+      }
+    ]
+  },
+  {
+    "id": "990",
+    "gloss": "large",
+    "instances": [
+      {
+        "video_id": "32206"
+      },
+      {
+        "video_id": "32208"
+      }
+    ]
+  },
+  {
+    "id": "993",
+    "gloss": "last year",
+    "instances": [
+      {
+        "video_id": "32283"
+      },
+      {
+        "video_id": "32285"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "gloss": "accept",
+    "instances": [
+      {
+        "video_id": "00601"
+      },
+      {
+        "video_id": "00602"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "gloss": "adult",
+    "instances": [
+      {
+        "video_id": "01194"
+      },
+      {
+        "video_id": "01215"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "gloss": "after",
+    "instances": [
+      {
+        "video_id": "01421"
+      },
+      {
+        "video_id": "01422"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "gloss": "ago",
+    "instances": [
+      {
+        "video_id": "01554"
+      },
+      {
+        "video_id": "01555"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "gloss": "allow",
+    "instances": [
+      {
+        "video_id": "02048"
+      },
+      {
+        "video_id": "02049"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "gloss": "america",
+    "instances": [
+      {
+        "video_id": "02353"
+      },
+      {
+        "video_id": "02354"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "gloss": "angel",
+    "instances": [
+      {
+        "video_id": "02544"
+      },
+      {
+        "video_id": "02545"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "gloss": "answer",
+    "instances": [
+      {
+        "video_id": "02715"
+      },
+      {
+        "video_id": "02716"
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "gloss": "any",
+    "instances": [
+      {
+        "video_id": "02831"
+      },
+      {
+        "video_id": "02832"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "gloss": "area",
+    "instances": [
+      {
+        "video_id": "65091"
+      },
+      {
+        "video_id": "68812"
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "gloss": "art",
+    "instances": [
+      {
+        "video_id": "03481"
+      },
+      {
+        "video_id": "03483"
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "gloss": "asl",
+    "instances": [
+      {
+        "video_id": "03640"
+      },
+      {
+        "video_id": "03641"
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "gloss": "aunt",
+    "instances": [
+      {
+        "video_id": "04173"
+      },
+      {
+        "video_id": "04174"
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "gloss": "awful",
+    "instances": [
+      {
+        "video_id": "04428"
+      },
+      {
+        "video_id": "04429"
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "gloss": "awkward",
+    "instances": [
+      {
+        "video_id": "04441"
+      },
+      {
+        "video_id": "04442"
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "gloss": "bacon",
+    "instances": [
+      {
+        "video_id": "04683"
+      },
+      {
+        "video_id": "04684"
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "gloss": "bark",
+    "instances": [
+      {
+        "video_id": "05108"
+      },
+      {
+        "video_id": "05109"
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "gloss": "bedroom",
+    "instances": [
+      {
+        "video_id": "05654"
+      },
+      {
+        "video_id": "05655"
+      }
+    ]
+  },
+  {
+    "id": "168",
+    "gloss": "beer",
+    "instances": [
+      {
+        "video_id": "05708"
+      },
+      {
+        "video_id": "05709"
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "gloss": "belt",
+    "instances": [
+      {
+        "video_id": "05927"
+      },
+      {
+        "video_id": "05928"
+      }
+    ]
+  },
+  {
+    "id": "188",
+    "gloss": "big",
+    "instances": [
+      {
+        "video_id": "06194"
+      },
+      {
+        "video_id": "06195"
+      }
+    ]
+  },
+  {
+    "id": "196",
+    "gloss": "bitter",
+    "instances": [
+      {
+        "video_id": "06431"
+      },
+      {
+        "video_id": "06432"
+      }
+    ]
+  },
+  {
+    "id": "218",
+    "gloss": "both",
+    "instances": [
+      {
+        "video_id": "07275"
+      },
+      {
+        "video_id": "07276"
+      }
+    ]
+  },
+  {
+    "id": "270",
+    "gloss": "cake",
+    "instances": [
+      {
+        "video_id": "69256"
+      },
+      {
+        "video_id": "08620"
+      }
+    ]
+  },
+  {
+    "id": "274",
+    "gloss": "california",
+    "instances": [
+      {
+        "video_id": "08673"
+      },
+      {
+        "video_id": "08674"
+      }
+    ]
+  },
+  {
+    "id": "282",
+    "gloss": "canada",
+    "instances": [
+      {
+        "video_id": "08845"
+      },
+      {
+        "video_id": "08846"
+      }
+    ]
+  },
+  {
+    "id": "298",
+    "gloss": "carrot",
+    "instances": [
+      {
+        "video_id": "09308"
+      },
+      {
+        "video_id": "09309"
+      }
+    ]
+  },
+  {
+    "id": "305",
+    "gloss": "cause",
+    "instances": [
+      {
+        "video_id": "09576"
+      },
+      {
+        "video_id": "09577"
+      }
+    ]
+  },
+  {
+    "id": "315",
+    "gloss": "challenge",
+    "instances": [
+      {
+        "video_id": "09896"
+      },
+      {
+        "video_id": "09897"
+      }
+    ]
+  },
+  {
+    "id": "323",
+    "gloss": "cheap",
+    "instances": [
+      {
+        "video_id": "10139"
+      },
+      {
+        "video_id": "10140"
+      }
+    ]
+  },
+  {
+    "id": "336",
+    "gloss": "chocolate",
+    "instances": [
+      {
+        "video_id": "10583"
+      },
+      {
+        "video_id": "10584"
+      }
+    ]
+  },
+  {
+    "id": "351",
+    "gloss": "clean",
+    "instances": [
+      {
+        "video_id": "11039"
+      },
+      {
+        "video_id": "11040"
+      }
+    ]
+  },
+  {
+    "id": "360",
+    "gloss": "cloud",
+    "instances": [
+      {
+        "video_id": "11364"
+      },
+      {
+        "video_id": "67506"
+      }
+    ]
+  },
+  {
+    "id": "387",
+    "gloss": "compare",
+    "instances": [
+      {
+        "video_id": "12118"
+      },
+      {
+        "video_id": "12119"
+      }
+    ]
+  },
+  {
+    "id": "391",
+    "gloss": "complex",
+    "instances": [
+      {
+        "video_id": "12226"
+      },
+      {
+        "video_id": "12227"
+      }
+    ]
+  },
+  {
+    "id": "408",
+    "gloss": "contact",
+    "instances": [
+      {
+        "video_id": "12875"
+      },
+      {
+        "video_id": "12876"
+      }
+    ]
+  },
+  {
+    "id": "410",
+    "gloss": "continue",
+    "instances": [
+      {
+        "video_id": "12972"
+      },
+      {
+        "video_id": "12973"
+      }
+    ]
+  },
+  {
+    "id": "424",
+    "gloss": "corner",
+    "instances": [
+      {
+        "video_id": "13317"
+      },
+      {
+        "video_id": "13318"
+      }
+    ]
+  },
+  {
+    "id": "425",
+    "gloss": "correct",
+    "instances": [
+      {
+        "video_id": "13357"
+      },
+      {
+        "video_id": "13358"
+      }
+    ]
+  },
+  {
+    "id": "454",
+    "gloss": "curse",
+    "instances": [
+      {
+        "video_id": "14382"
+      },
+      {
+        "video_id": "14383"
+      }
+    ]
+  },
+  {
+    "id": "472",
+    "gloss": "dead",
+    "instances": [
+      {
+        "video_id": "14839"
+      },
+      {
+        "video_id": "14840"
+      }
+    ]
+  },
+  {
+    "id": "490",
+    "gloss": "demand",
+    "instances": [
+      {
+        "video_id": "15426"
+      },
+      {
+        "video_id": "15427"
+      }
+    ]
+  },
+  {
+    "id": "497",
+    "gloss": "depend",
+    "instances": [
+      {
+        "video_id": "15606"
+      },
+      {
+        "video_id": "15607"
+      }
+    ]
+  },
+  {
+    "id": "502",
+    "gloss": "desert",
+    "instances": [
+      {
+        "video_id": "65467"
+      },
+      {
+        "video_id": "15730"
+      }
+    ]
+  },
+  {
+    "id": "504",
+    "gloss": "desk",
+    "instances": [
+      {
+        "video_id": "15778"
+      },
+      {
+        "video_id": "15779"
+      }
+    ]
+  },
+  {
+    "id": "510",
+    "gloss": "develop",
+    "instances": [
+      {
+        "video_id": "15937"
+      },
+      {
+        "video_id": "15938"
+      }
+    ]
+  },
+  {
+    "id": "517",
+    "gloss": "dictionary",
+    "instances": [
+      {
+        "video_id": "16128"
+      },
+      {
+        "video_id": "16129"
+      }
+    ]
+  },
+  {
+    "id": "550",
+    "gloss": "doll",
+    "instances": [
+      {
+        "video_id": "17146"
+      },
+      {
+        "video_id": "17149"
+      }
+    ]
+  },
+  {
+    "id": "582",
+    "gloss": "duty",
+    "instances": [
+      {
+        "video_id": "18063"
+      },
+      {
+        "video_id": "18064"
+      }
+    ]
+  },
+  {
+    "id": "595",
+    "gloss": "easter",
+    "instances": [
+      {
+        "video_id": "18283"
+      },
+      {
+        "video_id": "18272"
+      }
+    ]
+  },
+  {
+    "id": "603",
+    "gloss": "egypt",
+    "instances": [
+      {
+        "video_id": "18523"
+      },
+      {
+        "video_id": "18524"
+      }
+    ]
+  },
+  {
+    "id": "611",
+    "gloss": "elevator",
+    "instances": [
+      {
+        "video_id": "18801"
+      },
+      {
+        "video_id": "18790"
+      }
+    ]
+  },
+  {
+    "id": "613",
+    "gloss": "email",
+    "instances": [
+      {
+        "video_id": "18880"
+      },
+      {
+        "video_id": "18882"
+      }
+    ]
+  },
+  {
+    "id": "619",
+    "gloss": "end",
+    "instances": [
+      {
+        "video_id": "19114"
+      },
+      {
+        "video_id": "19115"
+      }
+    ]
+  },
+  {
+    "id": "630",
+    "gloss": "enter",
+    "instances": [
+      {
+        "video_id": "19331"
+      },
+      {
+        "video_id": "19332"
+      }
+    ]
+  },
+  {
+    "id": "639",
+    "gloss": "europe",
+    "instances": [
+      {
+        "video_id": "19688"
+      },
+      {
+        "video_id": "19689"
+      }
+    ]
+  },
+  {
+    "id": "642",
+    "gloss": "event",
+    "instances": [
+      {
+        "video_id": "19752"
+      },
+      {
+        "video_id": "19769"
+      }
+    ]
+  },
+  {
+    "id": "653",
+    "gloss": "exchange",
+    "instances": [
+      {
+        "video_id": "20141"
+      },
+      {
+        "video_id": "20142"
+      }
+    ]
+  },
+  {
+    "id": "661",
+    "gloss": "experience",
+    "instances": [
+      {
+        "video_id": "20382"
+      },
+      {
+        "video_id": "20383"
+      }
+    ]
+  },
+  {
+    "id": "671",
+    "gloss": "face",
+    "instances": [
+      {
+        "video_id": "20700"
+      },
+      {
+        "video_id": "20701"
+      }
+    ]
+  },
+  {
+    "id": "674",
+    "gloss": "fail",
+    "instances": [
+      {
+        "video_id": "20798"
+      },
+      {
+        "video_id": "20799"
+      }
+    ]
+  },
+  {
+    "id": "693",
+    "gloss": "feed",
+    "instances": [
+      {
+        "video_id": "21414"
+      },
+      {
+        "video_id": "21415"
+      }
+    ]
+  },
+  {
+    "id": "698",
+    "gloss": "few",
+    "instances": [
+      {
+        "video_id": "21552"
+      },
+      {
+        "video_id": "21554"
+      }
+    ]
+  },
+  {
+    "id": "714",
+    "gloss": "flag",
+    "instances": [
+      {
+        "video_id": "22276"
+      },
+      {
+        "video_id": "22277"
+      }
+    ]
+  },
+  {
+    "id": "726",
+    "gloss": "food",
+    "instances": [
+      {
+        "video_id": "22748"
+      },
+      {
+        "video_id": "22749"
+      }
+    ]
+  },
+  {
+    "id": "729",
+    "gloss": "for",
+    "instances": [
+      {
+        "video_id": "22997"
+      },
+      {
+        "video_id": "22998"
+      }
+    ]
+  },
+  {
+    "id": "736",
+    "gloss": "form",
+    "instances": [
+      {
+        "video_id": "23042"
+      },
+      {
+        "video_id": "23050"
+      }
+    ]
+  },
+  {
+    "id": "744",
+    "gloss": "freeze",
+    "instances": [
+      {
+        "video_id": "23447"
+      },
+      {
+        "video_id": "23448"
+      }
+    ]
+  },
+  {
+    "id": "747",
+    "gloss": "friday",
+    "instances": [
+      {
+        "video_id": "23543"
+      },
+      {
+        "video_id": "23544"
+      }
+    ]
+  },
+  {
+    "id": "753",
+    "gloss": "front",
+    "instances": [
+      {
+        "video_id": "23668"
+      },
+      {
+        "video_id": "23669"
+      }
+    ]
+  },
+  {
+    "id": "782",
+    "gloss": "giraffe",
+    "instances": [
+      {
+        "video_id": "24585"
+      },
+      {
+        "video_id": "24586"
+      }
+    ]
+  },
+  {
+    "id": "793",
+    "gloss": "god",
+    "instances": [
+      {
+        "video_id": "24918"
+      },
+      {
+        "video_id": "24919"
+      }
+    ]
+  },
+  {
+    "id": "805",
+    "gloss": "grammar",
+    "instances": [
+      {
+        "video_id": "25375"
+      },
+      {
+        "video_id": "25376"
+      }
+    ]
+  },
+  {
+    "id": "806",
+    "gloss": "grandfather",
+    "instances": [
+      {
+        "video_id": "25410"
+      },
+      {
+        "video_id": "25411"
+      }
+    ]
+  },
+  {
+    "id": "813",
+    "gloss": "great",
+    "instances": [
+      {
+        "video_id": "25637"
+      },
+      {
+        "video_id": "25622"
+      }
+    ]
+  },
+  {
+    "id": "814",
+    "gloss": "greece",
+    "instances": [
+      {
+        "video_id": "25646"
+      },
+      {
+        "video_id": "25647"
+      }
+    ]
+  },
+  {
+    "id": "820",
+    "gloss": "guess",
+    "instances": [
+      {
+        "video_id": "25924"
+      },
+      {
+        "video_id": "25925"
+      }
+    ]
+  },
+  {
+    "id": "823",
+    "gloss": "guitar",
+    "instances": [
+      {
+        "video_id": "25980"
+      },
+      {
+        "video_id": "25981"
+      }
+    ]
+  },
+  {
+    "id": "834",
+    "gloss": "hammer",
+    "instances": [
+      {
+        "video_id": "26326"
+      },
+      {
+        "video_id": "26313"
+      }
+    ]
+  },
+  {
+    "id": "856",
+    "gloss": "helicopter",
+    "instances": [
+      {
+        "video_id": "27155"
+      },
+      {
+        "video_id": "27156"
+      }
+    ]
+  },
+  {
+    "id": "864",
+    "gloss": "high",
+    "instances": [
+      {
+        "video_id": "27412"
+      },
+      {
+        "video_id": "27414"
+      }
+    ]
+  },
+  {
+    "id": "870",
+    "gloss": "history",
+    "instances": [
+      {
+        "video_id": "27571"
+      },
+      {
+        "video_id": "27572"
+      }
+    ]
+  },
+  {
+    "id": "893",
+    "gloss": "hungry",
+    "instances": [
+      {
+        "video_id": "28380"
+      },
+      {
+        "video_id": "28381"
+      }
+    ]
+  },
+  {
+    "id": "897",
+    "gloss": "hurt",
+    "instances": [
+      {
+        "video_id": "28453"
+      },
+      {
+        "video_id": "28454"
+      }
+    ]
+  },
+  {
+    "id": "939",
+    "gloss": "introduce",
+    "instances": [
+      {
+        "video_id": "30388"
+      },
+      {
+        "video_id": "30389"
+      }
+    ]
+  },
+  {
+    "id": "940",
+    "gloss": "invest",
+    "instances": [
+      {
+        "video_id": "30454"
+      },
+      {
+        "video_id": "30455"
+      }
+    ]
+  },
+  {
+    "id": "1000",
+    "gloss": "lazy",
+    "instances": [
+      {
+        "video_id": "32514"
+      },
+      {
+        "video_id": "32515"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "gloss": "add",
+    "instances": [
+      {
+        "video_id": "69205"
+      },
+      {
+        "video_id": "00973"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "gloss": "airplane",
+    "instances": [
+      {
+        "video_id": "01721"
+      },
+      {
+        "video_id": "67354"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "gloss": "already",
+    "instances": [
+      {
+        "video_id": "02158"
+      },
+      {
+        "video_id": "02161"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "gloss": "also",
+    "instances": [
+      {
+        "video_id": "02173"
+      },
+      {
+        "video_id": "02174"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "gloss": "analyze",
+    "instances": [
+      {
+        "video_id": "02473"
+      },
+      {
+        "video_id": "02475"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "gloss": "and",
+    "instances": [
+      {
+        "video_id": "02517"
+      },
+      {
+        "video_id": "02518"
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "gloss": "angry",
+    "instances": [
+      {
+        "video_id": "02564"
+      },
+      {
+        "video_id": "67364"
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "gloss": "appear",
+    "instances": [
+      {
+        "video_id": "02941"
+      },
+      {
+        "video_id": "02961"
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "gloss": "arm",
+    "instances": [
+      {
+        "video_id": "03328"
+      },
+      {
+        "video_id": "67369"
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "gloss": "army",
+    "instances": [
+      {
+        "video_id": "03360"
+      },
+      {
+        "video_id": "03362"
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "gloss": "arrest",
+    "instances": [
+      {
+        "video_id": "03420"
+      },
+      {
+        "video_id": "03425"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "gloss": "asia",
+    "instances": [
+      {
+        "video_id": "65100"
+      },
+      {
+        "video_id": "03563"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "gloss": "ask",
+    "instances": [
+      {
+        "video_id": "03587"
+      },
+      {
+        "video_id": "03603"
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "gloss": "attitude",
+    "instances": [
+      {
+        "video_id": "04039"
+      },
+      {
+        "video_id": "04042"
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "gloss": "attract",
+    "instances": [
+      {
+        "video_id": "04056"
+      },
+      {
+        "video_id": "04067"
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "gloss": "bald",
+    "instances": [
+      {
+        "video_id": "04814"
+      },
+      {
+        "video_id": "04819"
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "gloss": "barely",
+    "instances": [
+      {
+        "video_id": "65138"
+      },
+      {
+        "video_id": "05074"
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "gloss": "baseball",
+    "instances": [
+      {
+        "video_id": "05165"
+      },
+      {
+        "video_id": "05171"
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "gloss": "beg",
+    "instances": [
+      {
+        "video_id": "05756"
+      },
+      {
+        "video_id": "05761"
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "gloss": "benefit",
+    "instances": [
+      {
+        "video_id": "05959"
+      },
+      {
+        "video_id": "05961"
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "gloss": "bite",
+    "instances": [
+      {
+        "video_id": "06407"
+      },
+      {
+        "video_id": "06419"
+      }
+    ]
+  },
+  {
+    "id": "198",
+    "gloss": "blame",
+    "instances": [
+      {
+        "video_id": "06526"
+      },
+      {
+        "video_id": "06530"
+      }
+    ]
+  },
+  {
+    "id": "207",
+    "gloss": "boat",
+    "instances": [
+      {
+        "video_id": "06929"
+      },
+      {
+        "video_id": "06930"
+      }
+    ]
+  },
+  {
+    "id": "208",
+    "gloss": "body",
+    "instances": [
+      {
+        "video_id": "06941"
+      },
+      {
+        "video_id": "06949"
+      }
+    ]
+  },
+  {
+    "id": "216",
+    "gloss": "borrow",
+    "instances": [
+      {
+        "video_id": "07226"
+      },
+      {
+        "video_id": "07228"
+      }
+    ]
+  },
+  {
+    "id": "217",
+    "gloss": "boss",
+    "instances": [
+      {
+        "video_id": "07236"
+      },
+      {
+        "video_id": "07246"
+      }
+    ]
+  },
+  {
+    "id": "219",
+    "gloss": "bother",
+    "instances": [
+      {
+        "video_id": "07259"
+      },
+      {
+        "video_id": "07261"
+      }
+    ]
+  },
+  {
+    "id": "220",
+    "gloss": "bottle",
+    "instances": [
+      {
+        "video_id": "07284"
+      },
+      {
+        "video_id": "07287"
+      }
+    ]
+  },
+  {
+    "id": "221",
+    "gloss": "bottom",
+    "instances": [
+      {
+        "video_id": "70166"
+      },
+      {
+        "video_id": "07306"
+      }
+    ]
+  },
+  {
+    "id": "230",
+    "gloss": "brag",
+    "instances": [
+      {
+        "video_id": "07490"
+      },
+      {
+        "video_id": "67437"
+      }
+    ]
+  },
+  {
+    "id": "252",
+    "gloss": "build",
+    "instances": [
+      {
+        "video_id": "08118"
+      },
+      {
+        "video_id": "08121"
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "gloss": "bus",
+    "instances": [
+      {
+        "video_id": "08330"
+      },
+      {
+        "video_id": "08355"
+      }
+    ]
+  },
+  {
+    "id": "262",
+    "gloss": "butter",
+    "instances": [
+      {
+        "video_id": "08439"
+      },
+      {
+        "video_id": "08449"
+      }
+    ]
+  },
+  {
+    "id": "276",
+    "gloss": "calm",
+    "instances": [
+      {
+        "video_id": "08739"
+      },
+      {
+        "video_id": "08747"
+      }
+    ]
+  },
+  {
+    "id": "283",
+    "gloss": "cancel",
+    "instances": [
+      {
+        "video_id": "08858"
+      },
+      {
+        "video_id": "08861"
+      }
+    ]
+  },
+  {
+    "id": "285",
+    "gloss": "candle",
+    "instances": [
+      {
+        "video_id": "08897"
+      },
+      {
+        "video_id": "08899"
+      }
+    ]
+  },
+  {
+    "id": "293",
+    "gloss": "cards",
+    "instances": [
+      {
+        "video_id": "09149"
+      },
+      {
+        "video_id": "65305"
+      }
+    ]
+  },
+  {
+    "id": "337",
+    "gloss": "choice",
+    "instances": [
+      {
+        "video_id": "10588"
+      },
+      {
+        "video_id": "10591"
+      }
+    ]
+  },
+  {
+    "id": "373",
+    "gloss": "comb",
+    "instances": [
+      {
+        "video_id": "11812"
+      },
+      {
+        "video_id": "11820"
+      }
+    ]
+  },
+  {
+    "id": "376",
+    "gloss": "comfortable",
+    "instances": [
+      {
+        "video_id": "11900"
+      },
+      {
+        "video_id": "11905"
+      }
+    ]
+  },
+  {
+    "id": "397",
+    "gloss": "conflict",
+    "instances": [
+      {
+        "video_id": "65394"
+      },
+      {
+        "video_id": "12587"
+      }
+    ]
+  },
+  {
+    "id": "435",
+    "gloss": "cover",
+    "instances": [
+      {
+        "video_id": "13654"
+      },
+      {
+        "video_id": "13658"
+      }
+    ]
+  },
+  {
+    "id": "495",
+    "gloss": "deodorant",
+    "instances": [
+      {
+        "video_id": "15556"
+      },
+      {
+        "video_id": "15558"
+      }
+    ]
+  },
+  {
+    "id": "505",
+    "gloss": "dessert",
+    "instances": [
+      {
+        "video_id": "15807"
+      },
+      {
+        "video_id": "15808"
+      }
+    ]
+  },
+  {
+    "id": "506",
+    "gloss": "destroy",
+    "instances": [
+      {
+        "video_id": "15825"
+      },
+      {
+        "video_id": "15827"
+      }
+    ]
+  },
+  {
+    "id": "513",
+    "gloss": "diamond",
+    "instances": [
+      {
+        "video_id": "16061"
+      },
+      {
+        "video_id": "16069"
+      }
+    ]
+  },
+  {
+    "id": "551",
+    "gloss": "dollar",
+    "instances": [
+      {
+        "video_id": "17123"
+      },
+      {
+        "video_id": "17135"
+      }
+    ]
+  },
+  {
+    "id": "566",
+    "gloss": "drawer",
+    "instances": [
+      {
+        "video_id": "17588"
+      },
+      {
+        "video_id": "17582"
+      }
+    ]
+  },
+  {
+    "id": "567",
+    "gloss": "dream",
+    "instances": [
+      {
+        "video_id": "17624"
+      },
+      {
+        "video_id": "65534"
+      }
+    ]
+  },
+  {
+    "id": "574",
+    "gloss": "drunk",
+    "instances": [
+      {
+        "video_id": "17907"
+      },
+      {
+        "video_id": "17911"
+      }
+    ]
+  },
+  {
+    "id": "576",
+    "gloss": "duck",
+    "instances": [
+      {
+        "video_id": "17945"
+      },
+      {
+        "video_id": "67600"
+      }
+    ]
+  },
+  {
+    "id": "580",
+    "gloss": "during",
+    "instances": [
+      {
+        "video_id": "18027"
+      },
+      {
+        "video_id": "18031"
+      }
+    ]
+  },
+  {
+    "id": "587",
+    "gloss": "eagle",
+    "instances": [
+      {
+        "video_id": "18137"
+      },
+      {
+        "video_id": "18138"
+      }
+    ]
+  },
+  {
+    "id": "589",
+    "gloss": "early",
+    "instances": [
+      {
+        "video_id": "18164"
+      },
+      {
+        "video_id": "18169"
+      }
+    ]
+  },
+  {
+    "id": "633",
+    "gloss": "equal",
+    "instances": [
+      {
+        "video_id": "19456"
+      },
+      {
+        "video_id": "19458"
+      }
+    ]
+  },
+  {
+    "id": "643",
+    "gloss": "every",
+    "instances": [
+      {
+        "video_id": "19798"
+      },
+      {
+        "video_id": "19844"
+      }
+    ]
+  },
+  {
+    "id": "654",
+    "gloss": "excited",
+    "instances": [
+      {
+        "video_id": "20152"
+      },
+      {
+        "video_id": "20162"
+      }
+    ]
+  },
+  {
+    "id": "656",
+    "gloss": "exercise",
+    "instances": [
+      {
+        "video_id": "65657"
+      },
+      {
+        "video_id": "67636"
+      }
+    ]
+  },
+  {
+    "id": "662",
+    "gloss": "experiment",
+    "instances": [
+      {
+        "video_id": "20387"
+      },
+      {
+        "video_id": "20390"
+      }
+    ]
+  },
+  {
+    "id": "663",
+    "gloss": "expert",
+    "instances": [
+      {
+        "video_id": "20402"
+      },
+      {
+        "video_id": "20414"
+      }
+    ]
+  },
+  {
+    "id": "672",
+    "gloss": "fact",
+    "instances": [
+      {
+        "video_id": "20736"
+      },
+      {
+        "video_id": "20747"
+      }
+    ]
+  },
+  {
+    "id": "690",
+    "gloss": "fear",
+    "instances": [
+      {
+        "video_id": "21319"
+      },
+      {
+        "video_id": "21325"
+      }
+    ]
+  },
+  {
+    "id": "694",
+    "gloss": "feedback",
+    "instances": [
+      {
+        "video_id": "21394"
+      },
+      {
+        "video_id": "21405"
+      }
+    ]
+  },
+  {
+    "id": "724",
+    "gloss": "fold",
+    "instances": [
+      {
+        "video_id": "22702"
+      },
+      {
+        "video_id": "22695"
+      }
+    ]
+  },
+  {
+    "id": "731",
+    "gloss": "forest",
+    "instances": [
+      {
+        "video_id": "22907"
+      },
+      {
+        "video_id": "22912"
+      }
+    ]
+  },
+  {
+    "id": "741",
+    "gloss": "france",
+    "instances": [
+      {
+        "video_id": "23326"
+      },
+      {
+        "video_id": "23328"
+      }
+    ]
+  },
+  {
+    "id": "750",
+    "gloss": "frog",
+    "instances": [
+      {
+        "video_id": "23626"
+      },
+      {
+        "video_id": "23628"
+      }
+    ]
+  },
+  {
+    "id": "759",
+    "gloss": "funny",
+    "instances": [
+      {
+        "video_id": "23865"
+      },
+      {
+        "video_id": "23869"
+      }
+    ]
+  },
+  {
+    "id": "767",
+    "gloss": "garage",
+    "instances": [
+      {
+        "video_id": "24056"
+      },
+      {
+        "video_id": "24058"
+      }
+    ]
+  },
+  {
+    "id": "791",
+    "gloss": "goal",
+    "instances": [
+      {
+        "video_id": "24867"
+      },
+      {
+        "video_id": "24878"
+      }
+    ]
+  },
+  {
+    "id": "795",
+    "gloss": "golf",
+    "instances": [
+      {
+        "video_id": "25003"
+      },
+      {
+        "video_id": "25012"
+      }
+    ]
+  },
+  {
+    "id": "796",
+    "gloss": "gone",
+    "instances": [
+      {
+        "video_id": "25024"
+      },
+      {
+        "video_id": "25033"
+      }
+    ]
+  },
+  {
+    "id": "800",
+    "gloss": "gossip",
+    "instances": [
+      {
+        "video_id": "25182"
+      },
+      {
+        "video_id": "25185"
+      }
+    ]
+  },
+  {
+    "id": "808",
+    "gloss": "grandmother",
+    "instances": [
+      {
+        "video_id": "25428"
+      },
+      {
+        "video_id": "25429"
+      }
+    ]
+  },
+  {
+    "id": "809",
+    "gloss": "grapes",
+    "instances": [
+      {
+        "video_id": "25481"
+      },
+      {
+        "video_id": "25483"
+      }
+    ]
+  },
+  {
+    "id": "817",
+    "gloss": "group",
+    "instances": [
+      {
+        "video_id": "25829"
+      },
+      {
+        "video_id": "25830"
+      }
+    ]
+  },
+  {
+    "id": "822",
+    "gloss": "guilty",
+    "instances": [
+      {
+        "video_id": "65865"
+      },
+      {
+        "video_id": "67733"
+      }
+    ]
+  },
+  {
+    "id": "833",
+    "gloss": "hamburger",
+    "instances": [
+      {
+        "video_id": "26294"
+      },
+      {
+        "video_id": "26297"
+      }
+    ]
+  },
+  {
+    "id": "842",
+    "gloss": "hate",
+    "instances": [
+      {
+        "video_id": "26697"
+      },
+      {
+        "video_id": "26708"
+      }
+    ]
+  },
+  {
+    "id": "845",
+    "gloss": "head",
+    "instances": [
+      {
+        "video_id": "26831"
+      },
+      {
+        "video_id": "26855"
+      }
+    ]
+  },
+  {
+    "id": "860",
+    "gloss": "her",
+    "instances": [
+      {
+        "video_id": "27281"
+      },
+      {
+        "video_id": "27274"
+      }
+    ]
+  },
+  {
+    "id": "882",
+    "gloss": "horse",
+    "instances": [
+      {
+        "video_id": "27983"
+      },
+      {
+        "video_id": "67772"
+      }
+    ]
+  },
+  {
+    "id": "904",
+    "gloss": "ignore",
+    "instances": [
+      {
+        "video_id": "28772"
+      },
+      {
+        "video_id": "28775"
+      }
+    ]
+  },
+  {
+    "id": "910",
+    "gloss": "impossible",
+    "instances": [
+      {
+        "video_id": "29087"
+      },
+      {
+        "video_id": "29088"
+      }
+    ]
+  },
+  {
+    "id": "912",
+    "gloss": "in",
+    "instances": [
+      {
+        "video_id": "29171"
+      },
+      {
+        "video_id": "29721"
+      }
+    ]
+  },
+  {
+    "id": "915",
+    "gloss": "independent",
+    "instances": [
+      {
+        "video_id": "29380"
+      },
+      {
+        "video_id": "29385"
+      }
+    ]
+  },
+  {
+    "id": "924",
+    "gloss": "inside",
+    "instances": [
+      {
+        "video_id": "29865"
+      },
+      {
+        "video_id": "29868"
+      }
+    ]
+  },
+  {
+    "id": "929",
+    "gloss": "insurance",
+    "instances": [
+      {
+        "video_id": "30051"
+      },
+      {
+        "video_id": "30054"
+      }
+    ]
+  },
+  {
+    "id": "947",
+    "gloss": "island",
+    "instances": [
+      {
+        "video_id": "30674"
+      },
+      {
+        "video_id": "30676"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "gloss": "across",
+    "instances": [
+      {
+        "video_id": "00838"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "gloss": "actor",
+    "instances": [
+      {
+        "video_id": "00903"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "gloss": "agree",
+    "instances": [
+      {
+        "video_id": "01581"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "gloss": "alarm",
+    "instances": [
+      {
+        "video_id": "01805"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "gloss": "allergy",
+    "instances": [
+      {
+        "video_id": "01959"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "gloss": "almost",
+    "instances": [
+      {
+        "video_id": "02097"
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "gloss": "announce",
+    "instances": [
+      {
+        "video_id": "02624"
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "gloss": "apartment",
+    "instances": [
+      {
+        "video_id": "02879"
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "gloss": "attention",
+    "instances": [
+      {
+        "video_id": "04016"
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "gloss": "audience",
+    "instances": [
+      {
+        "video_id": "04116"
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "gloss": "august",
+    "instances": [
+      {
+        "video_id": "04160"
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "gloss": "autumn",
+    "instances": [
+      {
+        "video_id": "04295"
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "gloss": "away",
+    "instances": [
+      {
+        "video_id": "04393"
+      }
+    ]
+  },
+  {
+    "id": "162",
+    "gloss": "beautiful",
+    "instances": [
+      {
+        "video_id": "05564"
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "gloss": "become",
+    "instances": [
+      {
+        "video_id": "05621"
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "gloss": "below",
+    "instances": [
+      {
+        "video_id": "05917"
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "gloss": "best",
+    "instances": [
+      {
+        "video_id": "06028"
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "gloss": "bet",
+    "instances": [
+      {
+        "video_id": "06051"
+      }
+    ]
+  },
+  {
+    "id": "187",
+    "gloss": "bicycle",
+    "instances": [
+      {
+        "video_id": "06164"
+      }
+    ]
+  },
+  {
+    "id": "191",
+    "gloss": "biology",
+    "instances": [
+      {
+        "video_id": "06318"
+      }
+    ]
+  },
+  {
+    "id": "227",
+    "gloss": "boyfriend",
+    "instances": [
+      {
+        "video_id": "07450"
+      }
+    ]
+  },
+  {
+    "id": "235",
+    "gloss": "break",
+    "instances": [
+      {
+        "video_id": "07635"
+      }
+    ]
+  },
+  {
+    "id": "241",
+    "gloss": "bridge",
+    "instances": [
+      {
+        "video_id": "07756"
+      }
+    ]
+  },
+  {
+    "id": "249",
+    "gloss": "brush",
+    "instances": [
+      {
+        "video_id": "08000"
+      }
+    ]
+  },
+  {
+    "id": "253",
+    "gloss": "building",
+    "instances": [
+      {
+        "video_id": "08134"
+      }
+    ]
+  },
+  {
+    "id": "260",
+    "gloss": "busy",
+    "instances": [
+      {
+        "video_id": "08415"
+      }
+    ]
+  },
+  {
+    "id": "278",
+    "gloss": "camera",
+    "instances": [
+      {
+        "video_id": "08786"
+      }
+    ]
+  },
+  {
+    "id": "279",
+    "gloss": "camp",
+    "instances": [
+      {
+        "video_id": "08822"
+      }
+    ]
+  },
+  {
+    "id": "290",
+    "gloss": "caption",
+    "instances": [
+      {
+        "video_id": "09093"
+      }
+    ]
+  },
+  {
+    "id": "294",
+    "gloss": "care",
+    "instances": [
+      {
+        "video_id": "09214"
+      }
+    ]
+  },
+  {
+    "id": "299",
+    "gloss": "carry",
+    "instances": [
+      {
+        "video_id": "09322"
+      }
+    ]
+  },
+  {
+    "id": "307",
+    "gloss": "celebrate",
+    "instances": [
+      {
+        "video_id": "09639"
+      }
+    ]
+  },
+  {
+    "id": "312",
+    "gloss": "certificate",
+    "instances": [
+      {
+        "video_id": "09811"
+      }
+    ]
+  },
+  {
+    "id": "313",
+    "gloss": "chain",
+    "instances": [
+      {
+        "video_id": "09841"
+      }
+    ]
+  },
+  {
+    "id": "317",
+    "gloss": "chance",
+    "instances": [
+      {
+        "video_id": "09936"
+      }
+    ]
+  },
+  {
+    "id": "320",
+    "gloss": "character",
+    "instances": [
+      {
+        "video_id": "10017"
+      }
+    ]
+  },
+  {
+    "id": "321",
+    "gloss": "chase",
+    "instances": [
+      {
+        "video_id": "10095"
+      }
+    ]
+  },
+  {
+    "id": "350",
+    "gloss": "classroom",
+    "instances": [
+      {
+        "video_id": "11014"
+      }
+    ]
+  },
+  {
+    "id": "352",
+    "gloss": "clear",
+    "instances": [
+      {
+        "video_id": "11065"
+      }
+    ]
+  },
+  {
+    "id": "355",
+    "gloss": "climb",
+    "instances": [
+      {
+        "video_id": "11145"
+      }
+    ]
+  },
+  {
+    "id": "378",
+    "gloss": "command",
+    "instances": [
+      {
+        "video_id": "11947"
+      }
+    ]
+  },
+  {
+    "id": "384",
+    "gloss": "community",
+    "instances": [
+      {
+        "video_id": "12067"
+      }
+    ]
+  },
+  {
+    "id": "389",
+    "gloss": "complain",
+    "instances": [
+      {
+        "video_id": "12197"
+      }
+    ]
+  },
+  {
+    "id": "392",
+    "gloss": "compromise",
+    "instances": [
+      {
+        "video_id": "12296"
+      }
+    ]
+  },
+  {
+    "id": "412",
+    "gloss": "contribute",
+    "instances": [
+      {
+        "video_id": "13019"
+      }
+    ]
+  },
+  {
+    "id": "421",
+    "gloss": "cop",
+    "instances": [
+      {
+        "video_id": "13252"
+      }
+    ]
+  },
+  {
+    "id": "426",
+    "gloss": "cost",
+    "instances": [
+      {
+        "video_id": "13418"
+      }
+    ]
+  },
+  {
+    "id": "427",
+    "gloss": "couch",
+    "instances": [
+      {
+        "video_id": "13463"
+      }
+    ]
+  },
+  {
+    "id": "438",
+    "gloss": "cracker",
+    "instances": [
+      {
+        "video_id": "13750"
+      }
+    ]
+  },
+  {
+    "id": "452",
+    "gloss": "curious",
+    "instances": [
+      {
+        "video_id": "14318"
+      }
+    ]
+  },
+  {
+    "id": "453",
+    "gloss": "curriculum",
+    "instances": [
+      {
+        "video_id": "14372"
+      }
+    ]
+  },
+  {
+    "id": "460",
+    "gloss": "dad",
+    "instances": [
+      {
+        "video_id": "14571"
+      }
+    ]
+  },
+  {
+    "id": "494",
+    "gloss": "deny",
+    "instances": [
+      {
+        "video_id": "15550"
+      }
+    ]
+  },
+  {
+    "id": "501",
+    "gloss": "describe",
+    "instances": [
+      {
+        "video_id": "15712"
+      }
+    ]
+  },
+  {
+    "id": "514",
+    "gloss": "diaper",
+    "instances": [
+      {
+        "video_id": "16086"
+      }
+    ]
+  },
+  {
+    "id": "515",
+    "gloss": "diarrhea",
+    "instances": [
+      {
+        "video_id": "16103"
+      }
+    ]
+  },
+  {
+    "id": "530",
+    "gloss": "disagree",
+    "instances": [
+      {
+        "video_id": "16435"
+      }
+    ]
+  },
+  {
+    "id": "540",
+    "gloss": "dissolve",
+    "instances": [
+      {
+        "video_id": "16810"
+      }
+    ]
+  },
+  {
+    "id": "543",
+    "gloss": "divide",
+    "instances": [
+      {
+        "video_id": "16928"
+      }
+    ]
+  },
+  {
+    "id": "552",
+    "gloss": "dolphin",
+    "instances": [
+      {
+        "video_id": "17157"
+      }
+    ]
+  },
+  {
+    "id": "558",
+    "gloss": "double",
+    "instances": [
+      {
+        "video_id": "17383"
+      }
+    ]
+  },
+  {
+    "id": "559",
+    "gloss": "doubt",
+    "instances": [
+      {
+        "video_id": "17394"
+      }
+    ]
+  },
+  {
+    "id": "579",
+    "gloss": "dumb",
+    "instances": [
+      {
+        "video_id": "17993"
+      }
+    ]
+  },
+  {
+    "id": "592",
+    "gloss": "earth",
+    "instances": [
+      {
+        "video_id": "18247"
+      }
+    ]
+  },
+  {
+    "id": "593",
+    "gloss": "earthquake",
+    "instances": [
+      {
+        "video_id": "18258"
+      }
+    ]
+  },
+  {
+    "id": "604",
+    "gloss": "eight",
+    "instances": [
+      {
+        "video_id": "18577"
+      }
+    ]
+  },
+  {
+    "id": "614",
+    "gloss": "embarrass",
+    "instances": [
+      {
+        "video_id": "18901"
+      }
+    ]
+  },
+  {
+    "id": "616",
+    "gloss": "emotion",
+    "instances": [
+      {
+        "video_id": "18983"
+      }
+    ]
+  },
+  {
+    "id": "618",
+    "gloss": "encourage",
+    "instances": [
+      {
+        "video_id": "19093"
+      }
+    ]
+  },
+  {
+    "id": "620",
+    "gloss": "energy",
+    "instances": [
+      {
+        "video_id": "19171"
+      }
+    ]
+  },
+  {
+    "id": "629",
+    "gloss": "enough",
+    "instances": [
+      {
+        "video_id": "19310"
+      }
+    ]
+  },
+  {
+    "id": "640",
+    "gloss": "evaluate",
+    "instances": [
+      {
+        "video_id": "19708"
+      }
+    ]
+  },
+  {
+    "id": "648",
+    "gloss": "evidence",
+    "instances": [
+      {
+        "video_id": "19974"
+      }
+    ]
+  },
+  {
+    "id": "649",
+    "gloss": "exact",
+    "instances": [
+      {
+        "video_id": "20013"
+      }
+    ]
+  },
+  {
+    "id": "650",
+    "gloss": "exaggerate",
+    "instances": [
+      {
+        "video_id": "20029"
+      }
+    ]
+  },
+  {
+    "id": "659",
+    "gloss": "expect",
+    "instances": [
+      {
+        "video_id": "20341"
+      }
+    ]
+  },
+  {
+    "id": "681",
+    "gloss": "fancy",
+    "instances": [
+      {
+        "video_id": "21027"
+      }
+    ]
+  },
+  {
+    "id": "689",
+    "gloss": "favorite",
+    "instances": [
+      {
+        "video_id": "21304"
+      }
+    ]
+  },
+  {
+    "id": "701",
+    "gloss": "finally",
+    "instances": [
+      {
+        "video_id": "21835"
+      }
+    ]
+  },
+  {
+    "id": "740",
+    "gloss": "fox",
+    "instances": [
+      {
+        "video_id": "23278"
+      }
+    ]
+  },
+  {
+    "id": "745",
+    "gloss": "french",
+    "instances": [
+      {
+        "video_id": "23485"
+      }
+    ]
+  },
+  {
+    "id": "754",
+    "gloss": "fruit",
+    "instances": [
+      {
+        "video_id": "23705"
+      }
+    ]
+  },
+  {
+    "id": "757",
+    "gloss": "function",
+    "instances": [
+      {
+        "video_id": "23809"
+      }
+    ]
+  },
+  {
+    "id": "770",
+    "gloss": "gather",
+    "instances": [
+      {
+        "video_id": "65803"
+      },
+      {
+        "video_id": "24175"
+      }
+    ]
+  },
+  {
+    "id": "777",
+    "gloss": "germany",
+    "instances": [
+      {
+        "video_id": "24382"
+      }
+    ]
+  },
+  {
+    "id": "789",
+    "gloss": "gloves",
+    "instances": [
+      {
+        "video_id": "24827"
+      }
+    ]
+  },
+  {
+    "id": "792",
+    "gloss": "goat",
+    "instances": [
+      {
+        "video_id": "24892"
+      }
+    ]
+  },
+  {
+    "id": "798",
+    "gloss": "goodbye",
+    "instances": [
+      {
+        "video_id": "25049"
+      }
+    ]
+  },
+  {
+    "id": "818",
+    "gloss": "grow",
+    "instances": [
+      {
+        "video_id": "25850"
+      }
+    ]
+  },
+  {
+    "id": "824",
+    "gloss": "gum",
+    "instances": [
+      {
+        "video_id": "26008"
+      }
+    ]
+  },
+  {
+    "id": "831",
+    "gloss": "half",
+    "instances": [
+      {
+        "video_id": "26220"
+      }
+    ]
+  },
+  {
+    "id": "844",
+    "gloss": "hawaii",
+    "instances": [
+      {
+        "video_id": "26799"
+      },
+      {
+        "video_id": "26801"
+      }
+    ]
+  },
+  {
+    "id": "862",
+    "gloss": "herself",
+    "instances": [
+      {
+        "video_id": "27321"
+      },
+      {
+        "video_id": "27314"
+      }
+    ]
+  },
+  {
+    "id": "866",
+    "gloss": "highway",
+    "instances": [
+      {
+        "video_id": "27448"
+      }
+    ]
+  },
+  {
+    "id": "876",
+    "gloss": "homework",
+    "instances": [
+      {
+        "video_id": "27801"
+      }
+    ]
+  },
+  {
+    "id": "879",
+    "gloss": "honor",
+    "instances": [
+      {
+        "video_id": "27879"
+      }
+    ]
+  },
+  {
+    "id": "900",
+    "gloss": "ice cream",
+    "instances": [
+      {
+        "video_id": "28589"
+      }
+    ]
+  },
+  {
+    "id": "903",
+    "gloss": "if",
+    "instances": [
+      {
+        "video_id": "28737"
+      }
+    ]
+  },
+  {
+    "id": "914",
+    "gloss": "increase",
+    "instances": [
+      {
+        "video_id": "29333"
+      }
+    ]
+  },
+  {
+    "id": "916",
+    "gloss": "india",
+    "instances": [
+      {
+        "video_id": "29405"
+      }
+    ]
+  },
+  {
+    "id": "921",
+    "gloss": "information",
+    "instances": [
+      {
+        "video_id": "29638"
+      }
+    ]
+  },
+  {
+    "id": "934",
+    "gloss": "interpret",
+    "instances": [
+      {
+        "video_id": "30269"
+      }
+    ]
+  },
+  {
+    "id": "938",
+    "gloss": "interview",
+    "instances": [
+      {
+        "video_id": "30318"
+      }
+    ]
+  },
+  {
+    "id": "942",
+    "gloss": "invite",
+    "instances": [
+      {
+        "video_id": "30515"
+      }
+    ]
+  },
+  {
+    "id": "948",
+    "gloss": "israel",
+    "instances": [
+      {
+        "video_id": "30709"
+      }
+    ]
+  },
+  {
+    "id": "956",
+    "gloss": "jesus",
+    "instances": [
+      {
+        "video_id": "31056"
+      }
+    ]
+  },
+  {
+    "id": "970",
+    "gloss": "keep",
+    "instances": [
+      {
+        "video_id": "31487"
+      }
+    ]
+  },
+  {
+    "id": "972",
+    "gloss": "keyboard",
+    "instances": [
+      {
+        "video_id": "31560"
+      }
+    ]
+  },
+  {
+    "id": "987",
+    "gloss": "land",
+    "instances": [
+      {
+        "video_id": "32119"
+      }
+    ]
+  },
+  {
+    "id": "999",
+    "gloss": "lawyer",
+    "instances": [
+      {
+        "video_id": "32480"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "gloss": "above",
+    "instances": [
+      {
+        "video_id": "00434"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "gloss": "accomplish",
+    "instances": [
+      {
+        "video_id": "00667"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "gloss": "adopt",
+    "instances": [
+      {
+        "video_id": "01161"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "gloss": "advantage",
+    "instances": [
+      {
+        "video_id": "01248"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "gloss": "alphabet",
+    "instances": [
+      {
+        "video_id": "02149"
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "gloss": "anniversary",
+    "instances": [
+      {
+        "video_id": "02615"
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "gloss": "another",
+    "instances": [
+      {
+        "video_id": "02701"
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "gloss": "appropriate",
+    "instances": [
+      {
+        "video_id": "03107"
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "gloss": "arrogant",
+    "instances": [
+      {
+        "video_id": "03454"
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "gloss": "artist",
+    "instances": [
+      {
+        "video_id": "03521"
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "gloss": "background",
+    "instances": [
+      {
+        "video_id": "04582"
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "gloss": "bee",
+    "instances": [
+      {
+        "video_id": "05686"
+      }
+    ]
+  },
+  {
+    "id": "172",
+    "gloss": "behavior",
+    "instances": [
+      {
+        "video_id": "05797"
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "gloss": "bell",
+    "instances": [
+      {
+        "video_id": "05880"
+      }
+    ]
+  },
+  {
+    "id": "193",
+    "gloss": "birth",
+    "instances": [
+      {
+        "video_id": "06373"
+      }
+    ]
+  },
+  {
+    "id": "201",
+    "gloss": "bless",
+    "instances": [
+      {
+        "video_id": "06630"
+      }
+    ]
+  },
+  {
+    "id": "203",
+    "gloss": "blood",
+    "instances": [
+      {
+        "video_id": "06737"
+      }
+    ]
+  },
+  {
+    "id": "214",
+    "gloss": "boots",
+    "instances": [
+      {
+        "video_id": "07173"
+      }
+    ]
+  },
+  {
+    "id": "233",
+    "gloss": "brave",
+    "instances": [
+      {
+        "video_id": "07579"
+      }
+    ]
+  },
+  {
+    "id": "238",
+    "gloss": "breathe",
+    "instances": [
+      {
+        "video_id": "07681"
+      }
+    ]
+  },
+  {
+    "id": "243",
+    "gloss": "bright",
+    "instances": [
+      {
+        "video_id": "07782"
+      }
+    ]
+  },
+  {
+    "id": "254",
+    "gloss": "bull",
+    "instances": [
+      {
+        "video_id": "08173"
+      }
+    ]
+  },
+  {
+    "id": "263",
+    "gloss": "butterfly",
+    "instances": [
+      {
+        "video_id": "08446"
+      }
+    ]
+  },
+  {
+    "id": "292",
+    "gloss": "card",
+    "instances": [
+      {
+        "video_id": "09128"
+      }
+    ]
+  },
+  {
+    "id": "302",
+    "gloss": "category",
+    "instances": [
+      {
+        "video_id": "09494"
+      }
+    ]
+  },
+  {
+    "id": "304",
+    "gloss": "catholic",
+    "instances": [
+      {
+        "video_id": "09522"
+      }
+    ]
+  },
+  {
+    "id": "309",
+    "gloss": "cent",
+    "instances": [
+      {
+        "video_id": "09741"
+      }
+    ]
+  },
+  {
+    "id": "329",
+    "gloss": "chemistry",
+    "instances": [
+      {
+        "video_id": "10314"
+      }
+    ]
+  },
+  {
+    "id": "330",
+    "gloss": "cherry",
+    "instances": [
+      {
+        "video_id": "10343"
+      }
+    ]
+  },
+  {
+    "id": "335",
+    "gloss": "china",
+    "instances": [
+      {
+        "video_id": "10519"
+      }
+    ]
+  },
+  {
+    "id": "341",
+    "gloss": "chop",
+    "instances": [
+      {
+        "video_id": "10648"
+      }
+    ]
+  },
+  {
+    "id": "343",
+    "gloss": "christian",
+    "instances": [
+      {
+        "video_id": "10692"
+      }
+    ]
+  },
+  {
+    "id": "346",
+    "gloss": "cigarette",
+    "instances": [
+      {
+        "video_id": "10791"
+      }
+    ]
+  },
+  {
+    "id": "353",
+    "gloss": "clever",
+    "instances": [
+      {
+        "video_id": "11095"
+      }
+    ]
+  },
+  {
+    "id": "361",
+    "gloss": "clown",
+    "instances": [
+      {
+        "video_id": "11383"
+      }
+    ]
+  },
+  {
+    "id": "364",
+    "gloss": "coach",
+    "instances": [
+      {
+        "video_id": "11443"
+      }
+    ]
+  },
+  {
+    "id": "365",
+    "gloss": "coat",
+    "instances": [
+      {
+        "video_id": "11475"
+      }
+    ]
+  },
+  {
+    "id": "366",
+    "gloss": "cochlear implant",
+    "instances": [
+      {
+        "video_id": "11503"
+      }
+    ]
+  },
+  {
+    "id": "367",
+    "gloss": "coconut",
+    "instances": [
+      {
+        "video_id": "11533"
+      }
+    ]
+  },
+  {
+    "id": "382",
+    "gloss": "common",
+    "instances": [
+      {
+        "video_id": "12019"
+      }
+    ]
+  },
+  {
+    "id": "385",
+    "gloss": "commute",
+    "instances": [
+      {
+        "video_id": "12078"
+      }
+    ]
+  },
+  {
+    "id": "413",
+    "gloss": "control",
+    "instances": [
+      {
+        "video_id": "13048"
+      }
+    ]
+  },
+  {
+    "id": "431",
+    "gloss": "count",
+    "instances": [
+      {
+        "video_id": "13535"
+      }
+    ]
+  },
+  {
+    "id": "450",
+    "gloss": "culture",
+    "instances": [
+      {
+        "video_id": "14267"
+      }
+    ]
+  },
+  {
+    "id": "461",
+    "gloss": "daily",
+    "instances": [
+      {
+        "video_id": "14583"
+      }
+    ]
+  },
+  {
+    "id": "485",
+    "gloss": "defend",
+    "instances": [
+      {
+        "video_id": "15218"
+      }
+    ]
+  },
+  {
+    "id": "486",
+    "gloss": "degree",
+    "instances": [
+      {
+        "video_id": "15296"
+      }
+    ]
+  },
+  {
+    "id": "492",
+    "gloss": "demonstrate",
+    "instances": [
+      {
+        "video_id": "15480"
+      }
+    ]
+  },
+  {
+    "id": "496",
+    "gloss": "department",
+    "instances": [
+      {
+        "video_id": "15578"
+      }
+    ]
+  },
+  {
+    "id": "518",
+    "gloss": "die",
+    "instances": [
+      {
+        "video_id": "16164"
+      }
+    ]
+  },
+  {
+    "id": "521",
+    "gloss": "dig",
+    "instances": [
+      {
+        "video_id": "16237"
+      }
+    ]
+  },
+  {
+    "id": "524",
+    "gloss": "dinner",
+    "instances": [
+      {
+        "video_id": "16328"
+      }
+    ]
+  },
+  {
+    "id": "525",
+    "gloss": "dinosaur",
+    "instances": [
+      {
+        "video_id": "16336"
+      }
+    ]
+  },
+  {
+    "id": "526",
+    "gloss": "diploma",
+    "instances": [
+      {
+        "video_id": "16357"
+      }
+    ]
+  },
+  {
+    "id": "527",
+    "gloss": "director",
+    "instances": [
+      {
+        "video_id": "16388"
+      }
+    ]
+  },
+  {
+    "id": "533",
+    "gloss": "disconnect",
+    "instances": [
+      {
+        "video_id": "16530"
+      }
+    ]
+  },
+  {
+    "id": "535",
+    "gloss": "discover",
+    "instances": [
+      {
+        "video_id": "16568"
+      }
+    ]
+  },
+  {
+    "id": "553",
+    "gloss": "don't want",
+    "instances": [
+      {
+        "video_id": "17303"
+      }
+    ]
+  },
+  {
+    "id": "573",
+    "gloss": "drum",
+    "instances": [
+      {
+        "video_id": "17899"
+      }
+    ]
+  },
+  {
+    "id": "586",
+    "gloss": "each",
+    "instances": [
+      {
+        "video_id": "18115"
+      }
+    ]
+  },
+  {
+    "id": "599",
+    "gloss": "educate",
+    "instances": [
+      {
+        "video_id": "18421"
+      }
+    ]
+  },
+  {
+    "id": "607",
+    "gloss": "electrician",
+    "instances": [
+      {
+        "video_id": "18725"
+      }
+    ]
+  },
+  {
+    "id": "617",
+    "gloss": "empty",
+    "instances": [
+      {
+        "video_id": "19054"
+      }
+    ]
+  },
+  {
+    "id": "625",
+    "gloss": "england",
+    "instances": [
+      {
+        "video_id": "19224"
+      }
+    ]
+  },
+  {
+    "id": "637",
+    "gloss": "establish",
+    "instances": [
+      {
+        "video_id": "19621"
+      }
+    ]
+  },
+  {
+    "id": "655",
+    "gloss": "excuse",
+    "instances": [
+      {
+        "video_id": "20202"
+      }
+    ]
+  },
+  {
+    "id": "668",
+    "gloss": "eyeglasses",
+    "instances": [
+      {
+        "video_id": "20624"
+      }
+    ]
+  },
+  {
+    "id": "673",
+    "gloss": "faculty",
+    "instances": [
+      {
+        "video_id": "20771"
+      }
+    ]
+  },
+  {
+    "id": "677",
+    "gloss": "fall in love",
+    "instances": [
+      {
+        "video_id": "20930"
+      }
+    ]
+  },
+  {
+    "id": "680",
+    "gloss": "famous",
+    "instances": [
+      {
+        "video_id": "21014"
+      }
+    ]
+  },
+  {
+    "id": "683",
+    "gloss": "farm",
+    "instances": [
+      {
+        "video_id": "21096"
+      }
+    ]
+  },
+  {
+    "id": "696",
+    "gloss": "fence",
+    "instances": [
+      {
+        "video_id": "21491"
+      }
+    ]
+  },
+  {
+    "id": "713",
+    "gloss": "fix",
+    "instances": [
+      {
+        "video_id": "22240"
+      }
+    ]
+  },
+  {
+    "id": "716",
+    "gloss": "flexible",
+    "instances": [
+      {
+        "video_id": "22415"
+      }
+    ]
+  },
+  {
+    "id": "717",
+    "gloss": "flirt",
+    "instances": [
+      {
+        "video_id": "22460"
+      }
+    ]
+  },
+  {
+    "id": "718",
+    "gloss": "flood",
+    "instances": [
+      {
+        "video_id": "22486"
+      }
+    ]
+  },
+  {
+    "id": "735",
+    "gloss": "fork",
+    "instances": [
+      {
+        "video_id": "23008"
+      }
+    ]
+  },
+  {
+    "id": "738",
+    "gloss": "four",
+    "instances": [
+      {
+        "video_id": "23204"
+      }
+    ]
+  },
+  {
+    "id": "756",
+    "gloss": "fun",
+    "instances": [
+      {
+        "video_id": "23855"
+      }
+    ]
+  },
+  {
+    "id": "758",
+    "gloss": "funeral",
+    "instances": [
+      {
+        "video_id": "23846"
+      }
+    ]
+  },
+  {
+    "id": "760",
+    "gloss": "furniture",
+    "instances": [
+      {
+        "video_id": "23913"
+      }
+    ]
+  },
+  {
+    "id": "763",
+    "gloss": "gallaudet",
+    "instances": [
+      {
+        "video_id": "23992"
+      }
+    ]
+  },
+  {
+    "id": "772",
+    "gloss": "general",
+    "instances": [
+      {
+        "video_id": "24256"
+      }
+    ]
+  },
+  {
+    "id": "780",
+    "gloss": "ghost",
+    "instances": [
+      {
+        "video_id": "24520"
+      }
+    ]
+  },
+  {
+    "id": "786",
+    "gloss": "give up",
+    "instances": [
+      {
+        "video_id": "24686"
+      }
+    ]
+  },
+  {
+    "id": "787",
+    "gloss": "glass",
+    "instances": [
+      {
+        "video_id": "24735"
+      }
+    ]
+  },
+  {
+    "id": "799",
+    "gloss": "gorilla",
+    "instances": [
+      {
+        "video_id": "25171"
+      }
+    ]
+  },
+  {
+    "id": "812",
+    "gloss": "gray",
+    "instances": [
+      {
+        "video_id": "25575"
+      }
+    ]
+  },
+  {
+    "id": "821",
+    "gloss": "guide",
+    "instances": [
+      {
+        "video_id": "25947"
+      }
+    ]
+  },
+  {
+    "id": "828",
+    "gloss": "habit",
+    "instances": [
+      {
+        "video_id": "26088"
+      }
+    ]
+  },
+  {
+    "id": "847",
+    "gloss": "health",
+    "instances": [
+      {
+        "video_id": "26919"
+      }
+    ]
+  },
+  {
+    "id": "851",
+    "gloss": "hearing aid",
+    "instances": [
+      {
+        "video_id": "26964"
+      }
+    ]
+  },
+  {
+    "id": "854",
+    "gloss": "heaven",
+    "instances": [
+      {
+        "video_id": "27081"
+      }
+    ]
+  },
+  {
+    "id": "855",
+    "gloss": "heavy",
+    "instances": [
+      {
+        "video_id": "27101"
+      }
+    ]
+  },
+  {
+    "id": "858",
+    "gloss": "helmet",
+    "instances": [
+      {
+        "video_id": "27191"
+      }
+    ]
+  },
+  {
+    "id": "863",
+    "gloss": "hide",
+    "instances": [
+      {
+        "video_id": "27381"
+      }
+    ]
+  },
+  {
+    "id": "865",
+    "gloss": "high school",
+    "instances": [
+      {
+        "video_id": "27440"
+      }
+    ]
+  },
+  {
+    "id": "872",
+    "gloss": "hockey",
+    "instances": [
+      {
+        "video_id": "27638"
+      }
+    ]
+  },
+  {
+    "id": "873",
+    "gloss": "hold",
+    "instances": [
+      {
+        "video_id": "27673"
+      }
+    ]
+  },
+  {
+    "id": "877",
+    "gloss": "honest",
+    "instances": [
+      {
+        "video_id": "27828"
+      }
+    ]
+  },
+  {
+    "id": "890",
+    "gloss": "hug",
+    "instances": [
+      {
+        "video_id": "28266"
+      }
+    ]
+  },
+  {
+    "id": "894",
+    "gloss": "hunt",
+    "instances": [
+      {
+        "video_id": "28394"
+      }
+    ]
+  },
+  {
+    "id": "907",
+    "gloss": "image",
+    "instances": [
+      {
+        "video_id": "28880"
+      }
+    ]
+  },
+  {
+    "id": "919",
+    "gloss": "influence",
+    "instances": [
+      {
+        "video_id": "29620"
+      }
+    ]
+  },
+  {
+    "id": "931",
+    "gloss": "interesting",
+    "instances": [
+      {
+        "video_id": "30173"
+      }
+    ]
+  },
+  {
+    "id": "935",
+    "gloss": "interpreter",
+    "instances": [
+      {
+        "video_id": "30261"
+      }
+    ]
+  },
+  {
+    "id": "944",
+    "gloss": "iran",
+    "instances": [
+      {
+        "video_id": "30566"
+      }
+    ]
+  },
+  {
+    "id": "949",
+    "gloss": "italy",
+    "instances": [
+      {
+        "video_id": "30745"
+      }
+    ]
+  },
+  {
+    "id": "958",
+    "gloss": "jewish",
+    "instances": [
+      {
+        "video_id": "31097"
+      }
+    ]
+  },
+  {
+    "id": "963",
+    "gloss": "judge",
+    "instances": [
+      {
+        "video_id": "31252"
+      }
+    ]
+  },
+  {
+    "id": "971",
+    "gloss": "key",
+    "instances": [
+      {
+        "video_id": "31567"
+      }
+    ]
+  },
+  {
+    "id": "984",
+    "gloss": "label",
+    "instances": [
+      {
+        "video_id": "31981"
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "gloss": "a",
+    "instances": [
+      {
+        "video_id": "66039"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "gloss": "a lot",
+    "instances": [
+      {
+        "video_id": "02128"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "gloss": "abdomen",
+    "instances": [
+      {
+        "video_id": "00335"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "gloss": "able",
+    "instances": [
+      {
+        "video_id": "00376"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "gloss": "accountant",
+    "instances": [
+      {
+        "video_id": "00689"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "gloss": "action",
+    "instances": [
+      {
+        "video_id": "00853"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "gloss": "active",
+    "instances": [
+      {
+        "video_id": "00868"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "gloss": "activity",
+    "instances": [
+      {
+        "video_id": "68450"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "gloss": "address",
+    "instances": [
+      {
+        "video_id": "01016"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "gloss": "affect",
+    "instances": [
+      {
+        "video_id": "01319"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "gloss": "afraid",
+    "instances": [
+      {
+        "video_id": "01373"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "gloss": "against",
+    "instances": [
+      {
+        "video_id": "65033"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "gloss": "agenda",
+    "instances": [
+      {
+        "video_id": "01513"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "gloss": "ahead",
+    "instances": [
+      {
+        "video_id": "01598"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "gloss": "aim",
+    "instances": [
+      {
+        "video_id": "01651"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "gloss": "alcohol",
+    "instances": [
+      {
+        "video_id": "01831"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "gloss": "algebra",
+    "instances": [
+      {
+        "video_id": "01874"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "gloss": "all day",
+    "instances": [
+      {
+        "video_id": "69090"
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "gloss": "amazing",
+    "instances": [
+      {
+        "video_id": "02273"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "gloss": "angle",
+    "instances": [
+      {
+        "video_id": "69210"
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "gloss": "apart",
+    "instances": [
+      {
+        "video_id": "65081"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "gloss": "apostrophe",
+    "instances": [
+      {
+        "video_id": "02910"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "gloss": "appetite",
+    "instances": [
+      {
+        "video_id": "02969"
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "gloss": "appreciate",
+    "instances": [
+      {
+        "video_id": "03068"
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "gloss": "april",
+    "instances": [
+      {
+        "video_id": "03154"
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "gloss": "archery",
+    "instances": [
+      {
+        "video_id": "03201"
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "gloss": "around",
+    "instances": [
+      {
+        "video_id": "03382"
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "gloss": "article",
+    "instances": [
+      {
+        "video_id": "65098"
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "gloss": "assistant",
+    "instances": [
+      {
+        "video_id": "03756"
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "gloss": "attend",
+    "instances": [
+      {
+        "video_id": "03999"
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "gloss": "auction",
+    "instances": [
+      {
+        "video_id": "04099"
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "gloss": "authority",
+    "instances": [
+      {
+        "video_id": "04226"
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "gloss": "average",
+    "instances": [
+      {
+        "video_id": "04324"
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "gloss": "awake",
+    "instances": [
+      {
+        "video_id": "65116"
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "gloss": "b",
+    "instances": [
+      {
+        "video_id": "06120"
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "gloss": "babysitter",
+    "instances": [
+      {
+        "video_id": "04531"
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "gloss": "battle",
+    "instances": [
+      {
+        "video_id": "05368"
+      }
+    ]
+  },
+  {
+    "id": "171",
+    "gloss": "beginning",
+    "instances": [
+      {
+        "video_id": "05778"
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "gloss": "belief",
+    "instances": [
+      {
+        "video_id": "05845"
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "gloss": "bible",
+    "instances": [
+      {
+        "video_id": "06137"
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "gloss": "bike",
+    "instances": [
+      {
+        "video_id": "68008"
+      }
+    ]
+  },
+  {
+    "id": "200",
+    "gloss": "blend",
+    "instances": [
+      {
+        "video_id": "06613"
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "gloss": "bone",
+    "instances": [
+      {
+        "video_id": "65224"
+      }
+    ]
+  },
+  {
+    "id": "228",
+    "gloss": "bra",
+    "instances": [
+      {
+        "video_id": "65246"
+      }
+    ]
+  },
+  {
+    "id": "242",
+    "gloss": "brief",
+    "instances": [
+      {
+        "video_id": "07766"
+      }
+    ]
+  },
+  {
+    "id": "246",
+    "gloss": "broke",
+    "instances": [
+      {
+        "video_id": "07879"
+      }
+    ]
+  },
+  {
+    "id": "251",
+    "gloss": "bug",
+    "instances": [
+      {
+        "video_id": "08114"
+      }
+    ]
+  },
+  {
+    "id": "255",
+    "gloss": "bully",
+    "instances": [
+      {
+        "video_id": "08180"
+      }
+    ]
+  },
+  {
+    "id": "264",
+    "gloss": "button",
+    "instances": [
+      {
+        "video_id": "65281"
+      }
+    ]
+  },
+  {
+    "id": "267",
+    "gloss": "cabbage",
+    "instances": [
+      {
+        "video_id": "67455"
+      }
+    ]
+  },
+  {
+    "id": "268",
+    "gloss": "cabinet",
+    "instances": [
+      {
+        "video_id": "67456"
+      }
+    ]
+  },
+  {
+    "id": "271",
+    "gloss": "calculate",
+    "instances": [
+      {
+        "video_id": "08625"
+      }
+    ]
+  },
+  {
+    "id": "272",
+    "gloss": "calculator",
+    "instances": [
+      {
+        "video_id": "08635"
+      }
+    ]
+  },
+  {
+    "id": "273",
+    "gloss": "calculus",
+    "instances": [
+      {
+        "video_id": "08643"
+      }
+    ]
+  },
+  {
+    "id": "280",
+    "gloss": "camping",
+    "instances": [
+      {
+        "video_id": "08824"
+      }
+    ]
+  },
+  {
+    "id": "288",
+    "gloss": "canoe",
+    "instances": [
+      {
+        "video_id": "65302"
+      }
+    ]
+  },
+  {
+    "id": "296",
+    "gloss": "careless",
+    "instances": [
+      {
+        "video_id": "70201"
+      }
+    ]
+  },
+  {
+    "id": "306",
+    "gloss": "ceiling",
+    "instances": [
+      {
+        "video_id": "65320"
+      }
+    ]
+  },
+  {
+    "id": "308",
+    "gloss": "cemetery",
+    "instances": [
+      {
+        "video_id": "65322"
+      }
+    ]
+  },
+  {
+    "id": "319",
+    "gloss": "chapter",
+    "instances": [
+      {
+        "video_id": "69266"
+      }
+    ]
+  },
+  {
+    "id": "338",
+    "gloss": "choir",
+    "instances": [
+      {
+        "video_id": "10600"
+      }
+    ]
+  },
+  {
+    "id": "347",
+    "gloss": "circle",
+    "instances": [
+      {
+        "video_id": "10820"
+      }
+    ]
+  },
+  {
+    "id": "374",
+    "gloss": "come",
+    "instances": [
+      {
+        "video_id": "69275"
+      }
+    ]
+  },
+  {
+    "id": "375",
+    "gloss": "come here",
+    "instances": [
+      {
+        "video_id": "11862"
+      }
+    ]
+  },
+  {
+    "id": "386",
+    "gloss": "company",
+    "instances": [
+      {
+        "video_id": "12107"
+      }
+    ]
+  },
+  {
+    "id": "390",
+    "gloss": "complete",
+    "instances": [
+      {
+        "video_id": "12217"
+      }
+    ]
+  },
+  {
+    "id": "395",
+    "gloss": "concept",
+    "instances": [
+      {
+        "video_id": "12408"
+      }
+    ]
+  },
+  {
+    "id": "396",
+    "gloss": "concern",
+    "instances": [
+      {
+        "video_id": "65393"
+      }
+    ]
+  },
+  {
+    "id": "398",
+    "gloss": "confront",
+    "instances": [
+      {
+        "video_id": "12603"
+      }
+    ]
+  },
+  {
+    "id": "399",
+    "gloss": "confused",
+    "instances": [
+      {
+        "video_id": "65396"
+      }
+    ]
+  },
+  {
+    "id": "401",
+    "gloss": "congress",
+    "instances": [
+      {
+        "video_id": "12649"
+      }
+    ]
+  },
+  {
+    "id": "402",
+    "gloss": "connect",
+    "instances": [
+      {
+        "video_id": "65397"
+      }
+    ]
+  },
+  {
+    "id": "403",
+    "gloss": "conquer",
+    "instances": [
+      {
+        "video_id": "12703"
+      }
+    ]
+  },
+  {
+    "id": "405",
+    "gloss": "constitution",
+    "instances": [
+      {
+        "video_id": "12809"
+      }
+    ]
+  },
+  {
+    "id": "411",
+    "gloss": "contract",
+    "instances": [
+      {
+        "video_id": "12987"
+      }
+    ]
+  },
+  {
+    "id": "433",
+    "gloss": "court",
+    "instances": [
+      {
+        "video_id": "70157"
+      }
+    ]
+  },
+  {
+    "id": "437",
+    "gloss": "crab",
+    "instances": [
+      {
+        "video_id": "13740"
+      }
+    ]
+  },
+  {
+    "id": "444",
+    "gloss": "cross",
+    "instances": [
+      {
+        "video_id": "14055"
+      }
+    ]
+  },
+  {
+    "id": "446",
+    "gloss": "cruel",
+    "instances": [
+      {
+        "video_id": "14126"
+      }
+    ]
+  },
+  {
+    "id": "447",
+    "gloss": "crush",
+    "instances": [
+      {
+        "video_id": "69286"
+      }
+    ]
+  },
+  {
+    "id": "468",
+    "gloss": "date",
+    "instances": [
+      {
+        "video_id": "14734"
+      }
+    ]
+  },
+  {
+    "id": "477",
+    "gloss": "december",
+    "instances": [
+      {
+        "video_id": "15018"
+      }
+    ]
+  },
+  {
+    "id": "480",
+    "gloss": "decrease",
+    "instances": [
+      {
+        "video_id": "15110"
+      }
+    ]
+  },
+  {
+    "id": "481",
+    "gloss": "deduct",
+    "instances": [
+      {
+        "video_id": "15140"
+      }
+    ]
+  },
+  {
+    "id": "484",
+    "gloss": "defeat",
+    "instances": [
+      {
+        "video_id": "15190"
+      }
+    ]
+  },
+  {
+    "id": "498",
+    "gloss": "deposit",
+    "instances": [
+      {
+        "video_id": "15632"
+      }
+    ]
+  },
+  {
+    "id": "499",
+    "gloss": "depressed",
+    "instances": [
+      {
+        "video_id": "70111"
+      }
+    ]
+  },
+  {
+    "id": "507",
+    "gloss": "detach",
+    "instances": [
+      {
+        "video_id": "15844"
+      }
+    ]
+  },
+  {
+    "id": "509",
+    "gloss": "determine",
+    "instances": [
+      {
+        "video_id": "15900"
+      }
+    ]
+  },
+  {
+    "id": "512",
+    "gloss": "diabetes",
+    "instances": [
+      {
+        "video_id": "16002"
+      }
+    ]
+  },
+  {
+    "id": "522",
+    "gloss": "dime",
+    "instances": [
+      {
+        "video_id": "16268"
+      }
+    ]
+  },
+  {
+    "id": "528",
+    "gloss": "dirt",
+    "instances": [
+      {
+        "video_id": "70374"
+      }
+    ]
+  },
+  {
+    "id": "537",
+    "gloss": "disgust",
+    "instances": [
+      {
+        "video_id": "16640"
+      }
+    ]
+  },
+  {
+    "id": "539",
+    "gloss": "dismiss",
+    "instances": [
+      {
+        "video_id": "16703"
+      }
+    ]
+  },
+  {
+    "id": "546",
+    "gloss": "dizzy",
+    "instances": [
+      {
+        "video_id": "65501"
+      }
+    ]
+  },
+  {
+    "id": "548",
+    "gloss": "document",
+    "instances": [
+      {
+        "video_id": "65505"
+      }
+    ]
+  },
+  {
+    "id": "556",
+    "gloss": "dorm",
+    "instances": [
+      {
+        "video_id": "17353"
+      }
+    ]
+  },
+  {
+    "id": "557",
+    "gloss": "dormitory",
+    "instances": [
+      {
+        "video_id": "65522"
+      }
+    ]
+  },
+  {
+    "id": "561",
+    "gloss": "downstairs",
+    "instances": [
+      {
+        "video_id": "17456"
+      }
+    ]
+  },
+  {
+    "id": "598",
+    "gloss": "economy",
+    "instances": [
+      {
+        "video_id": "18371"
+      }
+    ]
+  },
+  {
+    "id": "600",
+    "gloss": "education",
+    "instances": [
+      {
+        "video_id": "65606"
+      }
+    ]
+  },
+  {
+    "id": "601",
+    "gloss": "effort",
+    "instances": [
+      {
+        "video_id": "18476"
+      }
+    ]
+  },
+  {
+    "id": "605",
+    "gloss": "eighteen",
+    "instances": [
+      {
+        "video_id": "18550"
+      }
+    ]
+  },
+  {
+    "id": "621",
+    "gloss": "engage",
+    "instances": [
+      {
+        "video_id": "19183"
+      }
+    ]
+  },
+  {
+    "id": "622",
+    "gloss": "engagement",
+    "instances": [
+      {
+        "video_id": "67622"
+      }
+    ]
+  },
+  {
+    "id": "624",
+    "gloss": "engineer",
+    "instances": [
+      {
+        "video_id": "67623"
+      }
+    ]
+  },
+  {
+    "id": "631",
+    "gloss": "envelope",
+    "instances": [
+      {
+        "video_id": "67627"
+      }
+    ]
+  },
+  {
+    "id": "634",
+    "gloss": "erase",
+    "instances": [
+      {
+        "video_id": "65641"
+      }
+    ]
+  },
+  {
+    "id": "638",
+    "gloss": "eternity",
+    "instances": [
+      {
+        "video_id": "19654"
+      }
+    ]
+  },
+  {
+    "id": "641",
+    "gloss": "evening",
+    "instances": [
+      {
+        "video_id": "19742"
+      }
+    ]
+  },
+  {
+    "id": "646",
+    "gloss": "everyday",
+    "instances": [
+      {
+        "video_id": "19816"
+      }
+    ]
+  },
+  {
+    "id": "658",
+    "gloss": "expand",
+    "instances": [
+      {
+        "video_id": "20321"
+      }
+    ]
+  },
+  {
+    "id": "667",
+    "gloss": "eye",
+    "instances": [
+      {
+        "video_id": "69314"
+      }
+    ]
+  },
+  {
+    "id": "669",
+    "gloss": "eyes",
+    "instances": [
+      {
+        "video_id": "20661"
+      }
+    ]
+  },
+  {
+    "id": "676",
+    "gloss": "fake",
+    "instances": [
+      {
+        "video_id": "20868"
+      }
+    ]
+  },
+  {
+    "id": "684",
+    "gloss": "farmer",
+    "instances": [
+      {
+        "video_id": "21086"
+      }
+    ]
+  },
+  {
+    "id": "691",
+    "gloss": "february",
+    "instances": [
+      {
+        "video_id": "67651"
+      }
+    ]
+  },
+  {
+    "id": "692",
+    "gloss": "federal",
+    "instances": [
+      {
+        "video_id": "21370"
+      }
+    ]
+  },
+  {
+    "id": "700",
+    "gloss": "final",
+    "instances": [
+      {
+        "video_id": "21820"
+      }
+    ]
+  },
+  {
+    "id": "720",
+    "gloss": "florida",
+    "instances": [
+      {
+        "video_id": "22510"
+      }
+    ]
+  },
+  {
+    "id": "722",
+    "gloss": "flute",
+    "instances": [
+      {
+        "video_id": "65747"
+      }
+    ]
+  },
+  {
+    "id": "730",
+    "gloss": "forbid",
+    "instances": [
+      {
+        "video_id": "65757"
+      }
+    ]
+  },
+  {
+    "id": "732",
+    "gloss": "forever",
+    "instances": [
+      {
+        "video_id": "22926"
+      }
+    ]
+  },
+  {
+    "id": "739",
+    "gloss": "fourth",
+    "instances": [
+      {
+        "video_id": "65774"
+      }
+    ]
+  },
+  {
+    "id": "742",
+    "gloss": "free",
+    "instances": [
+      {
+        "video_id": "23414"
+      }
+    ]
+  },
+  {
+    "id": "746",
+    "gloss": "french fries",
+    "instances": [
+      {
+        "video_id": "23470"
+      }
+    ]
+  },
+  {
+    "id": "764",
+    "gloss": "gamble",
+    "instances": [
+      {
+        "video_id": "24014"
+      }
+    ]
+  },
+  {
+    "id": "768",
+    "gloss": "gas",
+    "instances": [
+      {
+        "video_id": "24127"
+      }
+    ]
+  },
+  {
+    "id": "769",
+    "gloss": "gasoline",
+    "instances": [
+      {
+        "video_id": "24131"
+      }
+    ]
+  },
+  {
+    "id": "773",
+    "gloss": "generation",
+    "instances": [
+      {
+        "video_id": "65805"
+      }
+    ]
+  },
+  {
+    "id": "774",
+    "gloss": "geography",
+    "instances": [
+      {
+        "video_id": "24329"
+      }
+    ]
+  },
+  {
+    "id": "776",
+    "gloss": "german",
+    "instances": [
+      {
+        "video_id": "24368"
+      }
+    ]
+  },
+  {
+    "id": "784",
+    "gloss": "girlfriend",
+    "instances": [
+      {
+        "video_id": "24596"
+      }
+    ]
+  },
+  {
+    "id": "794",
+    "gloss": "gold",
+    "instances": [
+      {
+        "video_id": "24995"
+      }
+    ]
+  },
+  {
+    "id": "807",
+    "gloss": "grandma",
+    "instances": [
+      {
+        "video_id": "25422"
+      }
+    ]
+  },
+  {
+    "id": "810",
+    "gloss": "grass",
+    "instances": [
+      {
+        "video_id": "25515"
+      }
+    ]
+  },
+  {
+    "id": "819",
+    "gloss": "grow up",
+    "instances": [
+      {
+        "video_id": "25871"
+      }
+    ]
+  },
+  {
+    "id": "825",
+    "gloss": "gun",
+    "instances": [
+      {
+        "video_id": "26012"
+      }
+    ]
+  },
+  {
+    "id": "830",
+    "gloss": "haircut",
+    "instances": [
+      {
+        "video_id": "69062"
+      }
+    ]
+  },
+  {
+    "id": "840",
+    "gloss": "hard of hearing",
+    "instances": [
+      {
+        "video_id": "26591"
+      }
+    ]
+  },
+  {
+    "id": "868",
+    "gloss": "hippopotamus",
+    "instances": [
+      {
+        "video_id": "27535"
+      }
+    ]
+  },
+  {
+    "id": "869",
+    "gloss": "his",
+    "instances": [
+      {
+        "video_id": "27553"
+      }
+    ]
+  },
+  {
+    "id": "878",
+    "gloss": "honey",
+    "instances": [
+      {
+        "video_id": "27848"
+      }
+    ]
+  },
+  {
+    "id": "895",
+    "gloss": "hurricane",
+    "instances": [
+      {
+        "video_id": "28413"
+      }
+    ]
+  },
+  {
+    "id": "902",
+    "gloss": "identify",
+    "instances": [
+      {
+        "video_id": "65919"
+      }
+    ]
+  },
+  {
+    "id": "913",
+    "gloss": "include",
+    "instances": [
+      {
+        "video_id": "29278"
+      }
+    ]
+  },
+  {
+    "id": "918",
+    "gloss": "infection",
+    "instances": [
+      {
+        "video_id": "65938"
+      }
+    ]
+  },
+  {
+    "id": "922",
+    "gloss": "innocent",
+    "instances": [
+      {
+        "video_id": "29791"
+      }
+    ]
+  },
+  {
+    "id": "923",
+    "gloss": "insect",
+    "instances": [
+      {
+        "video_id": "29842"
+      }
+    ]
+  },
+  {
+    "id": "927",
+    "gloss": "instead",
+    "instances": [
+      {
+        "video_id": "65945"
+      }
+    ]
+  },
+  {
+    "id": "928",
+    "gloss": "institute",
+    "instances": [
+      {
+        "video_id": "65947"
+      }
+    ]
+  },
+  {
+    "id": "932",
+    "gloss": "international",
+    "instances": [
+      {
+        "video_id": "30217"
+      }
+    ]
+  },
+  {
+    "id": "936",
+    "gloss": "interrupt",
+    "instances": [
+      {
+        "video_id": "30285"
+      }
+    ]
+  },
+  {
+    "id": "943",
+    "gloss": "involve",
+    "instances": [
+      {
+        "video_id": "30522"
+      }
+    ]
+  },
+  {
+    "id": "952",
+    "gloss": "jail",
+    "instances": [
+      {
+        "video_id": "30881"
+      }
+    ]
+  },
+  {
+    "id": "953",
+    "gloss": "january",
+    "instances": [
+      {
+        "video_id": "30921"
+      }
+    ]
+  },
+  {
+    "id": "960",
+    "gloss": "joke",
+    "instances": [
+      {
+        "video_id": "31179"
+      }
+    ]
+  },
+  {
+    "id": "966",
+    "gloss": "june",
+    "instances": [
+      {
+        "video_id": "31346"
+      }
+    ]
+  },
+  {
+    "id": "968",
+    "gloss": "kangaroo",
+    "instances": [
+      {
+        "video_id": "65986"
+      }
+    ]
+  },
+  {
+    "id": "969",
+    "gloss": "karate",
+    "instances": [
+      {
+        "video_id": "31457"
+      }
+    ]
+  },
+  {
+    "id": "973",
+    "gloss": "kick",
+    "instances": [
+      {
+        "video_id": "65990"
+      }
+    ]
+  },
+  {
+    "id": "980",
+    "gloss": "kneel",
+    "instances": [
+      {
+        "video_id": "67819"
+      }
+    ]
+  },
+  {
+    "id": "982",
+    "gloss": "knock",
+    "instances": [
+      {
+        "video_id": "31886"
+      }
+    ]
+  },
+  {
+    "id": "989",
+    "gloss": "laptop",
+    "instances": [
+      {
+        "video_id": "32197"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "gloss": "accent",
+    "instances": [
+      {
+        "video_id": "00581"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "gloss": "act",
+    "instances": [
+      {
+        "video_id": "65014"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "gloss": "adapt",
+    "instances": [
+      {
+        "video_id": "00943"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "gloss": "adjective",
+    "instances": [
+      {
+        "video_id": "01062"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "gloss": "adjust",
+    "instances": [
+      {
+        "video_id": "01073"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "gloss": "admire",
+    "instances": [
+      {
+        "video_id": "65020"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "gloss": "admit",
+    "instances": [
+      {
+        "video_id": "65021"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "gloss": "advanced",
+    "instances": [
+      {
+        "video_id": "01224"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "gloss": "adverb",
+    "instances": [
+      {
+        "video_id": "01263"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "gloss": "agreement",
+    "instances": [
+      {
+        "video_id": "65037"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "gloss": "aid",
+    "instances": [
+      {
+        "video_id": "01621"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "gloss": "alligator",
+    "instances": [
+      {
+        "video_id": "02008"
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "gloss": "amputate",
+    "instances": [
+      {
+        "video_id": "02429"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "gloss": "anatomy",
+    "instances": [
+      {
+        "video_id": "02484"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "gloss": "annoy",
+    "instances": [
+      {
+        "video_id": "02634"
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "gloss": "anyway",
+    "instances": [
+      {
+        "video_id": "02850"
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "gloss": "approach",
+    "instances": [
+      {
+        "video_id": "03089"
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "gloss": "arizona",
+    "instances": [
+      {
+        "video_id": "03311"
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "gloss": "assist",
+    "instances": [
+      {
+        "video_id": "03750"
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "gloss": "assume",
+    "instances": [
+      {
+        "video_id": "03797"
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "gloss": "attorney",
+    "instances": [
+      {
+        "video_id": "04049"
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "gloss": "audiologist",
+    "instances": [
+      {
+        "video_id": "04128"
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "gloss": "audiology",
+    "instances": [
+      {
+        "video_id": "04135"
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "gloss": "austria",
+    "instances": [
+      {
+        "video_id": "04200"
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "gloss": "author",
+    "instances": [
+      {
+        "video_id": "04216"
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "gloss": "available",
+    "instances": [
+      {
+        "video_id": "04300"
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "gloss": "award",
+    "instances": [
+      {
+        "video_id": "04363"
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "gloss": "aware",
+    "instances": [
+      {
+        "video_id": "04374"
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "gloss": "bank",
+    "instances": [
+      {
+        "video_id": "04971"
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "gloss": "baptize",
+    "instances": [
+      {
+        "video_id": "05016"
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "gloss": "basic",
+    "instances": [
+      {
+        "video_id": "05215"
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "gloss": "battery",
+    "instances": [
+      {
+        "video_id": "65149"
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "gloss": "berry",
+    "instances": [
+      {
+        "video_id": "05986"
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "gloss": "beside",
+    "instances": [
+      {
+        "video_id": "05997"
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "gloss": "between",
+    "instances": [
+      {
+        "video_id": "06077"
+      }
+    ]
+  },
+  {
+    "id": "190",
+    "gloss": "binoculars",
+    "instances": [
+      {
+        "video_id": "06298"
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "gloss": "blow",
+    "instances": [
+      {
+        "video_id": "06787"
+      }
+    ]
+  },
+  {
+    "id": "206",
+    "gloss": "boast",
+    "instances": [
+      {
+        "video_id": "06922"
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "gloss": "boil",
+    "instances": [
+      {
+        "video_id": "06967"
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "gloss": "bookshelf",
+    "instances": [
+      {
+        "video_id": "07113"
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "gloss": "bookstore",
+    "instances": [
+      {
+        "video_id": "07126"
+      }
+    ]
+  },
+  {
+    "id": "225",
+    "gloss": "boxing",
+    "instances": [
+      {
+        "video_id": "07425"
+      }
+    ]
+  },
+  {
+    "id": "231",
+    "gloss": "braid",
+    "instances": [
+      {
+        "video_id": "07506"
+      }
+    ]
+  },
+  {
+    "id": "232",
+    "gloss": "brain",
+    "instances": [
+      {
+        "video_id": "07523"
+      }
+    ]
+  },
+  {
+    "id": "236",
+    "gloss": "breakdown",
+    "instances": [
+      {
+        "video_id": "07611"
+      }
+    ]
+  },
+  {
+    "id": "237",
+    "gloss": "breakfast",
+    "instances": [
+      {
+        "video_id": "07624"
+      }
+    ]
+  },
+  {
+    "id": "239",
+    "gloss": "breeze",
+    "instances": [
+      {
+        "video_id": "07699"
+      }
+    ]
+  },
+  {
+    "id": "240",
+    "gloss": "bribe",
+    "instances": [
+      {
+        "video_id": "07715"
+      }
+    ]
+  },
+  {
+    "id": "245",
+    "gloss": "brochure",
+    "instances": [
+      {
+        "video_id": "07860"
+      }
+    ]
+  },
+  {
+    "id": "250",
+    "gloss": "buffalo",
+    "instances": [
+      {
+        "video_id": "08087"
+      }
+    ]
+  },
+  {
+    "id": "256",
+    "gloss": "burp",
+    "instances": [
+      {
+        "video_id": "08300"
+      }
+    ]
+  },
+  {
+    "id": "258",
+    "gloss": "bush",
+    "instances": [
+      {
+        "video_id": "08338"
+      }
+    ]
+  },
+  {
+    "id": "266",
+    "gloss": "bye",
+    "instances": [
+      {
+        "video_id": "08510"
+      }
+    ]
+  },
+  {
+    "id": "277",
+    "gloss": "camel",
+    "instances": [
+      {
+        "video_id": "08772"
+      }
+    ]
+  },
+  {
+    "id": "284",
+    "gloss": "candidate",
+    "instances": [
+      {
+        "video_id": "08888"
+      }
+    ]
+  },
+  {
+    "id": "287",
+    "gloss": "cannot",
+    "instances": [
+      {
+        "video_id": "65301"
+      }
+    ]
+  },
+  {
+    "id": "289",
+    "gloss": "captain",
+    "instances": [
+      {
+        "video_id": "09078"
+      }
+    ]
+  },
+  {
+    "id": "297",
+    "gloss": "carnival",
+    "instances": [
+      {
+        "video_id": "09256"
+      }
+    ]
+  },
+  {
+    "id": "326",
+    "gloss": "cheerleader",
+    "instances": [
+      {
+        "video_id": "10249"
+      }
+    ]
+  },
+  {
+    "id": "328",
+    "gloss": "chemical",
+    "instances": [
+      {
+        "video_id": "10295"
+      }
+    ]
+  },
+  {
+    "id": "331",
+    "gloss": "chicago",
+    "instances": [
+      {
+        "video_id": "10388"
+      }
+    ]
+  },
+  {
+    "id": "339",
+    "gloss": "choke",
+    "instances": [
+      {
+        "video_id": "10608"
+      }
+    ]
+  },
+  {
+    "id": "342",
+    "gloss": "christ",
+    "instances": [
+      {
+        "video_id": "10673"
+      }
+    ]
+  },
+  {
+    "id": "354",
+    "gloss": "click",
+    "instances": [
+      {
+        "video_id": "11103"
+      }
+    ]
+  },
+  {
+    "id": "358",
+    "gloss": "closet",
+    "instances": [
+      {
+        "video_id": "11292"
+      }
+    ]
+  },
+  {
+    "id": "362",
+    "gloss": "clueless",
+    "instances": [
+      {
+        "video_id": "11408"
+      }
+    ]
+  },
+  {
+    "id": "363",
+    "gloss": "clumsy",
+    "instances": [
+      {
+        "video_id": "11418"
+      }
+    ]
+  },
+  {
+    "id": "370",
+    "gloss": "collect",
+    "instances": [
+      {
+        "video_id": "11686"
+      }
+    ]
+  },
+  {
+    "id": "377",
+    "gloss": "comma",
+    "instances": [
+      {
+        "video_id": "11929"
+      }
+    ]
+  },
+  {
+    "id": "379",
+    "gloss": "comment",
+    "instances": [
+      {
+        "video_id": "65382"
+      }
+    ]
+  },
+  {
+    "id": "380",
+    "gloss": "commit",
+    "instances": [
+      {
+        "video_id": "11994"
+      }
+    ]
+  },
+  {
+    "id": "381",
+    "gloss": "committee",
+    "instances": [
+      {
+        "video_id": "12004"
+      }
+    ]
+  },
+  {
+    "id": "383",
+    "gloss": "common sense",
+    "instances": [
+      {
+        "video_id": "12022"
+      }
+    ]
+  },
+  {
+    "id": "388",
+    "gloss": "compete",
+    "instances": [
+      {
+        "video_id": "12158"
+      }
+    ]
+  },
+  {
+    "id": "394",
+    "gloss": "concentrate",
+    "instances": [
+      {
+        "video_id": "12387"
+      }
+    ]
+  },
+  {
+    "id": "400",
+    "gloss": "congratulations",
+    "instances": [
+      {
+        "video_id": "12636"
+      }
+    ]
+  },
+  {
+    "id": "404",
+    "gloss": "consider",
+    "instances": [
+      {
+        "video_id": "12749"
+      }
+    ]
+  },
+  {
+    "id": "406",
+    "gloss": "construct",
+    "instances": [
+      {
+        "video_id": "12819"
+      }
+    ]
+  },
+  {
+    "id": "407",
+    "gloss": "consume",
+    "instances": [
+      {
+        "video_id": "65398"
+      }
+    ]
+  },
+  {
+    "id": "409",
+    "gloss": "contest",
+    "instances": [
+      {
+        "video_id": "12941"
+      }
+    ]
+  },
+  {
+    "id": "414",
+    "gloss": "conversation",
+    "instances": [
+      {
+        "video_id": "13087"
+      }
+    ]
+  },
+  {
+    "id": "415",
+    "gloss": "convert",
+    "instances": [
+      {
+        "video_id": "13106"
+      }
+    ]
+  },
+  {
+    "id": "420",
+    "gloss": "cooperate",
+    "instances": [
+      {
+        "video_id": "13222"
+      }
+    ]
+  },
+  {
+    "id": "429",
+    "gloss": "counsel",
+    "instances": [
+      {
+        "video_id": "13498"
+      }
+    ]
+  },
+  {
+    "id": "430",
+    "gloss": "counselor",
+    "instances": [
+      {
+        "video_id": "13507"
+      }
+    ]
+  },
+  {
+    "id": "440",
+    "gloss": "crave",
+    "instances": [
+      {
+        "video_id": "65420"
+      }
+    ]
+  },
+  {
+    "id": "442",
+    "gloss": "create",
+    "instances": [
+      {
+        "video_id": "67541"
+      }
+    ]
+  },
+  {
+    "id": "443",
+    "gloss": "crocodile",
+    "instances": [
+      {
+        "video_id": "65425"
+      }
+    ]
+  },
+  {
+    "id": "445",
+    "gloss": "crown",
+    "instances": [
+      {
+        "video_id": "14101"
+      }
+    ]
+  },
+  {
+    "id": "449",
+    "gloss": "cuba",
+    "instances": [
+      {
+        "video_id": "14202"
+      }
+    ]
+  },
+  {
+    "id": "455",
+    "gloss": "curtain",
+    "instances": [
+      {
+        "video_id": "14390"
+      }
+    ]
+  },
+  {
+    "id": "456",
+    "gloss": "customer",
+    "instances": [
+      {
+        "video_id": "14431"
+      }
+    ]
+  },
+  {
+    "id": "459",
+    "gloss": "d",
+    "instances": [
+      {
+        "video_id": "66042"
+      }
+    ]
+  },
+  {
+    "id": "462",
+    "gloss": "damage",
+    "instances": [
+      {
+        "video_id": "14601"
+      }
+    ]
+  },
+  {
+    "id": "464",
+    "gloss": "dancer",
+    "instances": [
+      {
+        "video_id": "14634"
+      }
+    ]
+  },
+  {
+    "id": "465",
+    "gloss": "danger",
+    "instances": [
+      {
+        "video_id": "14644"
+      }
+    ]
+  },
+  {
+    "id": "466",
+    "gloss": "dangerous",
+    "instances": [
+      {
+        "video_id": "65438"
+      }
+    ]
+  },
+  {
+    "id": "470",
+    "gloss": "dawn",
+    "instances": [
+      {
+        "video_id": "14772"
+      }
+    ]
+  },
+  {
+    "id": "474",
+    "gloss": "death",
+    "instances": [
+      {
+        "video_id": "14952"
+      }
+    ]
+  },
+  {
+    "id": "475",
+    "gloss": "debate",
+    "instances": [
+      {
+        "video_id": "14960"
+      }
+    ]
+  },
+  {
+    "id": "476",
+    "gloss": "debt",
+    "instances": [
+      {
+        "video_id": "14978"
+      }
+    ]
+  },
+  {
+    "id": "489",
+    "gloss": "deliver",
+    "instances": [
+      {
+        "video_id": "15397"
+      }
+    ]
+  },
+  {
+    "id": "491",
+    "gloss": "democrat",
+    "instances": [
+      {
+        "video_id": "15447"
+      }
+    ]
+  },
+  {
+    "id": "500",
+    "gloss": "descend",
+    "instances": [
+      {
+        "video_id": "15691"
+      }
+    ]
+  },
+  {
+    "id": "503",
+    "gloss": "design",
+    "instances": [
+      {
+        "video_id": "15741"
+      }
+    ]
+  },
+  {
+    "id": "508",
+    "gloss": "detective",
+    "instances": [
+      {
+        "video_id": "15874"
+      }
+    ]
+  },
+  {
+    "id": "511",
+    "gloss": "devil",
+    "instances": [
+      {
+        "video_id": "15956"
+      }
+    ]
+  },
+  {
+    "id": "516",
+    "gloss": "dice",
+    "instances": [
+      {
+        "video_id": "65478"
+      }
+    ]
+  },
+  {
+    "id": "520",
+    "gloss": "difficult",
+    "instances": [
+      {
+        "video_id": "16211"
+      }
+    ]
+  },
+  {
+    "id": "523",
+    "gloss": "dining room",
+    "instances": [
+      {
+        "video_id": "16313"
+      }
+    ]
+  },
+  {
+    "id": "532",
+    "gloss": "discipline",
+    "instances": [
+      {
+        "video_id": "16502"
+      }
+    ]
+  },
+  {
+    "id": "534",
+    "gloss": "discount",
+    "instances": [
+      {
+        "video_id": "16540"
+      }
+    ]
+  },
+  {
+    "id": "538",
+    "gloss": "disgusted",
+    "instances": [
+      {
+        "video_id": "65492"
+      }
+    ]
+  },
+  {
+    "id": "541",
+    "gloss": "disturb",
+    "instances": [
+      {
+        "video_id": "16872"
+      }
+    ]
+  },
+  {
+    "id": "544",
+    "gloss": "division",
+    "instances": [
+      {
+        "video_id": "16949"
+      }
+    ]
+  },
+  {
+    "id": "554",
+    "gloss": "done",
+    "instances": [
+      {
+        "video_id": "69300"
+      }
+    ]
+  },
+  {
+    "id": "562",
+    "gloss": "drag",
+    "instances": [
+      {
+        "video_id": "17511"
+      }
+    ]
+  },
+  {
+    "id": "563",
+    "gloss": "dragon",
+    "instances": [
+      {
+        "video_id": "17529"
+      }
+    ]
+  },
+  {
+    "id": "564",
+    "gloss": "drama",
+    "instances": [
+      {
+        "video_id": "17557"
+      }
+    ]
+  },
+  {
+    "id": "572",
+    "gloss": "drug",
+    "instances": [
+      {
+        "video_id": "17885"
+      }
+    ]
+  },
+  {
+    "id": "577",
+    "gloss": "due",
+    "instances": [
+      {
+        "video_id": "17958"
+      }
+    ]
+  },
+  {
+    "id": "578",
+    "gloss": "dull",
+    "instances": [
+      {
+        "video_id": "17968"
+      }
+    ]
+  },
+  {
+    "id": "581",
+    "gloss": "dusk",
+    "instances": [
+      {
+        "video_id": "18037"
+      }
+    ]
+  },
+  {
+    "id": "583",
+    "gloss": "dvd",
+    "instances": [
+      {
+        "video_id": "18069"
+      }
+    ]
+  },
+  {
+    "id": "584",
+    "gloss": "dye",
+    "instances": [
+      {
+        "video_id": "18090"
+      }
+    ]
+  },
+  {
+    "id": "585",
+    "gloss": "e",
+    "instances": [
+      {
+        "video_id": "18107"
+      }
+    ]
+  },
+  {
+    "id": "606",
+    "gloss": "either",
+    "instances": [
+      {
+        "video_id": "18640"
+      }
+    ]
+  },
+  {
+    "id": "608",
+    "gloss": "electricity",
+    "instances": [
+      {
+        "video_id": "18727"
+      }
+    ]
+  },
+  {
+    "id": "609",
+    "gloss": "elementary",
+    "instances": [
+      {
+        "video_id": "18755"
+      }
+    ]
+  },
+  {
+    "id": "612",
+    "gloss": "else",
+    "instances": [
+      {
+        "video_id": "18854"
+      }
+    ]
+  },
+  {
+    "id": "615",
+    "gloss": "emergency",
+    "instances": [
+      {
+        "video_id": "18939"
+      }
+    ]
+  },
+  {
+    "id": "623",
+    "gloss": "engine",
+    "instances": [
+      {
+        "video_id": "19198"
+      }
+    ]
+  },
+  {
+    "id": "628",
+    "gloss": "enormous",
+    "instances": [
+      {
+        "video_id": "19297"
+      }
+    ]
+  },
+  {
+    "id": "635",
+    "gloss": "eraser",
+    "instances": [
+      {
+        "video_id": "19512"
+      }
+    ]
+  },
+  {
+    "id": "644",
+    "gloss": "every monday",
+    "instances": [
+      {
+        "video_id": "19851"
+      }
+    ]
+  },
+  {
+    "id": "645",
+    "gloss": "every tuesday",
+    "instances": [
+      {
+        "video_id": "19929"
+      }
+    ]
+  },
+  {
+    "id": "647",
+    "gloss": "everything",
+    "instances": [
+      {
+        "video_id": "19909"
+      }
+    ]
+  },
+  {
+    "id": "652",
+    "gloss": "except",
+    "instances": [
+      {
+        "video_id": "20108"
+      }
+    ]
+  },
+  {
+    "id": "657",
+    "gloss": "exhibit",
+    "instances": [
+      {
+        "video_id": "20256"
+      }
+    ]
+  },
+  {
+    "id": "665",
+    "gloss": "explode",
+    "instances": [
+      {
+        "video_id": "20455"
+      }
+    ]
+  },
+  {
+    "id": "666",
+    "gloss": "express",
+    "instances": [
+      {
+        "video_id": "20508"
+      }
+    ]
+  },
+  {
+    "id": "670",
+    "gloss": "f",
+    "instances": [
+      {
+        "video_id": "20670"
+      }
+    ]
+  },
+  {
+    "id": "675",
+    "gloss": "fairy",
+    "instances": [
+      {
+        "video_id": "20836"
+      }
+    ]
+  },
+  {
+    "id": "678",
+    "gloss": "familiar",
+    "instances": [
+      {
+        "video_id": "20965"
+      }
+    ]
+  },
+  {
+    "id": "697",
+    "gloss": "festival",
+    "instances": [
+      {
+        "video_id": "21524"
+      }
+    ]
+  },
+  {
+    "id": "702",
+    "gloss": "finance",
+    "instances": [
+      {
+        "video_id": "21837"
+      }
+    ]
+  },
+  {
+    "id": "705",
+    "gloss": "fingerspell",
+    "instances": [
+      {
+        "video_id": "21925"
+      }
+    ]
+  },
+  {
+    "id": "707",
+    "gloss": "fire",
+    "instances": [
+      {
+        "video_id": "22015"
+      }
+    ]
+  },
+  {
+    "id": "708",
+    "gloss": "firefighter",
+    "instances": [
+      {
+        "video_id": "65726"
+      }
+    ]
+  },
+  {
+    "id": "712",
+    "gloss": "five",
+    "instances": [
+      {
+        "video_id": "69326"
+      }
+    ]
+  },
+  {
+    "id": "715",
+    "gloss": "flatter",
+    "instances": [
+      {
+        "video_id": "22356"
+      }
+    ]
+  },
+  {
+    "id": "727",
+    "gloss": "fool",
+    "instances": [
+      {
+        "video_id": "65754"
+      }
+    ]
+  },
+  {
+    "id": "734",
+    "gloss": "forgive",
+    "instances": [
+      {
+        "video_id": "22973"
+      }
+    ]
+  },
+  {
+    "id": "737",
+    "gloss": "former",
+    "instances": [
+      {
+        "video_id": "23029"
+      }
+    ]
+  },
+  {
+    "id": "743",
+    "gloss": "freeway",
+    "instances": [
+      {
+        "video_id": "23432"
+      }
+    ]
+  },
+  {
+    "id": "752",
+    "gloss": "from now on",
+    "instances": [
+      {
+        "video_id": "23646"
+      }
+    ]
+  },
+  {
+    "id": "762",
+    "gloss": "g",
+    "instances": [
+      {
+        "video_id": "23959"
+      }
+    ]
+  },
+  {
+    "id": "766",
+    "gloss": "gang",
+    "instances": [
+      {
+        "video_id": "24042"
+      }
+    ]
+  },
+  {
+    "id": "771",
+    "gloss": "gay",
+    "instances": [
+      {
+        "video_id": "65804"
+      }
+    ]
+  },
+  {
+    "id": "775",
+    "gloss": "geometry",
+    "instances": [
+      {
+        "video_id": "24343"
+      }
+    ]
+  },
+  {
+    "id": "779",
+    "gloss": "get up",
+    "instances": [
+      {
+        "video_id": "65814"
+      }
+    ]
+  },
+  {
+    "id": "781",
+    "gloss": "gift",
+    "instances": [
+      {
+        "video_id": "24539"
+      }
+    ]
+  },
+  {
+    "id": "802",
+    "gloss": "grab",
+    "instances": [
+      {
+        "video_id": "25270"
+      }
+    ]
+  },
+  {
+    "id": "804",
+    "gloss": "graduation",
+    "instances": [
+      {
+        "video_id": "25350"
+      }
+    ]
+  },
+  {
+    "id": "811",
+    "gloss": "grateful",
+    "instances": [
+      {
+        "video_id": "25521"
+      }
+    ]
+  },
+  {
+    "id": "816",
+    "gloss": "grey",
+    "instances": [
+      {
+        "video_id": "68502"
+      }
+    ]
+  },
+  {
+    "id": "826",
+    "gloss": "gymnastics",
+    "instances": [
+      {
+        "video_id": "26062"
+      }
+    ]
+  },
+  {
+    "id": "827",
+    "gloss": "h",
+    "instances": [
+      {
+        "video_id": "26074"
+      }
+    ]
+  },
+  {
+    "id": "835",
+    "gloss": "hang up",
+    "instances": [
+      {
+        "video_id": "65877"
+      }
+    ]
+  },
+  {
+    "id": "836",
+    "gloss": "hanukkah",
+    "instances": [
+      {
+        "video_id": "26483"
+      }
+    ]
+  },
+  {
+    "id": "848",
+    "gloss": "heap",
+    "instances": [
+      {
+        "video_id": "65883"
+      }
+    ]
+  },
+  {
+    "id": "853",
+    "gloss": "heart attack",
+    "instances": [
+      {
+        "video_id": "27017"
+      }
+    ]
+  },
+  {
+    "id": "867",
+    "gloss": "hill",
+    "instances": [
+      {
+        "video_id": "27485"
+      }
+    ]
+  },
+  {
+    "id": "874",
+    "gloss": "holy",
+    "instances": [
+      {
+        "video_id": "27752"
+      }
+    ]
+  },
+  {
+    "id": "880",
+    "gloss": "hop",
+    "instances": [
+      {
+        "video_id": "27915"
+      }
+    ]
+  },
+  {
+    "id": "884",
+    "gloss": "host",
+    "instances": [
+      {
+        "video_id": "28050"
+      }
+    ]
+  },
+  {
+    "id": "886",
+    "gloss": "hot dog",
+    "instances": [
+      {
+        "video_id": "28085"
+      }
+    ]
+  },
+  {
+    "id": "891",
+    "gloss": "human",
+    "instances": [
+      {
+        "video_id": "28285"
+      }
+    ]
+  },
+  {
+    "id": "899",
+    "gloss": "i",
+    "instances": [
+      {
+        "video_id": "28557"
+      }
+    ]
+  },
+  {
+    "id": "905",
+    "gloss": "ill",
+    "instances": [
+      {
+        "video_id": "28823"
+      }
+    ]
+  },
+  {
+    "id": "906",
+    "gloss": "illegal",
+    "instances": [
+      {
+        "video_id": "28811"
+      }
+    ]
+  },
+  {
+    "id": "908",
+    "gloss": "impact",
+    "instances": [
+      {
+        "video_id": "65925"
+      }
+    ]
+  },
+  {
+    "id": "917",
+    "gloss": "individual",
+    "instances": [
+      {
+        "video_id": "29461"
+      }
+    ]
+  },
+  {
+    "id": "925",
+    "gloss": "inspect",
+    "instances": [
+      {
+        "video_id": "29897"
+      }
+    ]
+  },
+  {
+    "id": "926",
+    "gloss": "inspire",
+    "instances": [
+      {
+        "video_id": "65943"
+      }
+    ]
+  },
+  {
+    "id": "937",
+    "gloss": "intersection",
+    "instances": [
+      {
+        "video_id": "30297"
+      }
+    ]
+  },
+  {
+    "id": "945",
+    "gloss": "ireland",
+    "instances": [
+      {
+        "video_id": "30582"
+      }
+    ]
+  },
+  {
+    "id": "946",
+    "gloss": "iron",
+    "instances": [
+      {
+        "video_id": "65964"
+      }
+    ]
+  },
+  {
+    "id": "950",
+    "gloss": "j",
+    "instances": [
+      {
+        "video_id": "30820"
+      }
+    ]
+  },
+  {
+    "id": "957",
+    "gloss": "jewelry",
+    "instances": [
+      {
+        "video_id": "31072"
+      }
+    ]
+  },
+  {
+    "id": "961",
+    "gloss": "journey",
+    "instances": [
+      {
+        "video_id": "31216"
+      }
+    ]
+  },
+  {
+    "id": "962",
+    "gloss": "joy",
+    "instances": [
+      {
+        "video_id": "31232"
+      }
+    ]
+  },
+  {
+    "id": "964",
+    "gloss": "july",
+    "instances": [
+      {
+        "video_id": "31297"
+      }
+    ]
+  },
+  {
+    "id": "967",
+    "gloss": "k",
+    "instances": [
+      {
+        "video_id": "31436"
+      }
+    ]
+  },
+  {
+    "id": "974",
+    "gloss": "kid",
+    "instances": [
+      {
+        "video_id": "65991"
+      }
+    ]
+  },
+  {
+    "id": "976",
+    "gloss": "kindergarten",
+    "instances": [
+      {
+        "video_id": "31687"
+      }
+    ]
+  },
+  {
+    "id": "985",
+    "gloss": "lady",
+    "instances": [
+      {
+        "video_id": "32046"
+      }
+    ]
+  },
+  {
+    "id": "986",
+    "gloss": "lamp",
+    "instances": [
+      {
+        "video_id": "32092"
+      }
+    ]
+  },
+  {
+    "id": "992",
+    "gloss": "last week",
+    "instances": [
+      {
+        "video_id": "32275"
+      }
+    ]
+  },
+  {
+    "id": "997",
+    "gloss": "laundry",
+    "instances": [
+      {
+        "video_id": "32419"
+      }
+    ]
+  }
+]
