@@ -40,4 +40,5 @@ keyframe_videos_old
 # Train
 /Train/checkpoints
 /Train/logs
+*.zip
 
